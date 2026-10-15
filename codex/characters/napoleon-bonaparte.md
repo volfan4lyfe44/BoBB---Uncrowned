@@ -1,9 +1,9 @@
 ---
 type: character
-name: Napolean Bonaparte
+name: Napoleon Bonaparte
 color: null
 aliases:
-  - Napolean
+  - Napoleon
   - Bonaparte
 tags:
   - Secondary Character

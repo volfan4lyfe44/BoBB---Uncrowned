@@ -1,4 +1,4 @@
-# Chapter 7 (Part 2, Chapter 2): Untitled
+# Chapter 7 (Part 2, Chapter 2): Away From What I Left
 
 ##### **Scene 1: Departing the Shelter (2–3 pages)**
 
@@ -270,7 +270,7 @@ And this time, he did not look back.
 
 - Bray begins to weaken—hunger now impossible to ignore
 
-- Flashback memory: *Bray talking with his dream colleges—University of Tennesssee and Wake Forest University—about playing college football on scholarship.* His parents telling him how proud they were of his potential for a free college education.
+- Flashback memory: *Bray talking with his dream colleges—University of Tennessee and Wake Forest University—about playing college football on scholarship.* His parents telling him how proud they were of his potential for a free college education.
 
 - As hunger peaks, Bray **discovers edible moss** growing in the cracks of a stone cairn. Carefully tests it—tastes foul but keeps it down
 

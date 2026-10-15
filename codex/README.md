@@ -16,7 +16,7 @@ World-building reference exported from Novelcrafter. Each entry keeps its Novelc
 | [Charles XII](characters/charles-xii.md) | Secondary Character | Covenant of the Eternal Empire | Charles | Drafted |
 | [Erwin Rommel](characters/erwin-rommel.md) | Secondary Character | Covenant of the Eternal Empire | Rommel, Erwin | Drafted |
 | [Hannibal Barca](characters/hannibal-barca.md) | Secondary Character | Covenant of the Eternal Empire | Hannibal, Barca | Drafted |
-| [Napolean Bonaparte](characters/napoleon-bonaparte.md) | Secondary Character | Covenant of the Eternal Empire | Napolean, Bonaparte | Drafted |
+| [Napoleon Bonaparte](characters/napoleon-bonaparte.md) | Secondary Character | Covenant of the Eternal Empire | Napoleon, Bonaparte | Drafted |
 | [Thomas "Stonewall" Jackson](characters/thomas-stonewall-jackson.md) | Secondary Character | Covenant of the Eternal Empire | Stonewall, Gen. Jackson, Thomas, Jackson | Drafted |
 | [Jean Lannes](characters/jean-lannes.md) | (none) | The Last Cohort | (none) | Stub, needs content |
 | [Joan of Arc](characters/joan-of-arc.md) | (none) | The Last Cohort | (none) | Stub, needs content |
@@ -35,7 +35,7 @@ World-building reference exported from Novelcrafter. Each entry keeps its Novelc
 
 | Entry | Members / Contains | Status |
 |---|---|---|
-| [Covenant of the Eternal Empire](lore/covenant-of-the-eternal-empire.md) | Alexander the Great, Attila the Hun, Charles XII, Erwin Rommel, Hannibal Barca, Napolean Bonaparte, Thomas "Stonewall" Jackson | Drafted |
+| [Covenant of the Eternal Empire](lore/covenant-of-the-eternal-empire.md) | Alexander the Great, Attila the Hun, Charles XII, Erwin Rommel, Hannibal Barca, Napoleon Bonaparte, Thomas "Stonewall" Jackson | Drafted |
 | [Creation Myths of Eirion](lore/creation-myths-of-eirion.md) | Eirion | Drafted |
 | [The Gate of Still Flame](lore/the-gate-of-still-flame.md) | (none) | Drafted |
 | [The Last Cohort](lore/the-last-cohort.md) | Jean Lannes, Joan of Arc, Jock Lewes, Nathan Hale, Spartacus, Toussaint Louverture | Drafted |

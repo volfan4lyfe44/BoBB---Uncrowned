@@ -26,10 +26,10 @@ Lieutenant briefs Peyton Bray and his platoon on their mission to clear a suspec
 
 ## Part 2: The Bastion of Broken Banners
 
-### Chapter 6 (Part 2, Chapter 1): Untitled
+### Chapter 6 (Part 2, Chapter 1): The Grey Waking
 
 Peyton wakes up in a strange, grey landscape with no memory of how he got there. He notices the harsh air and a strange, crystalline substance covering the ground. He remembers his service in Vietnam and basic survival necessities as he tries to find direction and shelter. He thinks about past experiences like football and memories of his colleagues. He finds a shelter with an ancient inscription warning of slavery and a tyrant. Peyton builds a fire and drinks from a water source, still searching for answers in the desolate expanse. He falls asleep with dreams of violence and wakes with a fear that his survival wasn't meant to be.
 
-### Chapter 7 (Part 2, Chapter 2): Untitled
+### Chapter 7 (Part 2, Chapter 2): Away From What I Left
 
 _No summary yet._

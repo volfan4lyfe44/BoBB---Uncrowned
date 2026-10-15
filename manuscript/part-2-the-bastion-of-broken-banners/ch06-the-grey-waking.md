@@ -1,4 +1,4 @@
-# Chapter 6 (Part 2, Chapter 1): Untitled
+# Chapter 6 (Part 2, Chapter 1): The Grey Waking
 
 His eyes fluttered open, blinking away the fog of unconsciousness. It took him a moment to realize he wasn't dead, but he couldn't say where he was or how he got there. He tried to sit up, but a wave of dizziness forced him back onto what felt like damp soil.
 
