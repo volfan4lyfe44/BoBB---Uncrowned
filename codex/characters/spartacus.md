@@ -4,7 +4,8 @@ name: Spartacus
 color: null
 aliases:
   - Spartacus
-tags: []
+tags:
+  - Primary Character
 alwaysIncludeInContext: false
 doNotTrack: false
 noAutoInclude: false

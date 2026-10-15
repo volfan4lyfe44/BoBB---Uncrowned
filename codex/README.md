@@ -21,8 +21,8 @@ World-building reference exported from Novelcrafter. Each entry keeps its Novelc
 | [Jean Lannes](characters/jean-lannes.md) | (none) | The Last Cohort | (none) | Stub, needs content |
 | [Joan of Arc](characters/joan-of-arc.md) | (none) | The Last Cohort | (none) | Stub, needs content |
 | [Jock Lewes](characters/jock-lewes.md) | (none) | The Last Cohort | (none) | Stub, needs content |
-| [Spartacus](characters/spartacus.md) | (none) | The Last Cohort | Spartacus | Drafted |
-| [Toussaint Louverture](characters/toussaint-louverture.md) | (none) | The Last Cohort | Toussaint, Louverture | Drafted |
+| [Spartacus](characters/spartacus.md) | Primary Character | The Last Cohort | Spartacus | Drafted |
+| [Toussaint Louverture](characters/toussaint-louverture.md) | Primary Character | The Last Cohort | Toussaint, Louverture | Drafted |
 
 ## Locations
 

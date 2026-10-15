@@ -5,7 +5,8 @@ color: null
 aliases:
   - Toussaint
   - Louverture
-tags: []
+tags:
+  - Primary Character
 alwaysIncludeInContext: false
 doNotTrack: false
 noAutoInclude: false
@@ -70,6 +71,21 @@ He is the spine of the Last Cohort—the one who ensures they are more than a fi
 - **Jock Lewes**: Finds common ground in precision, but wary of Lewes’ emotional detachment.
 - **Shaw**: Intrigued by Shaw’s quiet leadership—sees potential in him to shape *new order without new empire*.
 - **Bray**: Views Bray as important, but still lost. Tries to guide without pushing.
+- **Napoleon Bonaparte**: The man who restored slavery, sent an army to retake Saint-Domingue, and let Toussaint die in a French prison. Both claim the legacy of the French Revolution. In Eirion, Napoleon may offer him the seat he was denied in life. See the [arc notes](../../planning/arcs/toussaint-louverture.md).
+
+---
+
+## 🗳️ Role in the Alliance
+
+- Always the voice of reason to Spartacus.
+- Holds the deciding vote on whether the Last Cohort and the Uncrowned work together.
+
+---
+
+## 📜 Life Before Eirion
+
+- Born enslaved in Saint-Domingue. Educated himself and rose to general and governor at a time when former slaves had almost no way to rise. He got there through hard work, education, wit, cunning, and determination.
+- A respected tactician in his own right.
 
 ---
 
