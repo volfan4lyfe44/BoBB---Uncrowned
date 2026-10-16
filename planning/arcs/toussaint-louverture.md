@@ -37,6 +37,21 @@ These are from general knowledge. Confirm dates and details with a reliable biog
 - Arrested in 1802 after being invited to a meeting under a promise of safety, then sent to Fort de Joux in the Jura Mountains.
 - Died there on 04/07/1803. Haiti declared independence on 01/01/1804, after his death.
 
+## Decisions (10/16/2026)
+
+- **Toussaint and Napoleon meet in person**, briefly, with Toussaint as Napoleon's captive.
+- **Jean Lannes leads the rescue.** In doing so he reveals himself to Napoleon, who never knew his close friend was in Eirion, let alone fighting against him.
+- **The alliance vote lands at the end of Book 1.**
+
+## Why the capture and rescue work
+
+- **It echoes his real death.** In life, Toussaint was lured to a meeting under a promise of safety, arrested, and left to die in a French prison. Being Napoleon's prisoner again puts him back in that cell, and this time someone comes for him.
+- **It is the right setting for the offer.** Napoleon offering the seat to a man in chains makes the temptation sharper and the refusal mean more.
+- **It gives Napoleon two wounds in one scene.** He loses his prisoner, and he learns that Lannes, his friend, has chosen the other side. Napoleon's Codex entry says he "has no patience for martyrdom." Lannes choosing a cause over him is something he cannot dismiss.
+- **It binds Toussaint and Lannes.** The Codex already calls Lannes the balancing force between Toussaint's politics and Spartacus's passion. After the rescue, that balance is personal.
+
+Historical anchors for Lannes (verify before using): one of Napoleon's earliest marshals and among the few who spoke to him with blunt familiarity. Mortally wounded at Aspern-Essling in 1809. Napoleon is reported to have been deeply shaken by his death. Lannes died 12 years before Napoleon, so he would have been in Eirion long before Napoleon arrived.
+
 ## Possible beats
 
 ### Book 1
@@ -44,18 +59,20 @@ These are from general knowledge. Confirm dates and details with a reliable biog
 1. **Introduction at the war council.** Spartacus wants to strike. Toussaint asks what happens after the strike. The Cohort follows Spartacus, but waits for Toussaint to speak.
 2. **He learns Napoleon commands in the Covenant.** He keeps it to himself. Discipline over vengeance. Spartacus would want to charge.
 3. **First test of the Uncrowned.** He sizes up Shaw and Bray. He sees Shaw as someone who could build "new order without new empire," and Bray as important but lost.
-4. **The what-if battle.** A Covenant force under Napoleon meets the Cohort. Toussaint wins by refusing Napoleon's kind of battle: terrain, retreat, patience, and allies. Napoleon realizes who he is facing.
-5. **Book 1 decision point.** The Cohort is split on allying with the Uncrowned. Toussaint holds the deciding vote. He casts it, or deliberately holds it back.
+4. **The what-if battle.** A Covenant force under Napoleon meets the Cohort. Toussaint wins by refusing Napoleon's kind of battle: terrain, retreat, patience, and allies. Napoleon now knows who he is facing. Lannes stays out of Napoleon's sight.
+5. **The vote (end of Book 1).** The Cohort is split on allying with the Uncrowned. Toussaint casts the deciding vote.
 
 ### Book 2
 
-1. **The offer.** Napoleon reaches out, possibly in writing as an answer to letters that went unanswered in life. He offers Toussaint a seat among the Covenant's gods: recognition, structure, a place at the table.
-2. **The temptation is real.** It is everything he was denied, and it is an empire. Scholl's warning to him in the Codex lands here: "What if it's another empire waiting to be born?"
-3. **The refusal.** He chooses the Cohort. He also finally answers his own question about what comes after winning.
-4. **The Gate.** His answer points the Cohort toward the Gate of Still Flame. See [Gate of Still Flame notes](../gate-of-still-flame-notes.md).
+1. **The capture.** Napoleon takes Toussaint, possibly through a parley or a promise of safety, mirroring his real arrest.
+2. **The meeting and the offer.** Their first face-to-face conversation. Napoleon offers him a seat among the Covenant's gods: recognition, structure, everything he was denied. Scholl's warning lands here: "What if it's another empire waiting to be born?"
+3. **The refusal.** Toussaint turns it down, in chains, with no rescue in sight.
+4. **The rescue and the reveal.** Lannes leads the mission. Napoleon sees his old friend fighting against him for the first time.
+5. **Aftermath.** Napoleon is shaken, and possibly more dangerous. Toussaint owes Lannes his freedom. Toussaint's question, "What do we do after we win?", starts pointing toward the Gate. See [Gate of Still Flame notes](../gate-of-still-flame-notes.md).
 
 ## Questions for the author
 
-- Does Toussaint ever face Napoleon in person, or only through armies and letters?
-- Does Jean Lannes, Napoleon's old friend, take part in this rivalry, or is that a separate thread?
-- Should the alliance vote land at the end of Book 1 or partway through Book 2?
+- **Placement:** Should the capture and rescue sit in the first half of Book 2, or be the Book 2 midpoint?
+- **Lannes's motive:** Why did Lannes join the Cohort instead of waiting for his friend? Did he see what Napoleon became, or did he choose before Napoleon arrived?
+- **Hiding:** How has Lannes stayed hidden from Napoleon until the rescue: a different name, staying away from battles against Napoleon's forces, or something else?
+- **After the reveal:** Does Napoleon try to win Lannes back, or treat him as the worst kind of traitor?
