@@ -30,6 +30,8 @@ Total: about 11,000 words.
 
 ## Open items
 
+- [ ] Review the [Book 1 plot outline](planning/book-1-plot-outline.md) proposal and answer its decision list (section 12).
+- [ ] Work through the [Book 1 continuity and fact check](planning/book-1-continuity-check.md), starting with Bray's timeline and the Chapter 4 co-defendant error.
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
 - [ ] Flesh out Eirion's native kingdoms, history, and geography. Start from the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
 - [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/worldbuilding/gate-of-still-flame-notes.md).
