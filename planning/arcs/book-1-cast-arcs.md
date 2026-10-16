@@ -29,13 +29,18 @@ Reading the Codex and prologue together, a pattern shows up that the author may 
 
 **Want:** Answers, and then, once he has them, a reason to keep going.
 
-**Fear:** Being alone. Everything else follows from it: the pact with Tate, letting Tate stay, extending his tour, and walking away from everyone in Eirion before they can leave him.
+**Fear:** Being alone. Everything else follows from it: the pact with Tate, letting Tate stay, going back for a second tour, and walking away from everyone in Eirion before they can leave him.
+
+**Core question [Decided]:** Why did he go back? He survived his first tour, came home, then signed to return, and died three months in (Ch 5). He does not know why. This is the Pat Tillman and John Basilone echo in the revision notes. Tillman also died by friendly fire, which ties the question to Bray's death (verify the Tillman details).
+
+**Proposed answer, for Book 3, not Book 1.** It is already in the author's own words. At the fence in Ch 7, Tate says: "Neither of us walks outta this unless we're walkin' together." Tate never walked out of the war, so Bray could not stay out of it. He went back to keep a promise to a dead man. In Book 3, crossing the Gate is literally walking out. Bray's choice to stay as Watcher can be the moment he finally understands the pact and stays anyway, for others and not for Tate. Book 1 only sharpens the question (Ch 11, 23).
 
 **What he gets wrong:** He thinks his problem is that he believes in nothing. His real problem is that he believes in one thing, staying with his people, and it has cost lives. Tate's, first.
 
 **Book 1 forces him to face:**
 
-1. He kept Tate in Vietnam because he could not stand to be there alone (Mirror Hall, Ch 23).
+1. He kept Tate in Vietnam because he could not stand to be there alone. He has known it privately since Ch 7; Book 1 makes him say it aloud (to Sophie, Ch 26).
+   - He keeps choosing the noose: the pact, the second tour, "Victory or death." The Mirror Hall shows him the pattern and the life he refused, not the reason (Ch 23).
 2. He was shot from his own line, and he has always known it (said aloud in Ch 29).
 3. People here are not banners. He can stand with them without wearing one (village, rescue, vote).
 
@@ -50,8 +55,9 @@ Reading the Codex and prologue together, a pattern shows up that the author may 
 | 15 | Sees the sun, and a village. Recognizes the village. |
 | 19 | Acts. Kills a man who was just following orders, like he did. |
 | 21 | Owns what he did in front of everyone. |
-| 23 | Mirror Hall. Sees Tate alive, in the life where Bray let him go. |
-| 26 | Volunteers, "Not for a banner." |
+| 11 | Sophie asks why he went back. He has no answer. |
+| 23 | Mirror Hall. Sees the man he could have been, home in Greeneville, and cannot hold his eyes. Sees the pattern, not the reason. |
+| 26 | Tells Sophie aloud why he let Tate stay. Volunteers, "Not for a banner." |
 | 29 | Says the truth about his death to Lewes. |
 | 30 | Carries a dead man through the haze, as he carried Tate. This time he knows it, and sets him down. |
 | 35 | Carves his name. Peyton, not Moose. |
@@ -199,12 +205,12 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 - Greets Bray at the gate (Ch 9).
 - Gives Bray the Codex line in Ch 15 or 21: "You can't stop believing just because belief hurt you."
 - First to back Bray after the village. Opens the Bastion to the refugees.
-- Loses his sergeant in the rescue (see below), so his own line is tested.
+- Loses one of his old sergeants in the rescue (see below), so his own line is tested.
 - Stays as keeper (Ch 35), still believing.
 
-**The sergeant (proposed new character):** In Ch 2, "one of his sergeants" catches the colors from Shaw's hand. Make that sergeant fictional and named by the author. He died later that night on the fort, crossed in 1863, and has followed Shaw ever since. He served in the Bastion, then joined Lewes's scouts when Hale left. See "The rescue's cost" below.
+**The sergeant (proposed new character):** A fictional sergeant of the 54th, killed on the parapet at Fort Wagner the same night as Shaw. He saw Sgt. Carney take the colors from the fallen bearer (Ch 2, as revised). He crossed in 1863 and has followed Shaw ever since. He served in the Bastion, then joined Lewes's scouts when Hale left. See "The sergeant" below.
 
-**Note:** The author has a PR coming that fixes prologue continuity. If Ch 2 changes this moment (for example, to the historical color bearer), this idea needs to change with it.
+**Why not the color sergeant:** The prologue revisions made the man who takes the colors Sgt. William Carney, a real person who survived the war and died in 1908. Keep him out of Eirion.
 
 ---
 
@@ -240,6 +246,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 - Fights well in the battle.
 - Brings the rescue request (Ch 26). His Ch 1 memory, Washington asking who would volunteer, is echoed when Bray steps up.
 - In the rescue he moves to hold the stair alone. The sergeant stops him: "You already did this once, son." The sergeant holds it instead and dies. Hale lives, saved from his second martyrdom by someone else's.
+- At the sergeant's cairn (Ch 33), he tells Bray his true last words on the gallows, the payoff set up in Ch 1. Proposal: a quiet question, "Was I wrong?", which the presence answered. The boy who never doubts did, once, at the end. See the [scene breakdown](../book-1-scene-breakdown.md#ch-33-the-cost-bray).
 
 **Ends Book 1:** Alive, shaken, and owing a debt he does not know how to carry. Charles XII's pull on him in Book 2 is now dangerous.
 
@@ -281,10 +288,10 @@ These are proposals. Names, genders, and details are the author's call. These no
 
 | | |
 |---|---|
-| **Who** | Shaw's color sergeant from Ch 2 (fictional). In Eirion since 1863. One of Lewes's scouts. |
+| **Who** | A fictional sergeant of the 54th, killed at Fort Wagner beside Shaw. Not the man who takes the colors (Sgt. Carney, who survived). In Eirion since 1863. One of Lewes's scouts. |
 | **Role** | The rescue's cost. |
 | **Bond with Bray** | Built in Ch 26 and 29. Two men from armies that sent Black and poor men to fight. They talk about home, and about who catches the flag. |
-| **Death** | Holds the inner stair in the Watch-Fort so the others can get out. The flag never touched the ground; this time he is the one who doesn't. Bray carries him out of the haze before he understands the man is already dead. |
+| **Death** | Holds the inner stair in the Watch-Fort so the others can get out. At Wagner he saw another man keep the flag off the ground; this time he is the one who holds. Bray carries him out of the haze before he understands the man is already dead. |
 | **Alternative** | If the author prefers no link to Ch 2, any member of Lewes's team introduced by Ch 8 works. Do not use Hale or the watcher (reasons in the outline, decision 5). |
 
 ### The taken arrival

@@ -63,11 +63,12 @@ These are the world-logic rules the plot depends on. Several are not yet decided
 |---|---|
 | **Starts** | Alone, walking. "I don't know if I'm walking toward something or just away from what I left behind." **[Drafted, Ch 7 outline]** |
 | **Believes (the lie)** | Promises are a noose you tie yourself (Ch 7). Every banner turns into a mission to clear somebody's village. Safer to follow nothing. |
-| **Wound** | Tate Cromwell. Bray let Tate refuse a medical discharge because he did not want to be alone, and Tate died of it. Secondary wound: he was killed by his own side, and has not admitted it. |
+| **Wound** | Tate Cromwell. Bray let Tate refuse a medical discharge because he did not want to be alone, and Tate died of it. Bray knows this privately (the Ch 7 narration says it); he has never said it to anyone. Secondary wound: he was killed by his own side, and has not admitted it. |
+| **Core question [Decided]** | Why he went back. He survived his first tour, came home to Greeneville, then chose to return, and died three months into his second tour. He does not know why (Ch 5). |
 | **Wants** | Answers: where he is, what happened, what any of it was for. |
-| **Needs** | To act for people without needing a banner, and to admit the selfish part of what he did to Tate. |
-| **Ends Book 1** | Has chosen to stand with others, on his own terms. Carves his name in the Hall of Names. Not healed. |
-| **Seeds for later books** | His bond with the native plain-watchers (Book 3 non-interference). His habit of holding on to people (Book 3 Watcher of the Gate, whose job is letting them go). The friendly-fire truth, admitted but not yet faced. |
+| **Needs** | To act for people without needing a banner, and to say aloud the selfish part of what he did to Tate. |
+| **Ends Book 1** | Has chosen to stand with others, on his own terms. Carves his name in the Hall of Names. Still cannot say why he went back, but he can see the pattern. Not healed. |
+| **Seeds for later books** | His bond with the native plain-watchers (Book 3 non-interference). His habit of holding on to people (Book 3 Watcher of the Gate, whose job is letting them go). The friendly-fire truth, admitted but not yet faced. Why he went back (answer proposed for Book 3; see [cast arcs](arcs/book-1-cast-arcs.md#peyton-moose-bray)). |
 
 **Why the Book 3 ending needs this arc:** In life Bray could not let one friend go home. In Book 3 he becomes the one who lets everyone go home. Book 1 must show the flaw clearly enough that the ending pays it off.
 
@@ -144,7 +145,14 @@ Rough word counts are targets, not limits.
 
 ### Part 1: Prologue, The Last Breath
 
-**Ch 1 to 5. [Drafted]** Hale, Shaw, Gordon, Scholl, and Bray at the moment of death. No structural changes proposed. Fact corrections are in the [continuity check](book-1-continuity-check.md).
+**Ch 1 to 5. [Revised 10/16/2026]** Hale, Shaw, Gordon, Scholl, and Bray at the moment of death. History and consistency fixes are logged in the [prologue revision notes](prologue-revision-notes.md). The presence is one entity, marked in every death by leaves moving in a windless space **[Decided]**.
+
+**Open: a sixth prologue death (proposed: yes, Toussaint at Fort de Joux, 1803).** The revision notes ask whether the prologue needs a Last Cohort or Covenant death. Recommend Toussaint:
+
+- He is the second viewpoint. Readers meet Bray's death before Bray's story, and should meet Toussaint's the same way.
+- The cold cell, the unanswered letters to Napoleon, and the slow death pay off in Ch 25, when Napoleon holds him in a cold cell again and admits he read the first letter.
+- The closing tag can break the pattern on purpose. Every other tag enters the soul among the Uncrowned. His can say his name was not written there, because he would choose his own title. That plants the Cohort's custom of titles.
+- **Placement:** chronologically between Hale (1776) and Shaw (1863), as the new Chapter 2. That renumbers every later chapter by one. The planning docs keep the current numbers until the author decides.
 
 ### Part 2: The Bastion of Broken Banners
 
@@ -162,7 +170,7 @@ Rough word counts are targets, not limits.
 
 **Ch 10. The Hall of Names (Bray), about 3,500 words.** Shaw shows him the Hall, lit by memory-light. The custom: you carve your own name when you are ready, and some scratch theirs out when they leave or lose faith. Bray will not carve his. Gordon introduced as the Bastion's steward. Bray learns the rules in conversation, not lecture: no aging, killed is final, the shared tongue, the Accord.
 
-**Ch 11. The Quiet Courtyard (Bray), about 3,500 words.** Sophie introduced. She asks him what he died for and does not accept "nothing." The tricorn and "Keep walking" turn out to be Hale's, now gone to the Cohort. Bray learns the shape of the world: Covenant, Cohort, natives, the Bastion's trade with the plain-watchers for food. The dog tag: Bray finds his own chain under his shirt, broken, and realizes Tate's tag came off his own neck. He had worn it since the night Tate died.
+**Ch 11. The Quiet Courtyard (Bray), about 3,500 words.** Sophie introduced. She asks him what he died for and does not accept "nothing." Then she asks the harder one: why did he go back? He has no answer. The tricorn and "Keep walking" turn out to be Hale's, now gone to the Cohort. Bray learns the shape of the world: Covenant, Cohort, natives, the Bastion's trade with the plain-watchers for food. The dog tag: Bray finds his own chain under his shirt, broken, and realizes Tate's tag came off his own neck. He had worn it since the night Tate died.
 
 **Ch 12. The Ground Napoleon Wants (Toussaint), about 4,000 words.** Napoleon advances to force a decisive battle. Toussaint will not give him one: he withdraws, strips the forage, and buys the river lord's alliance with a sworn promise that the Cohort will rule no one in the marches after the war. Lannes, privately, tells him how Napoleon thinks. Spartacus chafes. Hale introduced in the Cohort. Lannes, on the far flank, stays out of sight of the eagle.
 
@@ -188,7 +196,7 @@ Rough word counts are targets, not limits.
 
 **Ch 22. Safe Conduct (Toussaint), about 3,500 words.** Napoleon offers a parley under safe conduct to exchange the captives from the village. Spartacus calls it a trap. Toussaint: "I know. I have been here before." He goes because the captives' lives are real, and he arranges for Lewes's scouts to shadow him. He orders Lannes to stay away.
 
-**Ch 23. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. What he finally admits to himself: the version of him who made Tate take the discharge and go home, and Tate alive in it. He comes out changed. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice, and the Bastion's rusted gates close for the first time in a thousand years.
+**Ch 23. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. Bray already knows why he let Tate stay (Ch 7). What he has never looked at is the man he could have been: the Bray who came home in 1969 and stayed in Greeneville, alive. He cannot hold that man's gaze, and he cannot say why he refused that life. What he does see is the pattern: going back, extending, volunteering, always choosing the noose. Giving himself up to the Covenant would be the same choice again. He comes out with his core question sharper, not answered. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice, and the Bastion's rusted gates close for the first time in a thousand years.
 
 **Ch 24. The Parley (Toussaint), about 3,500 words.** Napoleon keeps the letter of his promise: the captives are released and walk away safe. Then he takes Toussaint. "I promised their safety." Lewes's shadows see it and cannot stop it.
 
@@ -210,7 +218,7 @@ Rough word counts are targets, not limits.
 
 **Ch 32. Interlude: The Empty Cell (Napoleon), about 2,000 words.** Napoleon alone. He tells Alexander nothing of Lannes. He orders the powder work doubled. One line of grief he does not let anyone see. Sets up Book 2's "Napoleon deals with Lannes's betrayal" **[Decided]**.
 
-**Ch 33. The Cost (Bray), about 3,000 words.** A burial in the haze. Bray writes in the field manual. The watcher and Bray, without a shared language, understand each other.
+**Ch 33. The Cost (Bray), about 3,000 words.** A burial in the haze. At the cairn, Hale tells Bray what he really said last on the gallows, the words no one recorded **[payoff decided, placement proposed]**. See the [scene breakdown](book-1-scene-breakdown.md#ch-33-the-cost-bray). Bray writes in the field manual. The watcher and Bray, without a shared language, understand each other.
 
 **Ch 34. The Vote (Toussaint), about 4,500 words.** The war council, with the Uncrowned there for the first time: Gordon, Shaw, Sophie, Bray. Sophie's condition: the alliance answers to the natives it fights among. Spartacus votes no. Lannes votes no. Joan votes yes. Lewes votes yes. Toussaint casts the deciding vote **[Decided]**, for the reason in section 4. He then lays out what he learned in captivity. Gordon realizes the Hall of Names has kept centuries of records, and that some names were scratched out with no explanation.
 
@@ -253,7 +261,7 @@ Per the decided rule against *Lost*-style mysteries. Each item gets an answer in
 | J.L. initials and sailor's knot (Ch 7) | Jock Lewes's scouts. | Ch 8 or 29 |
 | C.G. note under the bayonet (Ch 7) | Gordon's. The Uncrowned leave honest words at the cairns, a Bastion custom. | Ch 10 |
 | The empty grave with a worn dog tag (Ch 7) | Another American soldier crossed this way. Leave unexplained in Book 1 on purpose, as a later thread. **Author's call:** see open question 6. | Book 2 or 3 |
-| "Something vast" at each death (prologue) | The crossing. The one thing left unexplained **[Decided]**. | Never |
+| The presence at each death, and leaves moving in a windless space (prologue) | The crossing. The one thing left unexplained **[Decided]**. Keep the leaves sound for crossings only. Optional for Book 2 or 3: the same sound at the Gate, so readers sense that the way in and the way out belong to the same presence, without anyone explaining it. | Never |
 
 ## 10. Stress test: questions a reader will ask
 
@@ -286,11 +294,13 @@ Per the decided rule against *Lost*-style mysteries. Each item gets an answer in
 
 In priority order. The outline works as written if each recommendation is accepted.
 
-1. **Bray's timeline.** The chapters conflict on his age, year, service length, hometown, and position. Recommendation in the [continuity check](book-1-continuity-check.md#1-peyton-bray-timeline-and-background).
+1. **Bray's timeline.** Decided in the prologue revisions. Chapter 7 still needs to match ("three more tours," "Georgia, seventeen"). See the [continuity check](book-1-continuity-check.md#1-what-is-still-open-after-the-revisions).
+   - **Hale's true last words (Ch 33).** Content is the author's. Proposal in the [scene breakdown](book-1-scene-breakdown.md#ch-33-the-cost-bray).
+   - **A sixth prologue death for Toussaint.** Recommended yes. See Part 1 above.
 2. **Time and arrival order (R1).** Same clock as Earth, in order of death? Recommended yes.
 3. **The Bastion Accord (R8).** Accept, and decide roughly when and why it was made.
 4. **Spartacus founded the Bastion.** Accept or cut.
-5. **Who dies in the rescue (Ch 30).** Recommendation: Shaw's color sergeant from Ch 2, now one of Lewes's scouts (see [cast arcs](arcs/book-1-cast-arcs.md#the-sergeant)). Otherwise any named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 26 and 29. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
+5. **Who dies in the rescue (Ch 30).** Recommendation: a fictional sergeant of the 54th who died at Fort Wagner beside Shaw, now one of Lewes's scouts. (Not the man who takes the colors in Ch 2; the revision made him Sgt. William Carney, who survived the war.) (see [cast arcs](arcs/book-1-cast-arcs.md#the-sergeant)). Otherwise any named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 26 and 29. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
 6. **The empty grave's dog tag (Ch 7).** Leave open as a later thread, or cut. One option for a later book: it belongs to the soldier who fired the shot that killed Bray.
 7. **The native watcher.** Name, people, and whether they get a POV chapter.
 8. **Lannes's motive (section 8).** Accept or replace.

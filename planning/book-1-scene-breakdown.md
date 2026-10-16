@@ -111,11 +111,12 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
 - **Obstacle:** Sophie.
 - **Beats:**
   - Sophie at the black well: "What did you die for?" "Nothing." "No one dies for nothing. They die for something they didn't choose."
+  - Then, when he mentions it was his second tour: "You went back? Why?" He has no answer. She lets it sit.
   - Shaw explains the world: the Covenant, the Cohort, the natives. Bray hears "slaves" and thinks of Spartacus's wall.
   - The tricorn and the note were Hale's. Hale left the Bastion twenty years ago for the Cohort.
   - That night, undressing, Bray finds his own chain broken, with one tag. He wore Tate's beside his own from the night Tate died, and he forgot. The tag did not come out of nowhere. He brought it.
 - **Turn:** The strangest thing he has found here was something he carried himself.
-- ✓ The tricorn and "Keep walking". ✓ The dog tag.
+- ✓ The tricorn and "Keep walking". ✓ The dog tag. P: Why he went back (sharpened Ch 23; Book 3).
 
 #### Ch 12. The Ground Napoleon Wants (Toussaint)
 
@@ -245,14 +246,16 @@ See section 3 below for the full plan.
 - **Beats:**
   - Bray asks to go in. Gordon, who never has, opens the steel doors for him.
   - Darkness, his face, time.
-  - What comes, slowly: the fence behind the field, Tate's draft notice, Bray's scholarship letter, Phu Bai, the medical discharge. In the version where Bray says "Go home," Tate goes home and lives.
-  - He knew all along. He kept Tate there because he could not be alone.
-  - He comes out. Giving himself up would be the same thing: a noose he ties himself, an ending he chooses so he doesn't have to keep living.
+  - He already knows why he let Tate stay (Ch 7). That is not what the dark gives him.
+  - What comes, slowly, is a man who looks like him: home in Greeneville in 1969, alive, ordinary, coaching linemen on a Friday night, a life he had in his hands and set down. He cannot hold that man's eyes.
+  - He tries to say why he went back and cannot. The fence and Tate's words ("Neither of us walks outta this unless we're walkin' together") come close, and he turns from them.
+  - What he can see is the pattern: the pact, the second tour, "Victory or death." He always chooses the noose.
+  - He comes out. Giving himself up would be the same thing again: an ending he picks so he doesn't have to keep living.
   - To Gordon: "I'll go if you ask me. But I won't go to be forgiven."
   - Gordon writes to Jackson. No.
   - Shaw, Bray, and the refugees put their shoulders to the rusted gates. They close for the first time in a thousand years.
 - **Turn:** The Accord is over by the keeper's choice. The Bastion is now a fortress at war.
-- ✓ Tate (Book 1 portion). ✓ The open gates.
+- ✓ The open gates. P: Why he went back, sharpened, not answered.
 
 #### Ch 24. The Parley (Toussaint)
 
@@ -288,7 +291,7 @@ See section 3 below for the full plan.
   - The Cohort will try a rescue. Lewes needs a way to the Watch-Fort's back that no sentry watches, and the watchers know one. The watcher will guide only if Bray comes.
   - Hale says it, without meaning to echo anything: someone must go.
   - Bray volunteers.
-  - Sophie, privately: atonement or choice? Bray: "Not for a banner."
+  - Sophie, privately: atonement or choice? He tells her, for the first time aloud, that he let Tate stay because he did not want to be alone. Then: "Not for a banner."
   - Gordon: he will come too. Shaw stays to hold the gates.
   - The sergeant is with Hale's party. Bray and the sergeant talk on the wall that night.
 - **Turn:** Bray chooses a side without choosing a flag.
@@ -354,10 +357,13 @@ See section 4 below for the full plan.
 
 - **Beats:**
   - The sergeant buried in the Pall, with a cairn in the plain-watchers' way.
-  - Hale cannot speak.
+  - Hale cannot speak, and then he can. **Hale's true last words** (set up in Ch 1: "But that wasn't the last thing he said"). He tells Bray because Bray is the one person here who never wanted a hero.
+  - **Proposal for what he said:** a question, too low for the crowd to hear as the cart moved: "Was I wrong?" The presence answers it in Ch 1: "You were not wrong. But you were not yet done." The reveal turns the presence's line into a reply, and turns the man who never doubts into one who did, once, at the end. It also echoes Ch 2, where the presence answers Shaw's "I didn't do enough," and Ch 5, where Bray's "Says who?" gets no answer.
+  - **Alternatives**, if the author wants something more human than doubt: his mother's name, or "I'm not ready." The author's words either way.
+  - Hale to Bray, after: he has spent nearly two hundred years being the line he said for the crowd.
   - Bray writes in the field manual.
   - The watcher gives Bray their people's word for one who watches the plain. Bray doesn't know what it means.
-- ✓ The watcher's disappointment, turned to respect.
+- ✓ The watcher's disappointment, turned to respect. ✓ Hale's true last words.
 
 #### Ch 34. The Vote (Toussaint)
 
@@ -459,7 +465,7 @@ See section 4 below for the full plan.
 
 | Thread | Planted | Develops | Pays off in Book 1 | Carries to |
 |---|---|---|---|---|
-| Tate and the dog tag | 6, 7 | 11 | 23 | Book 3 (letting go) |
+| Tate and the dog tag | 6, 7 | 11 | 26 (said aloud) | Book 3 (letting go) |
 | Friendly fire | 5, 6 | 14 | 29 | Book 2 (Jackson) |
 | The watcher | 7 | 9, 15, 19, 26 | 33 | Book 3 (the Watcher) |
 | The taken arrival | 7 | 25 | 30, 34 | Book 2 |
@@ -472,6 +478,8 @@ See section 4 below for the full plan.
 | Sophie and the leaflet | 4, 14 | 21, 26 | 34 | |
 | Gordon raising his hand | 3 | 19 | 30 | |
 | Hale's martyrdom wish | 1 | 26 | 30 | Book 2 (Charles XII) |
+| Hale's true last words | 1 | 29, 30 | 33 | |
+| Why Bray went back | 5 | 11 | 23 (sharpened) | Book 3 (the Gate) |
 | Spartacus and the Bastion | 6 | 11 | 34 | Book 3 (crossing) |
 | Gordon and Jackson's letters | Codex | 21 | 23 | Book 2 |
 | Rommel's silence | 14 | | 32 | Book 2 |
@@ -484,7 +492,7 @@ Answers to these change scenes, not structure.
 
 1. The taken arrival's identity.
 2. The watcher's name, gender, and family.
-3. The sergeant's name, if the author uses him. Depends on how the coming prologue fixes treat Ch 2.
+3. The sergeant's name, if the author uses him. He is no longer the man who takes the colors in Ch 2 (now Sgt. Carney).
 4. The clerk's fate after the rescue.
 5. Exact wording of Toussaint's refusal and of Napoleon's word to Lannes. The author's lines.
 6. Whether Book 1's final line answers the Ch 7 journal line directly.
