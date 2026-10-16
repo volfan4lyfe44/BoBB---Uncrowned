@@ -10,6 +10,8 @@ Working guide to Eirion as a real world. Decisions are marked as decided. Everyt
 - **The Eternal Ones** are souls cast from Earth to Eirion. They do not age once they arrive. They live forever unless killed or unless they leave by another way, such as the Gate. See the [Codex entry](../../codex/lore/the-eternal-ones.md).
 - **Gunpowder is banned by Alexander (decided 10/16/2026).** A native with a musket can kill an Eternal One, which would break the order his godhood depends on. He hunts down anyone who tries to make it. Napoleon quietly experimenting with it is a threat inside the Covenant. Scarce sulfur or saltpeter can back up the ban (optional).
 - **The crossing is the only supernatural element (decided 10/16/2026).** It is inexplicable, not fantasy magic. The Loom is cut. Everything native to Eirion follows normal physical rules.
+- **The Wane is cut (decided 10/16/2026).** It was left over from an earlier, more fantasy-afterlife version of the story. Codex references now say Eirion.
+- **The Bastion's memory-light and Mirror Hall are grounded (decided 10/16/2026).** Memory-light is a natural mineral glow. The Mirror Hall is a psychological test, not a magic mirror.
 - **The reference series are models for tone, politics, and war.** The author prefers the parts of those books that don't involve magic.
 - **The natives of Eirion** are the world's own human population. Bray's eventual view is that the Eternal Ones should not interfere with them if it can be helped.
 
@@ -45,7 +47,6 @@ This sets up a theme across all three books: Alexander builds an empire on top o
 | Region | Role | Status |
 |---|---|---|
 | The grey arrival lands | The crystalline grey plain where Eternal Ones appear (Chapters 6 and 7). The Bastion stands on a high plain here. Natives may avoid it, guard it, or watch it. | Proposal |
-| The Wane | Already named in the Codex (the Covenant's "Doctrine of Dominion in the Wane"; Gordon "deciding whether to cross into the Wane"). | Meaning needed |
 | Covenant lands | Native kingdoms conquered and ruled by Alexander. | Proposal |
 | Free realms and border marches | Native lands still outside Alexander's rule, where the Cohort finds allies. | Proposal |
 
@@ -55,23 +56,13 @@ A native noble, soldier, or commoner living under Covenant rule would give the n
 
 ## Open questions and pings
 
-### 1. Bastion details that break the rule (needs a decision)
-
-The Loom references are removed from the Bastion and Nathan Hale entries. Two Bastion details still read as supernatural. Each can be cut or given a grounded version:
-
-- **Memory-light** (the Hall of Names is "lit by a soft glow that seems to come from the stone itself").
-  - Grounded version: a pale mineral in the stone that holds daylight and glows faintly after dark. Strange, but natural. This fits the light science fiction tone, like the crystalline grey ground in Chapter 6.
-- **The Mirror Hall** (glass "showing selves that could have been").
-  - Grounded version: a sealed chamber of polished steel and old glass, dark and silent, where a soul sits alone with their own reflection for as long as they can stand it. What they "see" is what they finally admit to themselves. No one knows what happens inside, only who comes out changed. It works as a psychological test, and a small rehearsal for the Gate.
-
-### Creation myths and "threads"
+### 1. Creation myths and "threads"
 
 The creation myths still use the Loom and thread imagery. Recommendation: keep them as in-world beliefs, native or Covenant, that try to explain the crossing and get it wrong. That fits the Cohort ideal "Memory is not truth, only reflection." The same goes for the "threads of fate" wording in the Alexander and Uncrowned entries, which reads as figurative.
 
 ### 2. Other questions
 
 - Should scarce sulfur or saltpeter back up the gunpowder ban?
-- What does the Wane mean: a region, a season, or the in-between state of a new arrival?
 - Does Eirion have a single sun and moon, a different sky, or a harsher atmosphere? Bray already notices that the air is harsh. That can be the light science fiction touch.
 - What do natives call the Eternal Ones in their own languages?
 - Why are Eternal Ones' firearms missing on arrival? Bray arrives in Chapter 6 with fatigues and boots but no rifle.

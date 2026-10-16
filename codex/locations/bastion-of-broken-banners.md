@@ -48,7 +48,7 @@ They do not wave. They hang like unfinished thoughts.
 - Long, arched, echoing.
 - Walls covered in carved names, **many scratched out**, others freshly etched.
 - Some names are written over themselves—**identities rewritten, doubted, denied.**
-- Lit not by torches, but by a soft glow that seems to come from the stone itself—**memory-light**.
+- Lit not by torches, but by a soft glow from the stone itself—**memory-light**. A pale mineral in the walls holds the day's light and gives it back faintly after dark. Strange, but natural.
 
 ### 2. **The Quiet Courtyard**
 
@@ -62,8 +62,9 @@ It’s a place for reflection. For voices not yet spoken aloud.
 ### 3. **The Mirror Hall**
 
 - Deep within the Bastion, behind vault-like doors of polished steel
-- A chamber lined with shifting glass surfaces—not static reflections, but images of **selves that could have been**
-- Each soul must enter it alone. No one knows what is seen—only who returns, and who does not.
+- A sealed chamber of polished steel and old glass, dark and silent, where a soul sits alone with their own reflection for as long as they can stand it
+- What they see is **what they finally admit to themselves**: the selves that could have been
+- Each soul must enter it alone. No one knows what is seen—only who comes out changed, and who walks out of the Bastion and never returns.
 
 > *“It does not show your past. It shows your possibility.”*
 

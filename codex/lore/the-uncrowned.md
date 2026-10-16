@@ -46,7 +46,7 @@ The Bastion is not their fortress. It is their *threshold*. A monument to sacrif
 
 Here, the Uncrowned confront the memory of what they were, and the fear of what they might become.
 
-Some stay forever—unable to face what lies beyond. Some leave, walking into the Wane in search of trials, answers, or atonement.
+Some stay forever—unable to face what lies beyond. Some leave, walking out into Eirion in search of trials, answers, or atonement.
 
 A few return. Most do not.
 

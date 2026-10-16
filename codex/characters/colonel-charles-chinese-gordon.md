@@ -50,7 +50,7 @@ He has spent **decades in the Bastion of Broken Banners**, serving as a kind of 
 
 But his calm is not peace.
 
-There is something unspoken in Gordon. A wound that never bled—a secret tension between **what he was** and **what he never allowed himself to become**. Faith was his fortress. And in the Wane, **it remains his shield.**
+There is something unspoken in Gordon. A wound that never bled—a secret tension between **what he was** and **what he never allowed himself to become**. Faith was his fortress. And in Eirion, **it remains his shield.**
 
 ---
 
@@ -69,7 +69,7 @@ There is something unspoken in Gordon. A wound that never bled—a secret tensio
 - Serves as **the moral anchor and quiet historian** of the Bastion.
 - Foil to characters like **Moose** (cynicism vs conviction) and **Stonewall Jackson** (rigid faith vs adaptable doubt).
 - A model of restraint and dignity, yet **paralyzed by the fear that faith may not be enough** in this new realm.
-- Acts as a mirror for those who are still deciding whether to cross into the Wane—and a warning of what happens when you linger too long at the edge.
+- Acts as a mirror for those who are still deciding whether to leave the Bastion for the wider world of Eirion—and a warning of what happens when you linger too long at the edge.
 
 > “I stayed because I thought faith alone was enough. Perhaps I stayed because I feared it was not.”
 

@@ -12,7 +12,7 @@ doNotTrack: false
 noAutoInclude: false
 fields: {}
 ---
-*Alexander’s Doctrine of Dominion in the Wane*
+*Alexander’s Doctrine of Dominion in Eirion*
 
 ---
 
