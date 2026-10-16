@@ -2,7 +2,7 @@
 
 **Status:** Proposal, 10/16/2026. Fills the world gaps behind the [Book 1 plot outline](../book-1-plot-outline.md). Nothing here is final.
 
-**Working assumptions.** This document assumes the outline's recommended answers to its open decisions: time on Eirion runs the same as on Earth, souls arrive in the order they died (rule R1), and arrivals are rare (R2). If the author chooses otherwise, the dates in section 1 compress, but the causes and the geography still work.
+**Arrival rule (decided 10/16/2026).** The presence chooses who crosses; souls arrive at the moment of death, in historical order, on the same clock as Earth (outline rule R1). Eirion does not change a soul unless it chooses to change, which is why people can spend centuries here as they were. Rare arrivals (R2) is still a proposal.
 
 **Names.** Every place name here is a working name in plain English so the author can see the function. The author should rename anything that doesn't sing.
 
