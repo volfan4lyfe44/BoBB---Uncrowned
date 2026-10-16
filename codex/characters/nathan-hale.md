@@ -64,3 +64,12 @@ Hale is:
 - **Moose/Peyton Bray**: Frustrated by Hale’s clarity—finds it naive, possibly dangerous. But also envies it.
 - **Sophie Scholl**: Respects Hale, but challenges him—believing truth must evolve, not stay frozen.
 - **Gordon**: Worries for him. Sees Hale as *what he once was*, before loss and contradiction.
+
+---
+
+## Not Great Yet
+
+- **Age at death: 21** (born 06/06/1755, hanged 09/22/1776). Verify dates before use.
+- Hale was not a great man in the usual sense. He was a young schoolteacher and a junior officer on one failed mission. His fame came after his death and rests almost entirely on how he died and on one remembered line.
+- That is the point of him among the Uncrowned. He is not a great life cut short. He is a life cut short **before it could become great**: potential, not achievement.
+- In Eirion, others treat him as a legend, and he tries to live up to a line he spoke at 21. Part of his arc is learning that he never had the chance to become the man the legend describes, and that he still can.

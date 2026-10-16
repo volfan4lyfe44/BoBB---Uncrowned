@@ -72,3 +72,12 @@ Sophie is the soul who **refused to bow to a world of compromise**, even as she 
 ## 🧠 Summary in a Sentence
 
 > **Sophie Scholl is the ember of truth that refuses to extinguish, a martyr who died for conscience but lives to make others question theirs.**
+
+---
+
+## Not Great Yet
+
+- **Age at death: 21** (born 05/09/1921, executed 02/22/1943). Verify dates before use.
+- Sophie was a university student of biology and philosophy, not a public figure. She was largely unknown in life. Her fame came after the war and rests on a few months of resistance and the way she faced her trial and death.
+- Among the Uncrowned, she is not a great life cut short. She is a life cut short **before it could become great**: potential, not achievement.
+- This sharpens her fear that her death was "symbolic, but insufficient." She did not get the years to find out what her words could do.
