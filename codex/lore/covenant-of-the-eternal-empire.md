@@ -77,3 +77,14 @@ Men like Jackson, Rommel, and others under the Covenant:
 - **Choose power over peace.**
 
 > They could ascend. But they refuse. And that refusal binds them to Alexander eternally.
+
+---
+
+### VI. THE POWDER BAN
+
+Alexander forbids gunpowder anywhere in his reach, and hunts down anyone who tries to make it.
+
+- A native with a musket can kill an Eternal One. Firearms would break the order his godhood depends on: Eternal Ones above, natives below.
+- Several of his own commanders, Napoleon first among them, know how powder is made. The ban is aimed at them as much as at anyone.
+- Napoleon quietly experimenting with powder is a threat inside the Covenant.
+
