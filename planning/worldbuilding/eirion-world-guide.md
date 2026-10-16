@@ -12,6 +12,7 @@ Working guide to Eirion as a real world. Decisions are marked as decided. Everyt
 - **The crossing is the only supernatural element (decided 10/16/2026).** It is inexplicable, not fantasy magic. The Loom is cut. Everything native to Eirion follows normal physical rules.
 - **The Wane is cut (decided 10/16/2026).** It was left over from an earlier, more fantasy-afterlife version of the story. Codex references now say Eirion.
 - **The Bastion's memory-light and Mirror Hall are grounded (decided 10/16/2026).** Memory-light is a natural mineral glow. The Mirror Hall is a psychological test, not a magic mirror.
+- **No *Lost*-style mysteries (decided 10/16/2026).** No smoke monsters, no strange phenomena piled on as unexplained hooks. The crossing is the one thing left unexplained. Every other mystery, including the thing Alexander fears, needs a grounded answer the story pays off.
 - **The reference series are models for tone, politics, and war.** The author prefers the parts of those books that don't involve magic.
 - **The natives of Eirion** are the world's own human population. Bray's eventual view is that the Eternal Ones should not interfere with them if it can be helped.
 
