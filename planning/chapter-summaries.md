@@ -18,7 +18,7 @@ The general watches the sun set over Khartoum, knowing the city will fall to the
 
 ### Chapter 4: A Flower in Bloom
 
-Sophie stands trial for high treason alongside her brother and their professor. The judge sentences them to death. Sophie asks the judge a question about his conscience before being escorted away. In her prison cell, Sophie writes a final letter. As she is led to the guillotine, she whispers "The sun still shines." A mysterious presence intervenes and tells her her courage will not be wasted.
+Sophie stands trial for high treason alongside her brother and their friend. The judge sentences them to death. Sophie tells the court that somebody had to make a start before being escorted away. In her prison cell, Sophie writes a final letter. As she is led to the guillotine, she whispers "The sun still shines." A mysterious presence intervenes and tells her her courage will not be wasted.
 
 ### Chapter 5: The Unwritten Ending
 

@@ -29,3 +29,12 @@ Decisions made while revising Part 1, The Last Breath. Use these to keep the fiv
 - Closing verse made literal ("the city's gate was opened... the rescue came two days late") so it does not suggest the Gate of Still Flame.
 - Kept one "Not X. Not Y." line (Queen and Gladstone). Added the leaves signature. The man in light stays as Gordon's way of seeing the presence.
 - Grammar fixes: "You must not be here," "soldier," tense, and the balcony sentence.
+
+## Chapter 4: A Flower in Bloom
+
+- Epigraph replaced. The Arendt attribution could not be verified. Now the opening line of the first White Rose leaflet (1942).
+- Her courtroom line is now her recorded statement: "Somebody, after all, had to make a start..."
+- Fixes: biology and philosophy (not medicine); the third defendant is a young father of three (Christoph Probst, unnamed), not the professor; the trial ran just over three hours.
+- Leaflet count replaced with the atrium balcony moment that led to her arrest.
+- Added a chaplain on the walk to the guillotine so the presence can stand behind him. Added the leaves signature.
+- "The guillotine never dropped" reworded to "The blade had not ended her. It had only carved a path through time."
