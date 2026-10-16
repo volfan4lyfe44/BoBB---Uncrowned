@@ -65,7 +65,7 @@ Historical anchors for Lannes (verify before using): one of Napoleon's earliest 
 6. **The meeting and the offer.** Their first face-to-face conversation. Napoleon offers him a seat among the Covenant's gods. Toussaint refuses, in chains, with no rescue in sight.
 7. **The hint.** In captivity, Toussaint overhears or uncovers signs of something Alexander guards and fears above all else.
 8. **The rescue and the reveal.** Lannes leads the mission. Napoleon sees his old friend fighting against him for the first time.
-9. **The vote.** Toussaint returns and casts the deciding vote on the alliance with the Uncrowned. What he learned in captivity shapes that vote.
+9. **The vote (decided: end of Book 1).** Toussaint returns and casts the deciding vote. The Cohort and the Uncrowned band together to uncover what he learned in captivity.
 
 ### Book 2
 
@@ -75,11 +75,10 @@ Historical anchors for Lannes (verify before using): one of Napoleon's earliest 
 
 ### Book 3
 
-1. **The Cohort crosses first,** with Toussaint's support. See [Gate of Still Flame notes](../gate-of-still-flame-notes.md).
+1. **The Cohort crosses first,** with Toussaint's support. See [Gate of Still Flame notes](../worldbuilding/gate-of-still-flame-notes.md).
 
 ## Questions for the author
 
-- **Order at the end of Book 1:** I placed the vote after the rescue, so what Toussaint learned in captivity shapes it. Does that order work, or should the vote come first and lead into the capture?
 - **Lannes's motive:** Why did Lannes join the Cohort instead of waiting for his friend? Did he see what Napoleon became, or did he choose before Napoleon arrived?
 - **Hiding:** How has Lannes stayed hidden from Napoleon until the rescue: a different name, staying away from battles against Napoleon's forces, or something else?
 - **After the reveal:** Does Napoleon try to win Lannes back, or treat him as the worst kind of traitor?

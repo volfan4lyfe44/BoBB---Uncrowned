@@ -4,10 +4,10 @@ Working notes on how the Gate drives the plot. Built from the author's ideas on 
 
 ## What is already established in the Codex
 
-- The Gate opens only to those who have confronted the full measure of their lives. Beyond it lies "transcendence, or disappearance." ([Gate entry](../codex/lore/the-gate-of-still-flame.md))
-- It demands doubt before conviction, vulnerability before greatness, and truth before legacy. ([Covenant entry](../codex/lore/covenant-of-the-eternal-empire.md), section V)
+- The Gate opens only to those who have confronted the full measure of their lives. Beyond it lies "transcendence, or disappearance." ([Gate entry](../../codex/lore/the-gate-of-still-flame.md))
+- It demands doubt before conviction, vulnerability before greatness, and truth before legacy. ([Covenant entry](../../codex/lore/covenant-of-the-eternal-empire.md), section V)
 - Alexander and his commanders could pass through but refuse, choosing power over peace. That refusal binds them to Alexander.
-- Eirion is "where stories go when they demand a second ending." ([Creation Myths](../codex/lore/creation-myths-of-eirion.md))
+- Eirion is "where stories go when they demand a second ending." ([Creation Myths](../../codex/lore/creation-myths-of-eirion.md))
 
 ## The author's idea
 
@@ -36,9 +36,10 @@ If the Cohort goes through the Gate first, they choose to finish. That contradic
 
 ## Decisions (10/16/2026)
 
-- **Series length:** three books. See the [series outline](series-outline.md).
+- **Series length:** three books. See the [series outline](../series-outline.md).
 - **Mythology through quests:** The Gate's true nature is uncovered through quests in Book 2. The first hint comes at the end of Book 1: while captive, Toussaint learns that something in Eirion is what Alexander guards and fears most.
-- **No one comes back** through the Gate. Two alternatives are below for comparison.
+- **No one comes back** through the Gate.
+- **The Gate sends back souls it refuses (decided 10/16/2026).** Souls who try to cross without having truly faced their lives are turned back to Eirion. They are not hollowed out or changed. The cost of being refused is still to be decided.
 - **Bray becomes the Watcher of the Gate.** He offers passage to any soul who wishes to cross. He sees bringing the eternal ones peace as a noble duty, and he believes the eternal ones should not interfere with the natives of Eirion if it can be helped.
 
 ## Bray as Watcher: why it lands
@@ -48,29 +49,17 @@ If the Cohort goes through the Gate first, they choose to finish. That contradic
 - **It answers the Uncrowned entry.** The Codex says some Uncrowned "stay forever, unable to face what lies beyond." Bray stays too, but by choice, not out of fear.
 - **It makes "no one comes back" matter.** Every crossing he oversees is permanent, so his role carries real weight.
 
-## Alternatives to "no one comes back"
+## Being refused: possible costs
 
-Your instinct is the strongest choice. Finality gives every crossing weight and keeps Bray's role serious. These two are for comparison.
+Being refused needs to cost something, or souls will try the Gate again and again. Options:
 
-### Alternative 1: The One Who Returned
+- **Public:** The refusal is seen. Everyone knows the Gate judged you unready. For figures like Napoleon or Jackson, that shame alone could keep them from trying.
+- **Personal:** Being turned back means facing what in your life you still haven't confronted, in front of the Watcher.
+- **Practical:** The Gate is far, guarded, or dangerous to reach, so a failed attempt costs a journey, or even a life.
 
-Long ago, a single soul came back through the Gate. What that soul knows about what lies beyond is the thing Alexander fears and guards: proof that something better than his empire waits on the other side.
-
-- **Gains:** Ties straight into the Book 1 mystery and gives the Book 2 quests a target to hunt for.
-- **Costs:** Weakens the Gate's finality. Readers may wonder why others can't return too.
-
-### Alternative 2: The Gate Sends Back What It Refuses
-
-The Gate only lets through souls who have truly faced their lives. Those who try to cross without doing so are turned back, hollowed out, missing part of who they were. This is the "disappearance" the Codex mentions. Alexander could use these hollowed souls as his Legions of Myth, the Covenant troops whose entry is still marked "Work in Progress."
-
-- **Gains:** Raises the stakes of crossing, gives the Gate a cost, and fills in the Covenant's army.
-- **Costs:** Bray's offer of passage becomes riskier. He would need to judge who is ready.
-
-**Note:** Alternative 2 fits alongside "no one comes back." Nobody who truly crosses returns. Only those the Gate refuses are sent back.
+Bray as Watcher works with any of these. He offers passage, but the Gate decides.
 
 ## Questions for the author
 
-- **Natives of Eirion:** This is new to the Codex. Who are they, and are they the "Ancients" and "Remnants of the Old Voice" from the creation myths?
-- **"Eternal ones":** Is this the in-world term for souls brought to Eirion? If so, I'll add it to the Codex.
 - Is the Gate a single place, or does it appear to each soul when they are ready?
-- Do you want either alternative, or does "no one comes back" stand as written?
+- Which cost of refusal do you want, or a mix?

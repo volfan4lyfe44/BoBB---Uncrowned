@@ -11,14 +11,14 @@ A planned three-book series. This is a skeleton built only from decisions made s
 - The Last Cohort is introduced. Toussaint is the voice of reason to Spartacus.
 - Toussaint outmaneuvers Napoleon in battle.
 - **Climax:** Napoleon captures Toussaint and offers him a seat in the Covenant. Toussaint refuses. In captivity he learns hints of the thing Alexander guards and fears most. Jean Lannes rescues him and reveals himself to Napoleon.
-- **Ending:** Toussaint casts the deciding vote on the alliance between the Cohort and the Uncrowned. The mystery of what Alexander fears stays open.
+- **Ending:** Toussaint casts the deciding vote, and the Cohort and the Uncrowned band together to uncover what Alexander fears.
 - Bray's arc in Book 1: TBD.
 
 ## Book 2: Title TBD
 
 - Napoleon deals with Lannes's betrayal.
 - The alliance follows quests across Eirion to uncover its mythology and the thing Alexander fears.
-- **Ending:** The Gate of Still Flame is revealed as a way to move on and accept the fates that waited on Earth. No one who crosses comes back.
+- **Ending:** The Gate of Still Flame is revealed as a way to move on and accept the fates that waited on Earth. No one who crosses comes back, and the Gate turns away souls who are not ready.
 - Bray's arc in Book 2: TBD.
 
 ## Book 3: Title TBD
@@ -30,5 +30,6 @@ A planned three-book series. This is a skeleton built only from decisions made s
 ## Related notes
 
 - [Toussaint Louverture arc](arcs/toussaint-louverture.md)
-- [Gate of Still Flame notes](gate-of-still-flame-notes.md)
+- [Gate of Still Flame notes](worldbuilding/gate-of-still-flame-notes.md)
+- [Eirion world guide](worldbuilding/eirion-world-guide.md)
 - [Chapter summaries](chapter-summaries.md)

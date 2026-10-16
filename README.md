@@ -10,7 +10,7 @@ Souls pulled from history at the moment of their deaths awaken in Eirion. Some j
 |---|---|
 | [`manuscript/`](manuscript) | The draft, one Markdown file per chapter, grouped by part. File names sort in reading order. |
 | [`codex/`](codex) | World-building: [characters](codex/characters), [locations](codex/locations), and [lore and factions](codex/lore). Start with the [Codex index](codex/README.md). |
-| [`planning/`](planning) | Outlines, summaries, and story notes. See [chapter summaries](planning/chapter-summaries.md), [series outline](planning/series-outline.md), [character arcs](planning/arcs), and [Gate of Still Flame notes](planning/gate-of-still-flame-notes.md). |
+| [`planning/`](planning) | Outlines, summaries, and story notes. See [chapter summaries](planning/chapter-summaries.md), [series outline](planning/series-outline.md), [character arcs](planning/arcs), and [worldbuilding](planning/worldbuilding). |
 | [`notes/`](notes) | Loose material: snippets not yet placed in a chapter, and saved [AI chat discussions](notes/ai-chats). |
 | [`source/`](source) | Untouched Novelcrafter export (ZIP) and the original `.docx` manuscript, kept as a backup. |
 
@@ -31,7 +31,8 @@ Total: about 11,000 words.
 ## Open items
 
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
-- [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/gate-of-still-flame-notes.md).
+- [ ] Decide the gunpowder rule and the other pings in the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
+- [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/worldbuilding/gate-of-still-flame-notes.md).
 - [ ] Match these changes in Novelcrafter so the next export lines up: Napoleon spelling in the Codex, chapter 6 and 7 titles, and the "Chatper 2" heading.
 
 ## Working with Novelcrafter

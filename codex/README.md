@@ -29,7 +29,7 @@ World-building reference exported from Novelcrafter. Each entry keeps its Novelc
 | Entry | Members / Contains | Status |
 |---|---|---|
 | [Bastion of Broken Banners](locations/bastion-of-broken-banners.md) | (none) | Drafted |
-| [Eirion](locations/eirion.md) | (none) | Stub, needs content |
+| [Eirion](locations/eirion.md) | (none) | Drafted |
 
 ## Lore and Factions
 
@@ -37,6 +37,7 @@ World-building reference exported from Novelcrafter. Each entry keeps its Novelc
 |---|---|---|
 | [Covenant of the Eternal Empire](lore/covenant-of-the-eternal-empire.md) | Alexander the Great, Attila the Hun, Charles XII, Erwin Rommel, Hannibal Barca, Napoleon Bonaparte, Thomas "Stonewall" Jackson | Drafted |
 | [Creation Myths of Eirion](lore/creation-myths-of-eirion.md) | Eirion | Drafted |
+| [The Eternal Ones](lore/the-eternal-ones.md) | All three factions | Drafted |
 | [The Gate of Still Flame](lore/the-gate-of-still-flame.md) | (none) | Drafted |
 | [The Last Cohort](lore/the-last-cohort.md) | Jean Lannes, Joan of Arc, Jock Lewes, Nathan Hale, Spartacus, Toussaint Louverture | Drafted |
 | [The Uncrowned](lore/the-uncrowned.md) | Colonel Charles "Chinese" Gordon, Nathan Hale, Peyton Bray, Robert Gould Shaw, Sophie Scholl | Drafted |
