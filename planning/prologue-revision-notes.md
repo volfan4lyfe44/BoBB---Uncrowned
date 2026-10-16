@@ -20,3 +20,12 @@ Decisions made while revising Part 1, The Last Breath. Use these to keep the fiv
 - History fixes: most of the 54th were free-born men, some had escaped slavery; "one of the youngest colonels"; "one of the first Black regiments raised in the North"; the men refused reduced pay instead of accepting it; Boston crowds mostly cheered, with some jeers; a sergeant takes the colors from the fallen bearer (Sgt. William Carney).
 - Epigraph replaced. The Randolph quote was embellished. New epigraph is from Francis George Shaw's letter to Gen. Gillmore, 08/24/1863. Check it against a printed source before publication.
 - Trimmed the training and charge paragraphs; "trench" changed to "parapet."
+
+## Chapter 3: The Last Sentinel
+
+- Epigraph replaced. The Tennyson attribution could not be verified. Now paired: Augustine, *The City of God*, Book IV (Dods translation), and James 2:26 (KJV).
+- Gordon's age corrected to 51. "Telegram" changed to "dispatch" because the telegraph line was cut early in the siege.
+- Timeline: the opening is now the sunset before the fall, so "They came at dawn" lands the next morning.
+- Closing verse made literal ("the city's gate was opened... the rescue came two days late") so it does not suggest the Gate of Still Flame.
+- Kept one "Not X. Not Y." line (Queen and Gladstone). Added the leaves signature. The man in light stays as Gordon's way of seeing the presence.
+- Grammar fixes: "You must not be here," "soldier," tense, and the balcony sentence.

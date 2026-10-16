@@ -14,7 +14,7 @@ Colonel leads the first all-Black regiment in the Union Army against Fort Wagner
 
 ### Chapter 3: The Last Sentinel
 
-The general watches the sunrise over Khartoum, knowing the city will fall to the Mahdi’s forces. He has sent everyone he could away, choosing to remain to honor his duty. The relief column is still two days away. He receives his final telegram and writes a message to God. As the Mahdists attack, the general descends from his palace and stands facing them. He refuses to draw his revolver and is struck by a spear. As he dies, he hears a voice and sees a man in light.
+The general watches the sun set over Khartoum, knowing the city will fall to the Mahdi’s forces. He has sent everyone he could away, choosing to remain to honor his duty. The relief column is still two days away. He receives a final dispatch and writes a message to God. As the Mahdists attack, the general descends from his palace and stands facing them. He refuses to draw his revolver and is struck by a spear. As he dies, he hears a voice and sees a man in light.
 
 ### Chapter 4: A Flower in Bloom
 
