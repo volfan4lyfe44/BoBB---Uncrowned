@@ -42,6 +42,7 @@ These are from general knowledge. Confirm dates and details with a reliable biog
 - **Toussaint and Napoleon meet in person**, briefly, with Toussaint as Napoleon's captive.
 - **Jean Lannes leads the rescue.** In doing so he reveals himself to Napoleon, who never knew his close friend was in Eirion, let alone fighting against him.
 - **The alliance vote lands at the end of Book 1.**
+- **The capture and rescue also move to the end of Book 1 (decided 10/16/2026).** While captive, Toussaint learns hints of the thing Alexander guards and fears most. That mystery carries into Book 2.
 
 ## Why the capture and rescue work
 
@@ -60,19 +61,25 @@ Historical anchors for Lannes (verify before using): one of Napoleon's earliest 
 2. **He learns Napoleon commands in the Covenant.** He keeps it to himself. Discipline over vengeance. Spartacus would want to charge.
 3. **First test of the Uncrowned.** He sizes up Shaw and Bray. He sees Shaw as someone who could build "new order without new empire," and Bray as important but lost.
 4. **The what-if battle.** A Covenant force under Napoleon meets the Cohort. Toussaint wins by refusing Napoleon's kind of battle: terrain, retreat, patience, and allies. Napoleon now knows who he is facing. Lannes stays out of Napoleon's sight.
-5. **The vote (end of Book 1).** The Cohort is split on allying with the Uncrowned. Toussaint casts the deciding vote.
+5. **The capture.** Napoleon takes Toussaint, possibly through a parley or a promise of safety, mirroring his real arrest.
+6. **The meeting and the offer.** Their first face-to-face conversation. Napoleon offers him a seat among the Covenant's gods. Toussaint refuses, in chains, with no rescue in sight.
+7. **The hint.** In captivity, Toussaint overhears or uncovers signs of something Alexander guards and fears above all else.
+8. **The rescue and the reveal.** Lannes leads the mission. Napoleon sees his old friend fighting against him for the first time.
+9. **The vote.** Toussaint returns and casts the deciding vote on the alliance with the Uncrowned. What he learned in captivity shapes that vote.
 
 ### Book 2
 
-1. **The capture.** Napoleon takes Toussaint, possibly through a parley or a promise of safety, mirroring his real arrest.
-2. **The meeting and the offer.** Their first face-to-face conversation. Napoleon offers him a seat among the Covenant's gods: recognition, structure, everything he was denied. Scholl's warning lands here: "What if it's another empire waiting to be born?"
-3. **The refusal.** Toussaint turns it down, in chains, with no rescue in sight.
-4. **The rescue and the reveal.** Lannes leads the mission. Napoleon sees his old friend fighting against him for the first time.
-5. **Aftermath.** Napoleon is shaken, and possibly more dangerous. Toussaint owes Lannes his freedom. Toussaint's question, "What do we do after we win?", starts pointing toward the Gate. See [Gate of Still Flame notes](../gate-of-still-flame-notes.md).
+1. **Aftermath.** Napoleon is shaken by Lannes, and possibly more dangerous. Toussaint owes Lannes his freedom.
+2. **The quests.** The alliance hunts for the truth behind what Alexander fears. Toussaint's hint is their first lead.
+3. **The Gate revealed.** By the end of Book 2, the Gate is understood as a way to move on. Toussaint's question, "What do we do after we win?", finds its answer.
+
+### Book 3
+
+1. **The Cohort crosses first,** with Toussaint's support. See [Gate of Still Flame notes](../gate-of-still-flame-notes.md).
 
 ## Questions for the author
 
-- **Placement:** Should the capture and rescue sit in the first half of Book 2, or be the Book 2 midpoint?
+- **Order at the end of Book 1:** I placed the vote after the rescue, so what Toussaint learned in captivity shapes it. Does that order work, or should the vote come first and lead into the capture?
 - **Lannes's motive:** Why did Lannes join the Cohort instead of waiting for his friend? Did he see what Napoleon became, or did he choose before Napoleon arrived?
 - **Hiding:** How has Lannes stayed hidden from Napoleon until the rescue: a different name, staying away from battles against Napoleon's forces, or something else?
 - **After the reveal:** Does Napoleon try to win Lannes back, or treat him as the worst kind of traitor?

@@ -1,6 +1,6 @@
 # The Bastion of Broken Banners
 
-Working repository for the novel *The Bastion of Broken Banners*.
+Working repository for *The Bastion of Broken Banners*, Book 1 of a planned three-book series.
 
 Souls pulled from history at the moment of their deaths awaken in Eirion. Some join the Uncrowned, some the Last Cohort, and some serve the Covenant of the Eternal Empire. The story follows Peyton "Moose" Bray, a soldier killed in Vietnam, after he wakes in a grey and silent world.
 
@@ -10,7 +10,7 @@ Souls pulled from history at the moment of their deaths awaken in Eirion. Some j
 |---|---|
 | [`manuscript/`](manuscript) | The draft, one Markdown file per chapter, grouped by part. File names sort in reading order. |
 | [`codex/`](codex) | World-building: [characters](codex/characters), [locations](codex/locations), and [lore and factions](codex/lore). Start with the [Codex index](codex/README.md). |
-| [`planning/`](planning) | Outlines, summaries, and story notes. See [chapter summaries](planning/chapter-summaries.md), [character arcs](planning/arcs), and [Gate of Still Flame notes](planning/gate-of-still-flame-notes.md). |
+| [`planning/`](planning) | Outlines, summaries, and story notes. See [chapter summaries](planning/chapter-summaries.md), [series outline](planning/series-outline.md), [character arcs](planning/arcs), and [Gate of Still Flame notes](planning/gate-of-still-flame-notes.md). |
 | [`notes/`](notes) | Loose material: snippets not yet placed in a chapter, and saved [AI chat discussions](notes/ai-chats). |
 | [`source/`](source) | Untouched Novelcrafter export (ZIP) and the original `.docx` manuscript, kept as a backup. |
 
