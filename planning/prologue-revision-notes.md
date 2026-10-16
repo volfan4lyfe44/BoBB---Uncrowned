@@ -23,7 +23,7 @@ Decisions made while revising Part 1, The Last Breath. Use these to keep the fiv
 
 ## Chapter 3: The Last Sentinel
 
-- Epigraph replaced. The Tennyson attribution could not be verified. Now paired: Augustine, *The City of God*, Book IV (Dods translation), and James 2:26 (KJV).
+- Epigraph replaced. The Tennyson attribution could not be verified. Now paired: Augustine, *The City of God*, Book IV (Dods translation), and James 2:20 (KJV), "faith without works is dead"; 2:26 ends "faith without works is dead also."
 - Gordon's age corrected to 51. "Telegram" changed to "dispatch" because the telegraph line was cut early in the siege.
 - Timeline: the opening is now the sunset before the fall, so "They came at dawn" lands the next morning.
 - Closing verse made literal ("the city's gate was opened... the rescue came two days late") so it does not suggest the Gate of Still Flame.

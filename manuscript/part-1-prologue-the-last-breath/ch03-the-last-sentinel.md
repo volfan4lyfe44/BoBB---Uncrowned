@@ -4,7 +4,7 @@
 
 *"Justice being taken away, then, what are kingdoms but great robberies?"* — Augustine, *The City of God*, Book IV
 
-*"Faith without works is dead."* — James 2:26
+*"Faith without works is dead."* — James 2:20
 
 The city had been under siege for three hundred and seventeen days.
 
