@@ -10,7 +10,7 @@ Soldiers, wearing red coats, bind the hands of a captured spy, who had been educ
 
 ### Chapter 2: The Banner that Fell
 
-Colonel leads the first all-Black regiment in the Union Army against Fort Wagner. They charge the fortified walls despite facing prejudice and hostility. He is struck and killed during the assault but his sergeant catches the regiment's flag before it falls. The Moral Compass, a mysterious entity, commends his sacrifice and assures him he will rise again.
+Colonel leads the first all-Black regiment in the Union Army against Fort Wagner. They charge the fortified walls despite facing prejudice and hostility. He is struck and killed during the assault but his sergeant catches the regiment's flag before it falls. A presence commends his sacrifice and assures the Moral Compass that he will rise again.
 
 ### Chapter 3: The Last Sentinel
 
