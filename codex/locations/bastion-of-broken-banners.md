@@ -47,6 +47,8 @@ They do not wave. They hang like unfinished thoughts.
 
 - Long, arched, echoing.
 - Walls covered in carved names, **many scratched out**, others freshly etched.
+- Each soul carves its own name when it is ready to claim it. No one carves it for them.
+- The prologue's closing lines ("his name entered the ledger of the Uncrowned," "another chair at the table of the Uncrowned") look ahead to this wall: each of those souls will carve a name here. They do not mean the presence assigns factions.
 - Some names are written over themselves—**identities rewritten, doubted, denied.**
 - Lit not by torches, but by a soft glow from the stone itself—**memory-light**. A pale mineral in the walls holds the day's light and gives it back faintly after dark. Strange, but natural.
 

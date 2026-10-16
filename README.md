@@ -30,6 +30,8 @@ Total: about 11,000 words.
 
 ## Open items
 
+- [ ] Review the [Book 1 plot outline](planning/book-1-plot-outline.md) proposal and answer its decision list (section 12).
+- [ ] Work through the [Book 1 continuity and fact check](planning/book-1-continuity-check.md), starting with Bray's timeline and the Chapter 4 co-defendant error.
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
 - [ ] Work through the open items in the [prologue revision notes](planning/prologue-revision-notes.md).
 - [ ] Match the prologue revisions in Novelcrafter.

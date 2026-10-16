@@ -12,8 +12,11 @@ A planned three-book series. This is a skeleton built only from decisions made s
 - Toussaint outmaneuvers Napoleon in battle.
 - **Climax:** Napoleon captures Toussaint and offers him a seat in the Covenant. Toussaint refuses. In captivity he learns hints of the thing Alexander guards and fears most. Jean Lannes rescues him and reveals himself to Napoleon.
 - **Ending:** Toussaint casts the deciding vote, and the Cohort and the Uncrowned band together to uncover what Alexander fears.
-- Bray's arc in Book 1: TBD.
-- Payoff: reveal Hale's true last words, set up in Chapter 1 ("But that wasn't the last thing he said."). Placement TBD.
+- **Viewpoints (decided 10/16/2026):** Bray (13 chapters), Gordon (7), and Toussaint (6), plus short interludes. Proposed: Gordon is taken with Toussaint at the parley, so the capture, the offer, and the hint are seen by both. See the [Book 1 plot outline](book-1-plot-outline.md#5-structure).
+- Bray's arc in Book 1: TBD. Proposed in the [Book 1 plot outline](book-1-plot-outline.md#peyton-moose-bray-primary-pov): from walking away from everything to standing with others on his own terms.
+- Payoff: reveal Hale's true last words, set up in Chapter 1 ("But that wasn't the last thing he said."). Placement TBD. Proposed: Chapter 31, at the sergeant's cairn (see the [scene breakdown](book-1-scene-breakdown.md#ch-31-the-cost-bray)).
+
+A full chapter-by-chapter proposal for Book 1 is in the [Book 1 plot outline](book-1-plot-outline.md), with a [continuity and fact check](book-1-continuity-check.md) behind it.
 
 ## Book 2: Title TBD
 
@@ -30,6 +33,11 @@ A planned three-book series. This is a skeleton built only from decisions made s
 
 ## Related notes
 
+- [Book 1 plot outline](book-1-plot-outline.md) (proposal)
+- [Book 1 continuity and fact check](book-1-continuity-check.md)
+- [Book 1 scene breakdown](book-1-scene-breakdown.md)
+- [Book 1 cast arcs](arcs/book-1-cast-arcs.md)
+- [Book 1 history and setting](worldbuilding/book-1-history-and-setting.md)
 - [Toussaint Louverture arc](arcs/toussaint-louverture.md)
 - [Gate of Still Flame notes](worldbuilding/gate-of-still-flame-notes.md)
 - [Eirion world guide](worldbuilding/eirion-world-guide.md)

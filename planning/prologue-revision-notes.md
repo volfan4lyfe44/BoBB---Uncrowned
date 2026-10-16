@@ -5,6 +5,8 @@ Decisions made while revising Part 1, The Last Breath. Use these to keep the fiv
 ## Series-wide decisions
 
 - **The presence is one entity, seen differently.** The same being meets every soul. Each one perceives it through their own life, but one constant detail repeats in every chapter so readers connect them. Signature (confirmed): leaves moving in a windless space, taken from Chapter 1.
+- **The closing lines foreshadow the Hall of Names (decided 10/16/2026).** Lines like "his name entered the ledger of the Uncrowned" do not mean the presence assigns factions. They look ahead to each soul carving its own name on the wall of the Bastion's Hall of Names. A Toussaint chapter, if added, is the exception: his name is never carved there. No rewording needed.
+- **Souls arrive when they die (decided 10/16/2026).** The presence chooses who crosses, not when. See the [Eirion world guide](worldbuilding/eirion-world-guide.md).
 - **Hale's true last words are a later reveal.** Chapter 1 keeps "But that wasn't the last thing he said." The payoff belongs in the Book 1 outline, ideally at a turning point.
 
 ## Chapter 1: The First Flame
