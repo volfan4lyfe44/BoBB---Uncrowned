@@ -40,7 +40,7 @@ Reading the Codex and prologue together, a pattern shows up that the author may 
 **Book 1 forces him to face:**
 
 1. He kept Tate in Vietnam because he could not stand to be there alone. He has known it privately since Ch 7; Book 1 makes him say it aloud (to Sophie, Ch 24).
-   - He keeps choosing the noose: the pact, the second tour, "Victory or death." The Mirror Hall shows him the pattern and the life he refused, not the reason (Ch 22).
+   - He keeps choosing the noose: the pact, the second tour, "Victory or death." The Mirror Hall shows him the pattern and the life he refused, not the reason (Ch 21).
 2. He was shot from his own line, and he has always known it (said aloud in Ch 27).
 3. People here are not banners. He can stand with them without wearing one (village, rescue, vote).
 
@@ -53,14 +53,14 @@ Reading the Codex and prologue together, a pattern shows up that the author may 
 | 10, 11 | Refuses to carve his name. Learns about the dog tag he has worn all along. |
 | 11 | Sophie asks why he went back. He has no answer. |
 | 14 | Rommel's offer tempts him because it is honest about war. He says neither yes nor no. |
-| 15 | Sees the sun, and a village. Recognizes the village. |
-| 18 | Acts. Kills a man who was just following orders, like he did. |
-| 20 | Owns what he did in front of everyone. |
-| 22 | Mirror Hall. Sees the man he could have been, home in Greeneville, and cannot hold his eyes. Sees the pattern, not the reason. |
+| 15 | Sees the sun, and a village (seen through Gordon's eyes). Recognizes the village. |
+| 17 | Acts. Kills a man who was just following orders, like he did. |
+| 19 | Owns what he did in front of everyone. |
+| 21 | Mirror Hall. Sees the man he could have been, home in Greeneville, and cannot hold his eyes. Sees the pattern, not the reason. |
 | 24 | Tells Sophie aloud why he let Tate stay. Volunteers, "Not for a banner." |
 | 27 | Says the truth about his death to Lewes. |
-| 28 | Carries a dead man through the haze, as he carried Tate. This time he knows it, and sets him down. |
-| 33 | Carves his name. Peyton, not Moose. |
+| 31 | Carries a dead man through the haze, as he carried Tate. This time he knows it, and sets him down. |
+| 34 | Carves his name. Peyton, not Moose. |
 
 **Ends Book 1:** Committed to people, not causes. Still afraid of being alone, but he knows it now.
 
@@ -80,7 +80,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 **How the vote answers it:** He votes to bring in the Uncrowned because they refuse every crown, including any he might reach for. He is building a check on himself.
 
-**Also new:** He goes to the parley expecting to be taken (Ch 21). He has read the careful wording of Napoleon's letter, which promises safety to the captives and says nothing about him. He bets on Napoleon's vanity: Napoleon will want to talk before he does anything else, and talk buys Lewes time. He tells only Lewes. In captivity he is still working: reading the fort, the guards, and the clerk.
+**Also new:** He goes to the parley expecting to be taken (decides in Ch 20; the parley is Ch 22, seen by Gordon). He has read the careful wording of Napoleon's letter, which promises safety to the captives and says nothing about him. He bets on Napoleon's vanity: Napoleon will want to talk before he does anything else, and talk buys Lewes time. He tells only Lewes. In captivity he is still working: reading the fort, the guards, and the clerk.
 
 **Ends Book 1:** Freed, owing his life to Lannes and to people he called passive. He has a clue, and a new piece of self-knowledge he will not say aloud yet.
 
@@ -97,7 +97,8 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 **Book 1 deepening:**
 
 - **The guns.** He was an artilleryman. Eirion took away his weapon. Every battle here is fought with a hand tied. That makes his powder work personal, not just ambitious. (Ch 13)
-- **He keeps his word to the letter.** He releases the captives exactly as promised, then takes Toussaint, whom the letter never mentioned. He is not a liar. He is a lawyer of promises. (Ch 21)
+- **He keeps his word to the letter.** He releases the captives exactly as promised, then takes Toussaint and Gordon, whom the letter never mentioned. He is not a liar. He is a lawyer of promises. (Ch 22)
+- **He wants Gordon too.** Jackson wants the keeper who broke the Accord. Napoleon wants something better: the most famous governor of the empire that beat his own, governing for him. He offers Gordon the western marches and the power to end slavery there. (Ch 25)
 - **He wants Toussaint, not his death.** Toussaint is the only commander who has beaten him in Eirion. Napoleon would rather own that talent than fight it twice. (Ch 23)
 - **The letters from Fort de Joux.** Toussaint asks whether he ever read them. Recommended answer: "I read the first." It is worse than silence.
 - **Lannes.** In Ch 29 he realizes how Toussaint read him so well in the campaign: someone who knew his habits was advising the Marshal. The defeat and the betrayal become one wound.
@@ -134,7 +135,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 **His history with the Bastion (proposed):** He built it to mourn, and left because mourning freed no one. Every Uncrowned soul is, to him, someone who chose his first mistake.
 
-**Book 1 beats:** Wants to strike in Ch 8. Held in reserve all through Ch 16. Then gets the charge that breaks the line, at the moment Toussaint picks. The partnership works when Spartacus trusts the timing. Calls the parley a trap (Ch 21). Leads the diversion at the rescue (Ch 28). Votes no (Ch 32).
+**Book 1 beats:** Wants to strike in Ch 8. Held in reserve all through Ch 16. Then gets the charge that breaks the line, at the moment Toussaint picks. The partnership works when Spartacus trusts the timing. Calls the parley a trap (Ch 20). Leads the diversion at the rescue (Ch 28). Votes no (Ch 32).
 
 **Seed for Book 3:** The Cohort crosses the Gate first. For Spartacus, that will mean finally being allowed to stop.
 
@@ -148,7 +149,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 **What she gets wrong:** Native volunteers believe she is holy, and she lets them because it keeps them brave. It is the same thing Alexander does with his godhood, on a smaller scale. She knows.
 
-**Book 1 beats:** Rallies a breaking wing in the battle (Ch 16). Forces the rescue in council: "No one came for me." (Ch 25) Leads the diversion with Spartacus. Votes yes.
+**Book 1 beats:** Rallies a breaking wing in the battle (Ch 16). Forces the rescue in council: "No one came for me." (Ch 26) Leads the diversion with Spartacus. Votes yes.
 
 **Seed:** A later conversation with Sophie or Bray about using belief.
 
@@ -172,25 +173,53 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 ## Charles Gordon
 
+**Viewpoint character, 7 chapters (12, 15, 18, 22, 25, 28, 33).** The author studied Gordon for a college thesis. Everything below is a scaffold for that knowledge, not a substitute for it. Historical details marked "verify" are from general knowledge.
+
 **Want:** To do his duty, so that he never has to decide what his duty is.
 
 **Fear:** That faith alone was never enough, and that he stayed in the Bastion for 85 years so he would not have to find out.
 
-**What he gets wrong:** He treats the Accord as sacred because he was handed it, not because he ever judged it just.
+**What he gets wrong:** He treats the Accord as sacred because he was handed it, not because he ever judged it just. "I will not raise my hand" was faith at Khartoum. In Eirion it has become a place to hide.
+
+**What his life gives the story (verify details):**
+
+- **The Taiping campaign** in China, where he earned "Chinese Gordon": a soldier of empire who commanded other people's armies.
+- **Governor-general of the Sudan,** where he worked to suppress the slave trade under the Khedive's authority. A good man doing good with a despot's power. This is exactly what Napoleon offers him in Ch 25, and exactly what Toussaint did for France before France took it back.
+- **Gravesend,** his years caring for poor boys. The village healer in Ch 15 is the same man.
+- **His evangelical, private, idiosyncratic faith** and his dislike of honors.
+- **Khartoum:** sent to evacuate, chose to stay, died two days before relief. "I will not raise my hand against them."
 
 **Book 1 beats:**
 
 | Chapter | Beat |
 |---|---|
-| 7 | His note at the cairn shows he is already thinking of leaving. |
-| 15 | Healer and trader in the village. Gentle, and good at it. |
-| 18 | Will not raise his hand, as at Khartoum. |
-| 20 | Receives Jackson's letter. |
-| 22 | Bray, back from the Mirror Hall, tells him he will go if Gordon asks, but not to be forgiven. Gordon refuses Jackson: "I have kept this Accord for sixty years because I was told to. No one ever asked whether it was just." |
-| 28 | Raises his hand to protect the watcher. His first blow in a hundred years. |
-| 33 | Leaves the Bastion with the alliance. |
+| 7 | His note at the cairn (seen by Bray): he is already thinking of leaving. |
+| 10, 11 | Seen from outside by Bray: courteous, contained, watching. |
+| **12** | **The Keeper.** His round of the Hall: sixty years of scratching lines through the names of souls who left, never knowing where they went. Prayer. Jackson's letter. The page he left at the cairn and the walk home. In Bray he sees the doubter he might have been without God. |
+| **15** | **Below the Haze.** Watches Bray see the sun and sit down in the road. The village as his true ministry. Sees Bray read the village like a soldier. |
+| 17 | Will not raise his hand, as at Khartoum (seen by Bray). |
+| **18** | **Ashes.** Knows he stood still while Bray moved. Hale, whom he has not forgiven for leaving. Toussaint: "You kept them very well, until yesterday." |
+| 21 | Opens the Mirror Hall's doors for Bray. Has never gone in himself. |
+| **22** | **The Keeper's Answer.** Refuses Jackson. The gates close. Goes to the parley, half believing the forms of honor will hold. Taken. His name was the bait. |
+| **25** | **The Governor.** Napoleon's offer: govern the western marches and end slavery there. The Sudan again. Night through the wall with Toussaint. Refuses. Reads "crossed" in the ledger and thinks of his scratched names. |
+| **28** | **The Fort.** The rescue from inside. Raises his hand, a guard's staff, to protect the watcher. His first blow in a hundred years. |
+| 31 | Reads over the sergeant's cairn. |
+| 32 | Speaks for the Uncrowned at the council (seen by Toussaint). |
+| **33** | **The Keeper's Last Night.** Matches the ledger to the Hall with Toussaint. Gives the Hall to Shaw. Will not let his name be scratched. Stops at the Mirror Hall's doors. |
 
-**Seed:** He has never entered the Mirror Hall. The Codex hints at a suppressed part of his identity. Keep it unspoken in Book 1.
+**Relationships carried by his chapters:**
+
+- **Bray:** Mentor and doubter. Gordon sees in Bray what he would have been without faith; Bray sees in Gordon what he would be if he stopped moving. The Codex calls Gordon "a warning of what happens when you linger too long at the edge." In Book 1 he stops lingering.
+- **Toussaint:** The pairing at the center of Gordon's book. An imperial governor who fought slavers and a man who freed himself from slavery and governed for an empire that betrayed him. Both were offered a seat in the same corridor. Both refused.
+- **Jackson:** Letters only (Ch 12, 19, 22, 33). Two devout soldiers, each sure the other is wrong and worth writing to. Gordon's last letter tells Jackson he has left the Bastion.
+- **Hale:** Gordon disapproved when Hale left the Bastion. By the end Gordon has done the same thing.
+
+**Ends Book 1:** Out of the Bastion, by choice. Not healed. He has raised his hand once.
+
+**Seeds:**
+
+- He has never entered the Mirror Hall (Ch 21, 33). Recommend Book 2.
+- The Codex hints at a suppressed part of his identity. With his own chapters, the author decides how much of that interior the reader sees. Recommendation: in Book 1, let it show only as reticence: what he does not let himself think, cut off mid-thought. The Mirror Hall in Book 2 is the natural place for more.
 
 ---
 
@@ -203,7 +232,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 **Book 1 beats:**
 
 - Greets Bray at the gate (Ch 9).
-- Gives Bray the Codex line in Ch 15 or 20: "You can't stop believing just because belief hurt you."
+- Gives Bray the Codex line in Ch 19: "You can't stop believing just because belief hurt you."
 - First to back Bray after the village. Opens the Bastion to the refugees.
 - Loses one of his old sergeants in the rescue (see below), so his own line is tested.
 - Stays as keeper (Ch 33), still believing.
@@ -224,7 +253,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 - **Ch 11:** Asks Bray what he died for. Won't accept "nothing."
 - **Ch 14:** Faces Rommel. He tells her, as something he heard, that her last leaflet reached Britain and was dropped over Germany by British planes (verify). Her words were carried by the enemy of her enemy. It shakes her fear and complicates it.
-- **Ch 20:** Makes Bray say plainly what he did. Accountability, not punishment.
+- **Ch 19:** Makes Bray say plainly what he did. Accountability, not punishment.
 - **Ch 24:** Asks Bray whether the rescue is atonement or a choice.
 - **Ch 32:** Sets her condition: the alliance answers to the natives it fights among.
 
@@ -244,7 +273,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 - Left the "Keep walking" note and the tricorn on the trail (Ch 6), a custom he started for newcomers.
 - Fights well in the battle.
-- Brings the rescue request (Ch 24). His Ch 1 memory, Washington asking who would volunteer, is echoed when Bray steps up.
+- Carries Toussaint's request and warning to Gordon, and rides with him to the parley (Ch 22). Brings the freed captives and the rescue request to the Bastion (Ch 24). His Ch 1 memory, Washington asking who would volunteer, is echoed when Bray steps up.
 - In the rescue he moves to hold the stair alone. The sergeant stops him: "You already did this once, son." The sergeant holds it instead and dies. Hale lives, saved from his second martyrdom by someone else's.
 - At the sergeant's cairn (Ch 31), he tells Bray his true last words on the gallows, the payoff set up in Ch 1. Proposal: a quiet question, "Was I wrong?", which the presence answered. The boy who never doubts did, once, at the end. See the [scene breakdown](../book-1-scene-breakdown.md#ch-31-the-cost-bray).
 
@@ -266,7 +295,7 @@ All beats below build on the [decided arc](toussaint-louverture.md).
 
 ## Stonewall Jackson
 
-**Offstage.** Guarantor of the Accord. His letter to Gordon (Ch 20) is courteous, scriptural, and absolute. Plants the Gordon and Jackson letters subplot from the Codex.
+**Offstage.** Guarantor of the Accord. His letter to Gordon (Ch 19) is courteous, scriptural, and absolute. Plants the Gordon and Jackson letters subplot from the Codex.
 
 ---
 
@@ -281,7 +310,7 @@ These are proposals. Names, genders, and details are the author's call. These no
 | **Who** | A young plain-watcher, Bray's age in looks, from a family that has watched the plain for generations. |
 | **Want** | To do their duty: bring the god safely to the house of the open gate. |
 | **Arc** | Begins by treating Bray as a god. Bray is hungry, frightened, and mortal, and the watcher is visibly disappointed. Ends by helping him anyway, as a man. The first native in the series to see an Eternal One plainly. |
-| **Key beats** | Shadows and guides Bray (Ch 7, 9). Teaches him the haze paths and a few words (Ch 15). Loses a younger sibling to the Covenant in the village raid (Ch 18), who comes back in the exchange (Ch 21). Guides the rescue, but only with Bray (Ch 24, 27). Gordon protects them in the fort (Ch 28). |
+| **Key beats** | Shadows and guides Bray (Ch 7, 9). Teaches him the haze paths and a few words (Ch 15). Loses a younger sibling to the Covenant in the village raid (Ch 17), who comes back in the exchange (Ch 22). Guides the rescue, but only with Bray (Ch 24, 27). Gordon protects them in the fort (Ch 28). |
 | **Gift** | Gives Bray their people's word for one who watches the plain. Bray does not understand what it means yet. In Book 3 he becomes a watcher of another threshold. |
 
 ### The sergeant
@@ -307,8 +336,8 @@ These are proposals. Names, genders, and details are the author's call. These no
 | | |
 |---|---|
 | **Who** | A native clerk in the Watch-Fort, from the Covenant heartland, raised to believe the Eternal Ones are gods. |
-| **Turn** | Watches Napoleon's chemists making forbidden fire, and starts to doubt. Toussaint, who was a coachman and steward before he was a general, speaks to him as an equal. No god has done that before. |
-| **Role** | Shows Toussaint the transfer ledger with "crossed" (Ch 26). Unbars the cistern door during the rescue (Ch 28). |
+| **Turn** | Watches Napoleon's chemists making forbidden fire, and starts to doubt. Toussaint, who was a coachman and steward before he was a general, speaks to him as an equal. Gordon, a scholar of records, knows which question to ask. No god has done that before. |
+| **Role** | Shows Gordon the transfer ledger with "crossed" (Ch 25). Unbars the cistern door during the rescue (Ch 28). |
 | **Fate** | The author's call. If he stays behind, Napoleon will find out. If he comes with them, the alliance gains a man who can read Covenant records. |
 
 ### The river lord
@@ -316,7 +345,7 @@ These are proposals. Names, genders, and details are the author's call. These no
 | | |
 |---|---|
 | **Who** | Head of the strongest marches clan. |
-| **Role** | Makes the alliance that wins the battle (Ch 12 and 16). The price: the Cohort swears it will rule no one in the marches after the war. |
+| **Role** | Makes the alliance that wins the battle (Ch 8 and 16). The price: the Cohort swears it will rule no one in the marches after the war. |
 | **Why it matters** | Gives the natives political weight on the page, in the way the reference series give every side its own politics. Answers part of Toussaint's question, "What do we do after we win?": we leave. |
 
 ### The colonel
@@ -324,5 +353,5 @@ These are proposals. Names, genders, and details are the author's call. These no
 | | |
 |---|---|
 | **Who** | An Eternal cavalry officer of Napoleon's era, serving in his army. |
-| **Role** | Commands the detachment that clears the village (Ch 18). His order is the one Bray hears in Captain Thompson's voice: hit whatever you see. Respects Gordon by reputation, and tells him the Accord gives him no voice outside the walls. |
+| **Role** | Commands the detachment that clears the village (Ch 17). His order is the one Bray hears in Captain Thompson's voice: hit whatever you see. Respects Gordon by reputation, and tells him the Accord gives him no voice outside the walls. |
 | **Why an Eternal** | Bray can only understand Eternal speech (rule R4). The order has to reach him in words. |

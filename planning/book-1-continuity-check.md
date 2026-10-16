@@ -92,7 +92,7 @@ The prologue items are settled (see the table at the top). These come from the p
 | A copy of the sixth White Rose leaflet reached Britain and was dropped over Germany by the RAF in 1943. | Ch 14 (Rommel and Sophie) | **Verify.** Have Rommel say he heard of it, not that he saw it. |
 | Lannes reproached Napoleon on his deathbed. | Lannes's motive | **Verify.** The anecdote is disputed. |
 | Toussaint's 1801 constitution named him governor for life. | Ch 23 (Napoleon's mirror) | **Verify.** |
-| Joan was never ransomed by Charles VII. | Ch 25 | **Verify.** |
+| Joan was never ransomed by Charles VII. | Ch 26 | **Verify.** |
 | The Lewes bomb and how Jock Lewes died in 1941. | Lewes's arc | **Verify.** |
 | Pat Tillman left professional football to enlist and was killed by friendly fire in 2004. | Bray's Codex note | **Verify.** It sharpens the Tillman echo now that Bray chose to go back. |
 

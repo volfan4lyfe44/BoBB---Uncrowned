@@ -79,7 +79,7 @@ Something that might have been amusement.
 | Plant | Payoff |
 |---|---|
 | A cold cell, the unanswered letters to the First Consul | Ch 23 (current numbering): Napoleon holds him in a cold cell again and admits, "I read the first." Readers already felt those letters go unanswered. |
-| "They had invited him to a meeting... His safety assured." He went anyway. | Ch 21: he goes to Napoleon's parley knowing the history. The prologue makes that choice readable instead of foolish. |
+| "They had invited him to a meeting... His safety assured." He went anyway. | Ch 20 and 22: he goes to Napoleon's parley knowing the history. The prologue makes that choice readable instead of foolish. |
 | "Governor for life," and his doubt about it | Ch 23: Napoleon's sharpest weapon, "You are me without the crown." Ch 32: his vote is a check on himself. |
 | "On what terms?" | Who he is in one line: a negotiator to the end, even with the presence. Echoes the prologue pattern (the presence answers Shaw; it does not answer Bray). |
 | "His name was not written among the Uncrowned. He would choose what to be called." | The Cohort's custom of titles, and the only prologue death that does not end among the Uncrowned. It tells readers there is more than one road in Eirion before Part 2 begins. |
@@ -88,9 +88,9 @@ Something that might have been amusement.
 
 ### How big is Toussaint's storyline?
 
-**Decided 10/16/2026: about 8 chapters.** Toussaint has eight main chapters (8, 12, 16, 21, 23, 26, 29, 32). Bray has sixteen. See the outline's [structure section](../book-1-plot-outline.md#5-structure). If kept, this prologue chapter would be his ninth, and it costs about 700 words.
+**Decided 10/16/2026: three voices.** Bray has 13 chapters, Gordon 7, and Toussaint 6 (8, 16, 20, 23, 29, 32). See the outline's [structure section](../book-1-plot-outline.md#5-structure). If kept, this prologue chapter would be Toussaint's seventh, and it costs about 700 words.
 
-The prologue chapter works at this size because it does the setup the cut chapters used to do. Readers arrive at Ch 21 already knowing he walked into a trap like this once before.
+The prologue chapter works at this size because it does the setup the cut chapters used to do. Readers arrive at Ch 20 already knowing he walked into a trap like this once before. With Gordon taken at the same parley, the prologue also sets the two men's deaths side by side: Gordon's spear in Ch 3, Toussaint's cold cell in the new Ch 2.
 
 ### Facts to verify before use
 
