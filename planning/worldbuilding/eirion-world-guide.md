@@ -9,6 +9,7 @@ Working guide to Eirion as a real world. Decisions are marked as decided. Everyt
 - **No magic or fantasy creatures.** The series is historical fiction set in an afterlife, with light science fiction and adventure.
 - **The Eternal Ones** are souls cast from Earth to Eirion. They do not age once they arrive. They live forever unless killed or unless they leave by another way, such as the Gate. See the [Codex entry](../../codex/lore/the-eternal-ones.md).
 - **Gunpowder is banned by Alexander (decided 10/16/2026).** A native with a musket can kill an Eternal One, which would break the order his godhood depends on. He hunts down anyone who tries to make it. Napoleon quietly experimenting with it is a threat inside the Covenant. Scarce sulfur or saltpeter can back up the ban (optional).
+- **The crossing is the only supernatural element (decided 10/16/2026).** It is inexplicable, not fantasy magic. The Loom is cut. Everything native to Eirion follows normal physical rules.
 - **The reference series are models for tone, politics, and war.** The author prefers the parts of those books that don't involve magic.
 - **The natives of Eirion** are the world's own human population. Bray's eventual view is that the Eternal Ones should not interfere with them if it can be helped.
 
@@ -54,15 +55,18 @@ A native noble, soldier, or commoner living under Covenant rule would give the n
 
 ## Open questions and pings
 
-### 1. Some Codex details read as supernatural (needs a decision)
+### 1. Bastion details that break the rule (needs a decision)
 
-The premise itself (souls crossing worlds, never aging, a Gate to whatever lies beyond) can't be explained by Earth science. That's fine, but the Codex has other unexplained details:
+The Loom references are removed from the Bastion and Nathan Hale entries. Two Bastion details still read as supernatural. Each can be cut or given a grounded version:
 
-- The Bastion's "memory-light" glowing from the stone.
-- The Mirror Hall's glass showing "selves that could have been."
-- The Loom, where souls are "pulled from" before arriving.
+- **Memory-light** (the Hall of Names is "lit by a soft glow that seems to come from the stone itself").
+  - Grounded version: a pale mineral in the stone that holds daylight and glows faintly after dark. Strange, but natural. This fits the light science fiction tone, like the crystalline grey ground in Chapter 6.
+- **The Mirror Hall** (glass "showing selves that could have been").
+  - Grounded version: a sealed chamber of polished steel and old glass, dark and silent, where a soul sits alone with their own reflection for as long as they can stand it. What they "see" is what they finally admit to themselves. No one knows what happens inside, only who comes out changed. It works as a psychological test, and a small rehearsal for the Gate.
 
-**Suggested rule:** the crossing is the only thing in Eirion that can't be explained. Arrival, agelessness, and the Gate are that mystery. Everything native to Eirion follows normal physical rules. Under that rule, either cut memory-light and the Mirror Hall, or tie them to the crossing as part of the mystery Alexander fears.
+### Creation myths and "threads"
+
+The creation myths still use the Loom and thread imagery. Recommendation: keep them as in-world beliefs, native or Covenant, that try to explain the crossing and get it wrong. That fits the Cohort ideal "Memory is not truth, only reflection." The same goes for the "threads of fate" wording in the Alexander and Uncrowned entries, which reads as figurative.
 
 ### 2. Other questions
 

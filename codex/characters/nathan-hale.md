@@ -52,7 +52,7 @@ Hale fights with the **weapon of a patriot**, but the soul of a teacher.
 Hale is:
 - **A beacon**: reminding others that purity of heart still matters
 - **A challenge**: especially to Moose and Gordon, who both know that belief alone can kill
-- **A tragic potential**: If Hale cannot evolve, he risks being shattered by the Loom—*a martyr twice lost*
+- **A tragic potential**: If Hale cannot evolve, he risks being broken a second time, *a martyr twice lost*
 
 > “He is the boy who believed the story would end in triumph. Now he must learn that stories, even just ones, end in cost.”
 

@@ -31,7 +31,7 @@ Total: about 11,000 words.
 ## Open items
 
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
-- [ ] Decide what to do with memory-light, the Mirror Hall, and the Loom, and define the Wane. See the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
+- [ ] Decide on grounded versions of memory-light and the Mirror Hall, and define the Wane. See the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
 - [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/worldbuilding/gate-of-still-flame-notes.md).
 - [ ] Match these changes in Novelcrafter so the next export lines up: Napoleon spelling in the Codex, chapter 6 and 7 titles, and the "Chatper 2" heading.
 

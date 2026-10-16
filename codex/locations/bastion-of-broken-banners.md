@@ -20,7 +20,7 @@ fields: {}
 
 The Bastion stands on a high plain of slate-colored earth, where the wind whispers but never howls. There are no roads to it. No flags above it. Only a flickering haze on the horizon marks its presence—like **a memory struggling to remain vivid**.
 
-It is the **first place souls arrive when pulled from the Loom**. And for many, it is the last place they ever leave.
+It is the **first place souls arrive after the crossing**. And for many, it is the last place they ever leave.
 
 ---
 
