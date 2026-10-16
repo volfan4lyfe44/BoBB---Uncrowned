@@ -105,9 +105,15 @@ All beats come from the [arc notes](arcs/toussaint-louverture.md) **[Decided]**.
 
 ## 5. Structure
 
-**Length target:** About 105,000 to 115,000 words, 35 chapters. The prologue stays short (about 2,400 words). Main chapters average about 3,500 words.
+**Length target:** About 100,000 to 110,000 words, 33 chapters. The prologue stays short (about 2,600 words). Main chapters average about 3,500 words.
 
-**Point of view:** Bray carries about 55 percent. Toussaint carries about 35 percent. Three short interludes (two Napoleon, one Lannes) carry the rest. The prologue already uses five viewpoints, so readers are prepared for more than one.
+**Point of view (decided 10/16/2026: Toussaint gets about 8 chapters).** Of the 28 main chapters:
+
+- **Bray: 16 chapters,** about 60 percent of the words.
+- **Toussaint: 8 chapters** (8, 12, 16, 21, 23, 26, 29, 32), about 30 percent. Plus the prologue chapter if the author keeps it.
+- **Interludes: 4** (Napoleon in 13, 17, and 30; Lannes in 25).
+
+To reach eight, the two battle chapters became one (Ch 16), "Safe Conduct" and "The Parley" became one (Ch 21), and "Ashes" moved to Bray's point of view (Ch 19). No decided Toussaint beat was lost. The prologue already uses five viewpoints, so readers are prepared for more than one.
 
 **Parts:** Part 1 and Part 2 titles are the author's. Parts 3 to 5 have working titles only.
 
@@ -115,9 +121,9 @@ All beats come from the [arc notes](arcs/toussaint-louverture.md) **[Decided]**.
 |---|---|---|---|
 | 1: Prologue, The Last Breath | 1 to 5 | Prologue | Bray's name is written among the Uncrowned. **[Drafted]** |
 | 2: The Bastion of Broken Banners | 6 to 14 | Act I (setup) | Bray leaves the Bastion with Gordon. |
-| 3: Working title, The Grey March | 15 to 20 | Act II, first half | The village. Bray breaks the Accord. (Midpoint) |
-| 4: Working title, A Seat at the Table | 21 to 28 | Act II, second half | Toussaint is a prisoner; Bray volunteers for the rescue. |
-| 5: Working title, The Vote | 29 to 35 | Act III | The vote, and Bray carves his name. |
+| 3: Working title, The Grey March | 15 to 19 | Act II, first half | The village burns (midpoint, Ch 18); Bray meets Toussaint in the ashes. |
+| 4: Working title, A Seat at the Table | 20 to 26 | Act II, second half | Toussaint is a prisoner; Bray volunteers for the rescue. |
+| 5: Working title, The Vote | 27 to 33 | Act III | The vote, and Bray carves his name. |
 
 ### The two threads on one map
 
@@ -132,7 +138,7 @@ The plot works because every thread is about the same piece of ground: the passe
 |---|---|---|
 | Setup | Arrival, Bastion, Accord, Rommel's pitch | War council, Napoleon's army, Lannes keeps away |
 | Rising | Down to the native village | The battle; Napoleon retreats |
-| **Midpoint** | The village is cleared; Bray acts | Arrives at the burned village; meets Bray (**threads touch**) |
+| **Midpoint** | The village is cleared; Bray acts; Toussaint arrives in the ashes (**threads touch**, told by Bray) | (Toussaint seen through Bray's eyes) |
 | Pressure | Covenant demands Bray; Mirror Hall | Parley, capture, the offer, the hint |
 | Climax | Rescue (**threads merge**) | Rescue; Lannes revealed |
 | Resolution | Carves his name | Casts the deciding vote |
@@ -150,7 +156,7 @@ Rough word counts are targets, not limits.
 **Open: a sixth prologue death (proposed: yes, Toussaint at Fort de Joux, 1803).** The revision notes ask whether the prologue needs a Last Cohort or Covenant death. Recommend Toussaint:
 
 - He is the second viewpoint. Readers meet Bray's death before Bray's story, and should meet Toussaint's the same way.
-- The cold cell, the unanswered letters to Napoleon, and the slow death pay off in Ch 25, when Napoleon holds him in a cold cell again and admits he read the first letter.
+- The cold cell, the unanswered letters to Napoleon, and the slow death pay off in Ch 23, when Napoleon holds him in a cold cell again and admits he read the first letter.
 - The closing tag can break the pattern on purpose. Every other tag enters the soul among the Uncrowned. His can say his name was not written there, because he would choose his own title. That plants the Cohort's custom of titles.
 - **Placement:** chronologically between Hale (1776) and Shaw (1863), as the new Chapter 2. That renumbers every later chapter by one. The planning docs keep the current numbers until the author decides.
 
@@ -182,47 +188,46 @@ Rough word counts are targets, not limits.
 
 **Ch 15. Below the Haze (Bray), about 3,500 words.** The descent off the plain. The air thickens. Bray sees the sun for the first time in Eirion. The plain-watchers' village: fields, children, the watcher again. Bray learns a few words. He sees what the Bastion gives the village (Gordon's medicine and knowledge) and what the village risks by guiding arrivals. A farming village at the edge of someone else's war. He knows exactly where he has seen this before.
 
-**Ch 16 and 17. The Battle (Toussaint), about 7,500 words across two chapters.** The what-if battle **[Decided]**. Toussaint picks broken ground where Napoleon's concentrated columns cannot deploy. He makes Napoleon commit, cuts his supply line with native allies who know the country, and gives Spartacus his charge at the one moment it will break the line. Joan rallies a wavering wing. Hale fights well. Napoleon does not lose the army. He loses the campaign and retreats. Now he knows who he faces **[Decided]**. Lannes stays out of Napoleon's sight **[Decided]**, by a narrow margin.
+**Ch 16. The Battle (Toussaint), about 6,500 words.** One long chapter (formerly two). The what-if battle **[Decided]**. Toussaint picks broken ground where Napoleon's concentrated columns cannot deploy. He makes Napoleon commit, cuts his supply line with native allies who know the country, and gives Spartacus his charge at the one moment it will break the line. Joan rallies a wavering wing. Hale fights well. Napoleon does not lose the army. He loses the campaign and retreats. Now he knows who he faces **[Decided]**. Lannes stays out of Napoleon's sight **[Decided]**, by a narrow margin.
 
-**Ch 18. Interlude: Forage (Napoleon), about 2,000 words.** In retreat, Napoleon orders his columns to live off the villages at the plain's edge, and to punish any that fed or guided the Cohort. Lewes's network runs through the plain-watchers. He also sees a use for captives.
+**Ch 17. Interlude: Forage (Napoleon), about 2,000 words.** In retreat, Napoleon orders his columns to live off the villages at the plain's edge, and to punish any that fed or guided the Cohort. Lewes's network runs through the plain-watchers. He also sees a use for captives.
 
-**Ch 19. The Clearing (Bray), about 4,500 words. MIDPOINT.** A Covenant detachment comes to the village. The officer's order is the same as Captain Thompson's in Ch 6: hit whatever you see. Gordon invokes the Accord and will not raise his hand, as at Khartoum. Bray acts. He gets villagers out by the haze paths the watcher showed him, and in the fight he kills a Covenant soldier, a native in Covenant service. Many escape. Some are taken, including people the watcher loves. The Accord is broken.
+**Ch 18. The Clearing (Bray), about 4,500 words. MIDPOINT.** A Covenant detachment comes to the village. The officer's order is the same as Captain Thompson's in Ch 6: hit whatever you see. Gordon invokes the Accord and will not raise his hand, as at Khartoum. Bray acts. He gets villagers out by the haze paths the watcher showed him, and in the fight he kills a Covenant soldier, a native in Covenant service. Many escape. Some are taken, including people the watcher loves. The Accord is broken.
 
-**Ch 20. Ashes (Toussaint), about 3,500 words.** The Cohort, following Napoleon's retreat, reaches the burned village. **The threads touch.** Toussaint sizes up Bray: important, still lost **[Decided beat]**. Hale and Gordon recognize each other. Bray asks Toussaint to help get the captives back. Toussaint asks him what he will do after. Bray has no answer. The Cohort moves on; Bray and Gordon take the refugees up to the Bastion.
+**Ch 19. Ashes (Bray), about 3,500 words.** Now told by Bray. The Cohort, following Napoleon's retreat, reaches the burned village. **The threads touch.** Bray's first sight of Toussaint: a plain patched coat, no insignia, and every soldier watching him. Toussaint takes Bray's measure in one look, and Bray feels it the way he felt recruiters and drill sergeants size him up, except this man seems to see something he hasn't decided about yet. That is the decided beat of Toussaint sizing him up, felt from the other side **[Decided beat]**. Hale and Gordon recognize each other. Bray asks Toussaint to help get the captives back. Toussaint asks him what he will do after. Bray has no answer. The Cohort moves on; Bray and Gordon take the refugees up to the Bastion. **What moves elsewhere:** Toussaint's private read of Bray (important, still lost) surfaces in Ch 21, when he weighs who in Eirion he would trust after the war.
 
 ### Part 4: A Seat at the Table
 
-**Ch 21. The Broken Accord (Bray), about 4,000 words.** Refugees inside the Bastion, which has never sheltered natives. The Uncrowned divide. A letter arrives in Stonewall Jackson's hand, addressed to Gordon: hand over the man who killed a soldier of the Covenant, and the Accord stands; refuse, and it is over. Shaw backs Bray. Sophie makes Bray say plainly what he did and why, with no cover.
+**Ch 20. The Broken Accord (Bray), about 4,000 words.** Refugees inside the Bastion, which has never sheltered natives. The Uncrowned divide. A letter arrives in Stonewall Jackson's hand, addressed to Gordon: hand over the man who killed a soldier of the Covenant, and the Accord stands; refuse, and it is over. Shaw backs Bray. Sophie makes Bray say plainly what he did and why, with no cover.
 
-**Ch 22. Safe Conduct (Toussaint), about 3,500 words.** Napoleon offers a parley under safe conduct to exchange the captives from the village. Spartacus calls it a trap. Toussaint: "I know. I have been here before." He goes because the captives' lives are real, and he arranges for Lewes's scouts to shadow him. He orders Lannes to stay away.
+**Ch 21. Safe Conduct (Toussaint), about 5,500 words.** One chapter (formerly "Safe Conduct" and "The Parley"). Napoleon offers a parley under safe conduct to exchange the captives from the village. Spartacus calls it a trap. Toussaint: "I know. I have been here before." He goes because the captives' lives are real, and he arranges for Lewes's scouts to shadow him. He orders Lannes to stay away. Then the ride down the terrace road, and the parley itself: Napoleon keeps the letter of his promise, the captives walk away safe, and then he takes Toussaint. "I promised their safety." Lewes's shadows see it and cannot stop it.
 
-**Ch 23. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. Bray already knows why he let Tate stay (Ch 7). What he has never looked at is the man he could have been: the Bray who came home in 1969 and stayed in Greeneville, alive. He cannot hold that man's gaze, and he cannot say why he refused that life. What he does see is the pattern: going back, extending, volunteering, always choosing the noose. Giving himself up to the Covenant would be the same choice again. He comes out with his core question sharper, not answered. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice, and the Bastion's rusted gates close for the first time in a thousand years.
+**Ch 22. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. Bray already knows why he let Tate stay (Ch 7). What he has never looked at is the man he could have been: the Bray who came home in 1969 and stayed in Greeneville, alive. He cannot hold that man's gaze, and he cannot say why he refused that life. What he does see is the pattern: the pact, going back, volunteering, always choosing the noose. Giving himself up to the Covenant would be the same choice again. He comes out with his core question sharper, not answered. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice, and the Bastion's rusted gates close for the first time in a thousand years.
 
-**Ch 24. The Parley (Toussaint), about 3,500 words.** Napoleon keeps the letter of his promise: the captives are released and walk away safe. Then he takes Toussaint. "I promised their safety." Lewes's shadows see it and cannot stop it.
 
-**Ch 25. The Offer (Toussaint), about 4,500 words.** A cold stone fort high on a pass, an echo of Fort de Joux. Their first face-to-face meeting **[Decided]**. Napoleon offers him a seat among the Covenant's gods, and, in private, more: a place beside Napoleon when he sits at the center instead of Alexander. To tempt him, Napoleon reveals what he knows of Alexander's secret, a place far off that no general may visit, guarded by Attila's men, and that Jackson saw once and never speaks of. Toussaint refuses, in chains, with no rescue in sight **[Decided]**. He smells sulfur in the fort.
+**Ch 23. The Offer (Toussaint), about 4,500 words.** A cold stone fort high on a pass, an echo of Fort de Joux. Their first face-to-face meeting **[Decided]**. Napoleon offers him a seat among the Covenant's gods, and, in private, more: a place beside Napoleon when he sits at the center instead of Alexander. To tempt him, Napoleon reveals what he knows of Alexander's secret, a place far off that no general may visit, guarded by Attila's men, and that Jackson saw once and never speaks of. Toussaint refuses, in chains, with no rescue in sight **[Decided]**. He smells sulfur in the fort.
 
-**Ch 26. Someone Must Go (Bray), about 4,000 words.** The freed captives reach the Bastion with Hale, who brings the Cohort's request. Lewes needs a guide who knows the haze paths to the fort. The watcher will lead, but only with Bray. Bray volunteers, an echo of Hale's "Someone must go" in Ch 1. Sophie asks if this is atonement or a choice. Bray: "Not for a banner." Gordon decides to come.
+**Ch 24. Someone Must Go (Bray), about 4,000 words.** The freed captives reach the Bastion with Hale, who brings the Cohort's request. Lewes needs a guide who knows the haze paths to the fort. The watcher will lead, but only with Bray. Bray volunteers, an echo of Hale's "Someone must go" in Ch 1. Sophie asks if this is atonement or a choice. Bray: "Not for a banner." Gordon decides to come.
 
-**Ch 27. Interlude: The Backbone (Lannes), about 3,000 words.** Lannes's history with Napoleon, and why he has kept away for a century and a half (see section 8). In council, Joan forces the rescue: "No one came for me." Spartacus wants a full assault. Lannes overrules him for a small team, and gives himself the lead against Toussaint's order.
+**Ch 25. Interlude: The Backbone (Lannes), about 3,000 words.** Lannes's history with Napoleon, and why he has kept away for a century and a half (see section 8). In council, Joan forces the rescue: "No one came for me." Spartacus wants a full assault. Lannes overrules him for a small team, and gives himself the lead against Toussaint's order.
 
-**Ch 28. The Ledger (Toussaint), about 3,500 words.** Captivity. A native servant in the fort, who owes the Covenant nothing, lets him see a page of Covenant records. Souls sent to Alexander's guarded place are entered not as "dead" or "deserted" but under a third word, "crossed." Napoleon has read the same records and thinks it is a prison. Toussaint is not sure. This is **the hint [Decided]**, kept grounded and specific.
+**Ch 26. The Ledger (Toussaint), about 3,500 words.** Captivity. A native servant in the fort, who owes the Covenant nothing, lets him see a page of Covenant records. Souls sent to Alexander's guarded place are entered not as "dead" or "deserted" but under a third word, "crossed." Napoleon has read the same records and thinks it is a prison. Toussaint is not sure. This is **the hint [Decided]**, kept grounded and specific.
 
 ### Part 5: The Vote
 
-**Ch 29. Through the Haze (Bray), about 3,500 words.** The approach by the native paths: Lannes, Lewes, Hale, Bray, Gordon, the watcher, and a few of Lewes's people. Bray and Lewes talk at night. Bray says it aloud for the first time: the shot came from his own line.
+**Ch 27. Through the Haze (Bray), about 3,500 words.** The approach by the native paths: Lannes, Lewes, Hale, Bray, Gordon, the watcher, and a few of Lewes's people. Bray and Lewes talk at night. Bray says it aloud for the first time: the shot came from his own line.
 
-**Ch 30. The Fort (Bray), about 4,500 words.** The break-in and the fight. Gordon, who would not raise his hand at Khartoum or at the village, chooses to now, to protect someone else. The cost: one of the team dies, permanently. See section 9 for who.
+**Ch 28. The Fort (Bray), about 4,500 words.** The break-in and the fight. Gordon, who would not raise his hand at Khartoum or at the village, chooses to now, to protect someone else. The cost: one of the team dies, permanently. See section 9 for who.
 
-**Ch 31. Two Wounds (Toussaint), about 3,000 words.** The escape across the fort's yard. Napoleon comes out and sees Lannes in the torchlight, fighting for the other side **[Decided]**. The scene is a look, not a speech. Napoleon loses his prisoner and his friend in one moment.
+**Ch 29. Two Wounds (Toussaint), about 3,000 words.** The escape across the fort's yard. Napoleon comes out and sees Lannes in the torchlight, fighting for the other side **[Decided]**. The scene is a look, not a speech. Napoleon loses his prisoner and his friend in one moment.
 
-**Ch 32. Interlude: The Empty Cell (Napoleon), about 2,000 words.** Napoleon alone. He tells Alexander nothing of Lannes. He orders the powder work doubled. One line of grief he does not let anyone see. Sets up Book 2's "Napoleon deals with Lannes's betrayal" **[Decided]**.
+**Ch 30. Interlude: The Empty Cell (Napoleon), about 2,000 words.** Napoleon alone. He tells Alexander nothing of Lannes. He orders the powder work doubled. One line of grief he does not let anyone see. Sets up Book 2's "Napoleon deals with Lannes's betrayal" **[Decided]**.
 
-**Ch 33. The Cost (Bray), about 3,000 words.** A burial in the haze. At the cairn, Hale tells Bray what he really said last on the gallows, the words no one recorded **[payoff decided, placement proposed]**. See the [scene breakdown](book-1-scene-breakdown.md#ch-33-the-cost-bray). Bray writes in the field manual. The watcher and Bray, without a shared language, understand each other.
+**Ch 31. The Cost (Bray), about 3,000 words.** A burial in the haze. At the cairn, Hale tells Bray what he really said last on the gallows, the words no one recorded **[payoff decided, placement proposed]**. See the [scene breakdown](book-1-scene-breakdown.md#ch-31-the-cost-bray). Bray writes in the field manual. The watcher and Bray, without a shared language, understand each other.
 
-**Ch 34. The Vote (Toussaint), about 4,500 words.** The war council, with the Uncrowned there for the first time: Gordon, Shaw, Sophie, Bray. Sophie's condition: the alliance answers to the natives it fights among. Spartacus votes no. Lannes votes no. Joan votes yes. Lewes votes yes. Toussaint casts the deciding vote **[Decided]**, for the reason in section 4. He then lays out what he learned in captivity. Gordon realizes the Hall of Names has kept centuries of records, and that some names were scratched out with no explanation.
+**Ch 32. The Vote (Toussaint), about 4,500 words.** The war council, with the Uncrowned there for the first time: Gordon, Shaw, Sophie, Bray. Sophie's condition: the alliance answers to the natives it fights among. Spartacus votes no. Lannes votes no. Joan votes yes. Lewes votes yes. Toussaint casts the deciding vote **[Decided]**, for the reason in section 4. He then lays out what he learned in captivity. Gordon realizes the Hall of Names has kept centuries of records, and that some names were scratched out with no explanation.
 
-**Ch 35. The Hall of Names (Bray), about 3,000 words.** Back at the Bastion. Shaw stays as its keeper; Gordon prepares to leave with the alliance. Toussaint and Gordon set the "crossed" ledger beside the Hall's scratched-out names. The alliance has its first lead **[Decided ending]**. Last scene: Bray takes a knife to the wall and carves PEYTON BRAY, not Moose. Final line is the author's. One option is a new entry in the field manual that answers the Ch 7 line: he is walking toward something now.
+**Ch 33. The Hall of Names (Bray), about 3,000 words.** Back at the Bastion. Shaw stays as its keeper; Gordon prepares to leave with the alliance. Toussaint and Gordon set the "crossed" ledger beside the Hall's scratched-out names. The alliance has its first lead **[Decided ending]**. Last scene: Bray takes a knife to the wall and carves PEYTON BRAY, not Moose. Final line is the author's. One option is a new entry in the field manual that answers the Ch 7 line: he is walking toward something now.
 
 ---
 
@@ -232,7 +237,7 @@ Rough word counts are targets, not limits.
 
 **Proposed chain of clues across the series:**
 
-1. **Book 1 (Ch 25, 28, 35):** Alexander guards a distant place. Attila's men hold it. Covenant records list souls sent there as "crossed." The Bastion's Hall of Names has unexplained scratched-out names going back centuries.
+1. **Book 1 (Ch 23, 26, 33):** Alexander guards a distant place. Attila's men hold it. Covenant records list souls sent there as "crossed." The Bastion's Hall of Names has unexplained scratched-out names going back centuries.
 2. **Book 2:** The quests follow those names and that place. The alliance learns it is the Gate of Still Flame, that it is real, and that Alexander has taught for two thousand years that it means oblivion.
 3. **Why he fears it (Book 2 payoff):** If Eternal Ones learn they can leave in peace, his empire of the dead dissolves. If natives learn their gods can walk away, the worship that holds his empire up breaks. And for him personally, it would ask him to admit he is a man, not a god, as his Codex entry says.
 
@@ -258,7 +263,7 @@ Per the decided rule against *Lost*-style mysteries. Each item gets an answer in
 | Strength "leeched away," breathlessness (Ch 7) | Thin air on a high plateau, and starvation. | Ch 9, 15 |
 | Geometric scars in the basin (Ch 6) | Native earthworks marking the plain as a sacred place where the "gods" appear. | Ch 15 |
 | Roman amphora, tricorn hat, Civil War canteen (Ch 6) | The arrival routes are old. Eternal Ones of every era pass the same shelters. The hat and "Keep walking" are Hale's. | Ch 11 |
-| J.L. initials and sailor's knot (Ch 7) | Jock Lewes's scouts. | Ch 8 or 29 |
+| J.L. initials and sailor's knot (Ch 7) | Jock Lewes's scouts. | Ch 8 or 27 |
 | C.G. note under the bayonet (Ch 7) | Gordon's. The Uncrowned leave honest words at the cairns, a Bastion custom. | Ch 10 |
 | The empty grave with a worn dog tag (Ch 7) | Another American soldier crossed this way. Leave unexplained in Book 1 on purpose, as a later thread. **Author's call:** see open question 6. | Book 2 or 3 |
 | The presence at each death, and leaves moving in a windless space (prologue) | The crossing. The one thing left unexplained **[Decided]**. Keep the leaves sound for crossings only. Optional for Book 2 or 3: the same sound at the Gate, so readers sense that the way in and the way out belong to the same presence, without anyone explaining it. | Never |
@@ -272,11 +277,11 @@ Per the decided rule against *Lost*-style mysteries. Each item gets an answer in
 | Why hasn't 2,000 years of rebellion worked? | It hasn't. That is why it is the *Last* Cohort. |
 | Why is it still medieval? | Alexander kills innovation (R9). |
 | How do people from 2,300 years of history talk to each other? | The crossing's shared tongue (R4). |
-| Why would Toussaint walk into another trap? | Captives' lives, eyes open, with a contingency (Ch 22). |
-| Why would Napoleon tell a prisoner Alexander's secret? | He is recruiting Toussaint against Alexander (Ch 25). |
-| Why is the rescue possible? | Lewes shadowed the parley, and the native paths through the haze reach the fort unseen (Ch 22, 29). |
-| Why does the Cohort need the Uncrowned? | Not for soldiers. For the Hall of Names records, and as a check on becoming an empire (Ch 34). |
-| Why do the Uncrowned need the Cohort? | The Accord is gone. The Bastion is now a target (Ch 23, 35). |
+| Why would Toussaint walk into another trap? | Captives' lives, eyes open, with a contingency (Ch 21). |
+| Why would Napoleon tell a prisoner Alexander's secret? | He is recruiting Toussaint against Alexander (Ch 23). |
+| Why is the rescue possible? | Lewes shadowed the parley, and the native paths through the haze reach the fort unseen (Ch 21, 27). |
+| Why does the Cohort need the Uncrowned? | Not for soldiers. For the Hall of Names records, and as a check on becoming an empire (Ch 32). |
+| Why do the Uncrowned need the Cohort? | The Accord is gone. The Bastion is now a target (Ch 22, 33). |
 | How did Spartacus know Crassus was dead (Ch 6)? | Later arrivals told him. Crassus died in 53 BCE, after Spartacus. Works as written. |
 
 ## 11. Setups for Books 2 and 3
@@ -295,12 +300,12 @@ Per the decided rule against *Lost*-style mysteries. Each item gets an answer in
 In priority order. The outline works as written if each recommendation is accepted.
 
 1. **Bray's timeline.** Decided in the prologue revisions. Chapter 7 still needs to match ("three more tours," "Georgia, seventeen"). See the [continuity check](book-1-continuity-check.md#1-what-is-still-open-after-the-revisions).
-   - **Hale's true last words (Ch 33).** Content is the author's. Proposal in the [scene breakdown](book-1-scene-breakdown.md#ch-33-the-cost-bray).
+   - **Hale's true last words (Ch 31).** Content is the author's. Proposal in the [scene breakdown](book-1-scene-breakdown.md#ch-31-the-cost-bray).
    - **A sixth prologue death for Toussaint.** Recommended yes. See Part 1 above.
 2. **Time and arrival order (R1).** Decided 10/16/2026: souls arrive when they die, in historical order, on the same clock as Earth. The presence chooses who, not when.
 3. **The Bastion Accord (R8).** Accept, and decide roughly when and why it was made.
 4. **Spartacus founded the Bastion.** Accept or cut.
-5. **Who dies in the rescue (Ch 30).** Recommendation: a fictional sergeant of the 54th who died at Fort Wagner beside Shaw, now one of Lewes's scouts. (Not the man who takes the colors in Ch 2; the revision made him Sgt. William Carney, who survived the war.) (see [cast arcs](arcs/book-1-cast-arcs.md#the-sergeant)). Otherwise any named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 26 and 29. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
+5. **Who dies in the rescue (Ch 28).** Recommendation: a fictional sergeant of the 54th who died at Fort Wagner beside Shaw, now one of Lewes's scouts. (Not the man who takes the colors in Ch 2; the revision made him Sgt. William Carney, who survived the war.) (see [cast arcs](arcs/book-1-cast-arcs.md#the-sergeant)). Otherwise any named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 24 and 27. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
 6. **The empty grave's dog tag (Ch 7).** Leave open as a later thread, or cut. One option for a later book: it belongs to the soldier who fired the shot that killed Bray.
 7. **The native watcher.** Name, people, and whether they get a POV chapter.
 8. **Lannes's motive (section 8).** Accept or replace.

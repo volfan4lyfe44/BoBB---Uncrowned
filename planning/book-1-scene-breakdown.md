@@ -26,24 +26,22 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
 | 12 | | Napoleon interlude (Ch 13) |
 | 14 | Rommel's visit; leaves with Gordon (Ch 14) | |
 | 15 to 18 | Descent; the village (Ch 15) | |
-| 18 | | The battle (Ch 16, 17) |
-| 19 to 20 | | Napoleon retreats along the terrace road (Ch 18) |
-| 21 | The village is cleared (Ch 19) | |
-| 22 | | The Cohort reaches the ashes (Ch 20) |
-| 24 to 26 | The Accord crisis; Jackson's letter (Ch 21) | Day 25: Napoleon's parley letter (Ch 22) |
-| 27 | Mirror Hall; the gates close (Ch 23) | |
-| 28 | | The parley; the capture (Ch 24) |
-| 29 to 33 | | Captivity (Ch 25, 28) |
-| 30 | Freed captives and Hale reach the Bastion (Ch 26) | |
-| 31 | | Lannes and the council (Ch 27) |
-| 32 to 34 | Through the haze (Ch 29) | |
-| 34 (night) | The rescue (Ch 30, 31) | |
-| 35 | | Napoleon interlude (Ch 32) |
-| 36 | Burial in the haze (Ch 33) | |
-| 40 | | The vote (Ch 34) |
-| 43 | The Hall of Names (Ch 35) | |
+| 18 | | The battle (Ch 16) |
+| 19 to 20 | | Napoleon retreats along the terrace road (Ch 17) |
+| 21 | The village is cleared (Ch 18) | |
+| 22 | The Cohort reaches the ashes; Bray meets Toussaint (Ch 19) | |
+| 24 to 26 | The Accord crisis; Jackson's letter (Ch 20) | Days 25 to 27: Napoleon's letter, the council, the parley, the capture (Ch 21) |
+| 28 | Mirror Hall; the gates close (Ch 22) | Days 28 to 33: captivity (Ch 23, 26) |
+| 30 | Freed captives and Hale reach the Bastion (Ch 24) | |
+| 31 | | Lannes and the council (Ch 25) |
+| 32 to 34 | Through the haze (Ch 27) | |
+| 34 (night) | The rescue (Ch 28, 29) | |
+| 35 | | Napoleon interlude (Ch 30) |
+| 36 | Burial in the haze (Ch 31) | |
+| 40 | | The vote (Ch 32) |
+| 43 | The Hall of Names (Ch 33) | |
 
-**Check against travel times (setting doc, section 2):** The parley (Day 28) is near the Watch-Fort. Freed captives walk the terrace road to the village (2 to 3 days), and Hale brings them up to the Bastion (another 2 to 3). They arrive by Day 30 only if they meet Hale and travel hard. Either push Ch 26 to Day 32 and the rescue to Day 36, or have the Cohort send the captives straight up the West Stair with riders. Recommend the second: it costs no days.
+**Check against travel times (setting doc, section 2):** The parley (Day 27) is near the Watch-Fort. Freed captives walk the terrace road to the village (2 to 3 days), and Hale brings them up to the Bastion (another 2 to 3). They arrive by Day 30 only if they travel hard. Either push Ch 24 to Day 32 and the rescue to Day 36, or have the Cohort send the captives straight up the West Stair with riders. Recommend the second: it costs no days.
 
 ---
 
@@ -53,14 +51,14 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
 
 #### Ch 6. The Grey Waking (Bray) [Drafted]
 
-- P: Spartacus's inscription (paid off in Ch 34). The geometric scars (✓ Ch 15). The feeling of being watched (✓ Ch 9). The tricorn and "Keep walking" (✓ Ch 11). Tate. Captain Thompson's voice (✓ Ch 19). "It wasn't supposed to end like that" (✓ Ch 29).
+- P: Spartacus's inscription (paid off in Ch 32). The geometric scars (✓ Ch 15). The feeling of being watched (✓ Ch 9). The tricorn and "Keep walking" (✓ Ch 11). Tate. Captain Thompson's voice (✓ Ch 18). "It wasn't supposed to end like that" (✓ Ch 27).
 
 #### Ch 7. Away From What I Left (Bray) [Scenes 1 to 3 drafted]
 
 - **Scene 4 (proposed):** The distant thunk is hooves on stone. From a ridge, Bray sees five riders in mixed armor cross the plain, with a led horse carrying a bound figure in clothes he cannot place. One rider turns to study the ground where Bray's tracks are. Bray lies flat in the grit until they go. He is shaking, and he is relieved, and he is ashamed of the relief. He did nothing.
 - **Scene 5 (as outlined):** Journal, then the watcher.
 - **Turn:** He is no longer alone in the world, and the world is dangerous.
-- P: The Finders. The taken arrival (✓ Ch 25, 30, 34). Bray doing nothing while someone is taken (✓ Ch 19, where he acts).
+- P: The Finders. The taken arrival (✓ Ch 23, 28, 32). Bray doing nothing while someone is taken (✓ Ch 18, where he acts).
 
 #### Ch 8. The War Council (Toussaint)
 
@@ -75,7 +73,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - After the council, Lannes asks to take the far flank. Toussaint grants it without asking why. Make the reader notice that he didn't ask.
   - Introduce the sergeant among Lewes's people (one line is enough).
 - **Turn:** Toussaint commits the Cohort to a plan of not fighting yet.
-- P: The eagle. Lannes's request (✓ Ch 12, 27). The sergeant. The river lord.
+- P: The eagle. Lannes's request (✓ Ch 12, 25). The sergeant. The river lord.
 
 #### Ch 9. The Watcher on the Plain (Bray)
 
@@ -90,7 +88,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - At the edge of sight of the Bastion, the watcher stops and points, and will go no further.
   - Bray walks the last stretch alone. Shaw at the open gate: "Then you'd better come inside. We've been waiting for you."
 - **Turn:** Someone helped him for no reason he can see.
-- ✓ Feeling watched. P: The watcher's disappointment (✓ Ch 33).
+- ✓ Feeling watched. P: The watcher's disappointment (✓ Ch 31).
 
 #### Ch 10. The Hall of Names (Bray)
 
@@ -103,7 +101,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - The rules come up in conversation, not as a lecture: the shared tongue, the Accord, and the open gates.
   - The C.G. note: Bray mentions the cairn. Gordon goes quiet.
 - **Turn:** He has a roof, and refuses to belong under it.
-- ✓ The C.G. note (Gordon's). P: Carving his name (✓ Ch 35). The open gates (✓ Ch 23).
+- ✓ The C.G. note (Gordon's). P: Carving his name (✓ Ch 33). The open gates (✓ Ch 22).
 
 #### Ch 11. The Quiet Courtyard (Bray)
 
@@ -116,7 +114,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - The tricorn and the note were Hale's. Hale left the Bastion twenty years ago for the Cohort.
   - That night, undressing, Bray finds his own chain broken, with one tag. He wore Tate's beside his own from the night Tate died, and he forgot. The tag did not come out of nowhere. He brought it.
 - **Turn:** The strangest thing he has found here was something he carried himself.
-- ✓ The tricorn and "Keep walking". ✓ The dog tag. P: Why he went back (sharpened Ch 23; Book 3).
+- ✓ The tricorn and "Keep walking". ✓ The dog tag. P: Why he went back (sharpened Ch 22; Book 3).
 
 #### Ch 12. The Ground Napoleon Wants (Toussaint)
 
@@ -128,7 +126,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - Napoleon tries a feint to bait the Cohort. Lannes, privately: "He wants you to think he's split. He isn't. He never splits until he's sure." Toussaint doesn't bite.
   - Hale introduced, serving under Lannes, eager.
 - **Turn:** Napoleon is now committed to the single river road, with the marches clans on his flanks.
-- P: Lannes's knowledge of Napoleon (✓ Ch 31). The river lord's oath (✓ Ch 34).
+- P: Lannes's knowledge of Napoleon (✓ Ch 29). The river lord's oath (✓ Ch 32).
 
 #### Ch 13. Interlude: The Eagle in the Marches (Napoleon)
 
@@ -138,7 +136,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - The sealed wagon, and the chemist he trusts more than his officers.
   - He reads a captured letter in a hand he does not know, signed with a title. A prisoner, offered his freedom, gives him the name behind it.
 - **Turn:** He knows who he is fighting.
-- P: Powder (✓ Ch 25, 32). "Louverture."
+- P: Powder (✓ Ch 23, 30). "Louverture."
 
 #### Ch 14. The Envoy (Bray)
 
@@ -152,7 +150,7 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - Bray says neither yes nor no. Rommel: "That is an answer. Not a good one."
   - Gordon is going down to the plain-watchers' village to trade and treat the sick. He asks Bray to carry for him. Bray goes, mostly to get away from Rommel's offer.
 - **Turn:** Bray leaves the Bastion. **End of Act I.**
-- P: Friendly fire, his and others' (✓ Ch 29). Sophie's leaflet (✓ Ch 34). Rommel (✓ Ch 32).
+- P: Friendly fire, his and others' (✓ Ch 27). Sophie's leaflet (✓ Ch 32). Rommel (✓ Ch 30).
 
 ### Part 3: The Grey March
 
@@ -166,18 +164,20 @@ Book 1 runs about six weeks. Day 1 is the day Bray wakes.
   - Gordon as healer: patient, skilled, funny in the native tongue in a way he never is in English.
   - The watcher teaches Bray a few words and walks him through the haze paths above the village, the routes the watchers use to guide arrivals down.
   - The earthworks explained, in gestures: guide-lines to the Bastion.
-  - Shaw's line can go here, from memory, or wait for Ch 21: "You can't stop believing just because belief hurt you."
+  - Shaw's line can go here, from memory, or wait for Ch 20: "You can't stop believing just because belief hurt you."
 - **Turn:** He cares about these people, and knows exactly what that means in a war.
-- ✓ The sun. ✓ The earthworks. P: The haze paths (✓ Ch 19, 29). The sibling (✓ Ch 19, 24).
+- ✓ The sun. ✓ The earthworks. P: The haze paths (✓ Ch 18, 27). The sibling (✓ Ch 18, 21).
 
-#### Ch 16 and 17. The Battle (Toussaint)
+#### Ch 16. The Battle (Toussaint)
+
+One chapter, formerly two. About 6,500 words.
 
 See section 3 below for the full plan.
 
 - **Turn:** Napoleon loses the campaign, but not his army. Toussaint wins, and pays in native dead.
 - ✓ Lannes's knowledge pays off. ✓ Spartacus's patience pays off. P: Napoleon's retreat route.
 
-#### Ch 18. Interlude: Forage (Napoleon)
+#### Ch 17. Interlude: Forage (Napoleon)
 
 - **Beats:**
   - The river road is cut. The only way east is the terrace road along the plain's edge.
@@ -185,7 +185,7 @@ See section 3 below for the full plan.
   - He sees that captives may be worth more than grain.
 - **Turn:** The war climbs toward the plain, and toward Bray.
 
-#### Ch 19. The Clearing (Bray). MIDPOINT
+#### Ch 18. The Clearing (Bray). MIDPOINT
 
 - **Goal:** Keep the village alive.
 - **Obstacle:** A Covenant detachment of 200 under the colonel, and Gordon's Accord.
@@ -198,23 +198,26 @@ See section 3 below for the full plan.
   - Covering the last of them, he fights a native soldier who is cutting at a child. Bray kills him with the soldier's own blade. Bray sees his face: young, frightened, doing what he was told.
   - From the haze they watch the village burn. Twenty captives are marched off. The watcher's sibling is among them.
 - **Turn:** Bray acted, and the Accord is broken, and it was not enough.
-- ✓ Thompson's voice. ✓ Ch 7's failure to act. P: The captives (✓ Ch 24). The dead soldier (✓ Ch 21).
+- ✓ Thompson's voice. ✓ Ch 7's failure to act. P: The captives (✓ Ch 21). The dead soldier (✓ Ch 20).
 
-#### Ch 20. Ashes (Toussaint)
+#### Ch 19. Ashes (Bray)
 
-- **Goal:** Catch Napoleon's rearguard.
-- **Obstacle:** He finds a burned village instead, and the man who was there.
+- **Goal:** Get the captives back.
+- **Obstacle:** He has no army, no standing, and no plan. The people who do have one are passing through.
 - **Beats:**
-  - The Cohort's van reaches the terraces. Survivors come down from the haze with Bray and Gordon.
-  - Toussaint and Bray meet. Toussaint reads him in one look: important, lost.
-  - Hale and Gordon recognize each other. A short, careful exchange; there is history.
-  - Bray: help me get them back. Toussaint: and then what? Bray has no answer.
+  - The day after. Bray and Gordon bring survivors down out of the haze into the smoke.
+  - Riders on the terrace road: not Covenant. The Cohort's van, following Napoleon's retreat.
+  - Bray's first sight of Toussaint: a plain patched coat, no insignia, and every soldier watching him without seeming to.
+  - Toussaint takes Bray's measure in one look. Bray has been sized up all his life, by coaches, recruiters, and drill sergeants. This is different. It feels like being weighed for something he hasn't agreed to yet. (The decided beat of Toussaint sizing up Bray, felt from Bray's side.)
+  - Hale and Gordon recognize each other. A short, careful exchange; there is history. Bray recognizes the tricorn's owner.
+  - Bray: help me get them back. Toussaint: "And then what?" Bray has no answer. Toussaint nods as if that was the answer he expected, and not a bad one.
   - The Cohort must keep moving to shadow Napoleon. Bray and Gordon take the refugees up to the Bastion.
-- **Turn:** **The threads touch.** Each has seen the other's world.
+- **Turn:** **The threads touch.** Bray has seen the other war, and been seen by the man running it.
+- **Moved to Ch 21:** Toussaint's private read of Bray (important, still lost) comes back in Toussaint's head on the ride to the parley.
 
 ### Part 4: A Seat at the Table
 
-#### Ch 21. The Broken Accord (Bray)
+#### Ch 20. The Broken Accord (Bray)
 
 - **Goal:** Find out what he has cost the Bastion.
 - **Obstacle:** Everything.
@@ -225,9 +228,11 @@ See section 3 below for the full plan.
   - Sophie makes Bray tell all of it, including the soldier's face.
   - Jackson's letter arrives with a Covenant rider. Courteous, scriptural, absolute: deliver the man who bore arms beyond your walls by the next envoy, and the Accord stands. Refuse, and it does not.
 - **Turn:** Bray's life is now the price of everyone else's safety.
-- ✓ The dead soldier, owned. P: Jackson's demand (✓ Ch 23).
+- ✓ The dead soldier, owned. P: Jackson's demand (✓ Ch 22).
 
-#### Ch 22. Safe Conduct (Toussaint)
+#### Ch 21. Safe Conduct (Toussaint)
+
+One chapter, formerly two ("Safe Conduct" and "The Parley"). About 5,500 words.
 
 - **Goal:** Get the captives back.
 - **Obstacle:** Napoleon's letter, and Toussaint's own history.
@@ -237,9 +242,15 @@ See section 3 below for the full plan.
   - Council: Spartacus calls it a trap. Toussaint: "I know. I have been here before."
   - Alone with Lewes, he lays out the bet: Napoleon will want to talk before anything else, and talk buys time.
   - He orders Lannes to stay away, to keep his secret from Napoleon.
-- **Turn:** Toussaint walks into the trap with his eyes open.
+  - The ride down the terrace road. He thinks about the big American in the ashes: important, still lost, and the kind of soldier who asks what happens after. He files it away.
+  - **The parley.** A ruined shrine on the terrace road below the Watch-Fort, neutral ground. Napoleon in person, gracious, smaller than his legend.
+  - The exchange goes as promised. The captives, the watcher's sibling among them, walk to Lewes's riders.
+  - Then Napoleon's guards close around Toussaint. "I promised their safety. I made you no promise at all."
+  - Lewes's shadows watch from the slope and cannot stop it.
+- **Turn:** 1802 again, and this time he chose it.
+- ✓ The captives. P: The rescue.
 
-#### Ch 23. The Mirror Hall (Bray)
+#### Ch 22. The Mirror Hall (Bray)
 
 - **Goal:** Decide whether to give himself up.
 - **Obstacle:** He doesn't trust his own reasons.
@@ -257,18 +268,7 @@ See section 3 below for the full plan.
 - **Turn:** The Accord is over by the keeper's choice. The Bastion is now a fortress at war.
 - ✓ The open gates. P: Why he went back, sharpened, not answered.
 
-#### Ch 24. The Parley (Toussaint)
-
-- **Setting:** A ruined shrine on the terrace road below the Watch-Fort. Neutral ground.
-- **Beats:**
-  - Napoleon in person, gracious, smaller than his legend.
-  - The exchange goes as promised. The captives, the watcher's sibling among them, walk to Lewes's riders.
-  - Then Napoleon's guards close around Toussaint. "I promised their safety. I made you no promise at all."
-  - Lewes's shadows watch from the slope and cannot stop it.
-- **Turn:** 1802 again, and this time he chose it.
-- ✓ The captives. P: The rescue.
-
-#### Ch 25. The Offer (Toussaint)
+#### Ch 23. The Offer (Toussaint)
 
 - **Setting:** A cell in the Watch-Fort, cold, high, wind off the plain. Fort de Joux in everything but name.
 - **Beats:**
@@ -283,7 +283,7 @@ See section 3 below for the full plan.
 - **Turn:** He has refused, and he has learned what Napoleon wants most.
 - ✓ The decided offer and refusal. P: Powder. P: Alexander's guarded place.
 
-#### Ch 26. Someone Must Go (Bray)
+#### Ch 24. Someone Must Go (Bray)
 
 - **Beats:**
   - Lewes's riders bring the freed captives up the West Stair, with Hale. The watcher's sibling is home.
@@ -296,7 +296,7 @@ See section 3 below for the full plan.
   - The sergeant is with Hale's party. Bray and the sergeant talk on the wall that night.
 - **Turn:** Bray chooses a side without choosing a flag.
 
-#### Ch 27. Interlude: The Backbone (Lannes)
+#### Ch 25. Interlude: The Backbone (Lannes)
 
 - **Beats:**
   - Lannes's memory of Aspern-Essling and the bedside.
@@ -306,7 +306,7 @@ See section 3 below for the full plan.
   - Lannes names himself the team's leader. Lewes: "He ordered you to stay away." Lannes: "He isn't here to order anything."
 - **Turn:** Lannes stops hiding.
 
-#### Ch 28. The Ledger (Toussaint)
+#### Ch 26. The Ledger (Toussaint)
 
 - **Beats:**
   - Days in the cold. Toussaint watches the guards' rhythms and the clerk who brings food.
@@ -318,7 +318,7 @@ See section 3 below for the full plan.
 
 ### Part 5: The Vote
 
-#### Ch 29. Through the Haze (Bray)
+#### Ch 27. Through the Haze (Bray)
 
 - **Team:** Lannes, Lewes, Hale, Bray, Gordon, the watcher, the sergeant, and three of Lewes's people.
 - **Beats:**
@@ -328,13 +328,13 @@ See section 3 below for the full plan.
   - The cliff above the Watch-Fort's cistern. Lewes ties the ropes with the same knot Bray found in Ch 7.
 - ✓ "It wasn't supposed to end like that." ✓ The J.L. knot.
 
-#### Ch 30. The Fort (Bray)
+#### Ch 28. The Fort (Bray)
 
 See section 4 below for the full plan.
 
 - **Turn:** Toussaint is out. The sergeant is dead. Gordon has raised his hand.
 
-#### Ch 31. Two Wounds (Toussaint)
+#### Ch 29. Two Wounds (Toussaint)
 
 - **Beats:**
   - The yard, the torches. Napoleon comes out of the keep.
@@ -343,7 +343,7 @@ See section 4 below for the full plan.
   - He orders no pursuit into the Pall. Make the reader wonder whether that is tactics or grief.
 - ✓ The decided reveal.
 
-#### Ch 32. Interlude: The Empty Cell (Napoleon)
+#### Ch 30. Interlude: The Empty Cell (Napoleon)
 
 - **Beats:**
   - Morning. Rommel arrives from Alexander to review the failed campaign.
@@ -353,7 +353,7 @@ See section 4 below for the full plan.
   - One private moment for Lannes that no one sees.
 - P: Book 2.
 
-#### Ch 33. The Cost (Bray)
+#### Ch 31. The Cost (Bray)
 
 - **Beats:**
   - The sergeant buried in the Pall, with a cairn in the plain-watchers' way.
@@ -365,7 +365,7 @@ See section 4 below for the full plan.
   - The watcher gives Bray their people's word for one who watches the plain. Bray doesn't know what it means.
 - ✓ The watcher's disappointment, turned to respect. ✓ Hale's true last words.
 
-#### Ch 34. The Vote (Toussaint)
+#### Ch 32. The Vote (Toussaint)
 
 - **Setting:** The Cohort camp. The Uncrowned at the council for the first time.
 - **Beats:**
@@ -379,7 +379,7 @@ See section 4 below for the full plan.
   - Gordon, listening to the word "crossed," goes very still. The Hall has scratched-out names he never understood.
 - ✓ The decided vote. ✓ The river lord's oath. ✓ Sophie's leaflet thread (she argues for words that travel).
 
-#### Ch 35. The Hall of Names (Bray)
+#### Ch 33. The Hall of Names (Bray)
 
 - **Beats:**
   - The Bastion with its gates shut.
@@ -391,7 +391,7 @@ See section 4 below for the full plan.
 
 ---
 
-## 3. The battle (Ch 16 and 17)
+## 3. The battle (Ch 16)
 
 **Ground:** A valley below the Middle Stair. A shallow river ford in front, with the Cohort's line on the slope behind it. The Cohort's left rests on the cliffs under the plain. The right rests on wooded hills cut by goat tracks. Behind Napoleon, the river road runs back east through a narrow gorge.
 
@@ -425,7 +425,7 @@ See section 4 below for the full plan.
 
 ---
 
-## 4. The rescue (Ch 29 to 31)
+## 4. The rescue (Ch 27 to 29)
 
 **The Watch-Fort:**
 
@@ -448,16 +448,16 @@ See section 4 below for the full plan.
 3. The team has to cross the inner yard to the cleft. The guards hold the stair down to the undercroft.
 4. Hale moves to hold the inner stair alone. The sergeant pulls him back: "You already did this once, son." The sergeant holds it with one of Lewes's people.
 5. In the yard, a guard goes for the watcher. Gordon, who would not raise his hand at Khartoum or at the village, raises it now, to protect someone else.
-6. Napoleon comes out of the keep, and sees Lannes (Ch 31).
+6. Napoleon comes out of the keep, and sees Lannes (Ch 29).
 7. They go up the ropes. The sergeant comes last, wounded, and makes the top.
 
 **In the Pall:** Bray carries the sergeant on his back through the haze, talking to him, as he carried Tate through the jungle. At the first halt he sets him down and finds he has been carrying a dead man again. This time he knows it, and he lets the others take him.
 
 **Why it works:**
 
-- Every piece was planted: the haze paths (Ch 15), the knot (Ch 7), the clerk (Ch 28), the taken arrival (Ch 7), the diversion (Ch 27).
+- Every piece was planted: the haze paths (Ch 15), the knot (Ch 7), the clerk (Ch 26), the taken arrival (Ch 7), the diversion (Ch 25).
 - Every choice that goes wrong is a character being true to themselves: Toussaint won't leave anyone, Hale wants to die well, and Gordon finally acts.
-- Napoleon's choice not to pursue into the Pall is both sound tactics (horses balk in it, Ch 19) and a hint of grief.
+- Napoleon's choice not to pursue into the Pall is both sound tactics (horses balk in it, Ch 18) and a hint of grief.
 
 ---
 
@@ -465,24 +465,24 @@ See section 4 below for the full plan.
 
 | Thread | Planted | Develops | Pays off in Book 1 | Carries to |
 |---|---|---|---|---|
-| Tate and the dog tag | 6, 7 | 11 | 26 (said aloud) | Book 3 (letting go) |
-| Friendly fire | 5, 6 | 14 | 29 | Book 2 (Jackson) |
-| The watcher | 7 | 9, 15, 19, 26 | 33 | Book 3 (the Watcher) |
-| The taken arrival | 7 | 25 | 30, 34 | Book 2 |
-| The Accord | 10 | 19, 21 | 23 | Book 2 (Bastion under threat) |
-| Carving his name | 10 | | 35 | |
-| Lannes's secret | 8 | 12, 27 | 31 | Book 2 |
-| Napoleon's powder | 13 | 25 | 32 | Book 2 |
-| Alexander's guarded place | 25 | 28 | 34, 35 | Book 2 (the quests) |
-| The river lord's oath | 12 | | 34 | Book 3 (non-interference) |
-| Sophie and the leaflet | 4, 14 | 21, 26 | 34 | |
-| Gordon raising his hand | 3 | 19 | 30 | |
-| Hale's martyrdom wish | 1 | 26 | 30 | Book 2 (Charles XII) |
-| Hale's true last words | 1 | 29, 30 | 33 | |
-| Why Bray went back | 5 | 11 | 23 (sharpened) | Book 3 (the Gate) |
-| Spartacus and the Bastion | 6 | 11 | 34 | Book 3 (crossing) |
-| Gordon and Jackson's letters | Codex | 21 | 23 | Book 2 |
-| Rommel's silence | 14 | | 32 | Book 2 |
+| Tate and the dog tag | 6, 7 | 11 | 24 (said aloud) | Book 3 (letting go) |
+| Friendly fire | 5, 6 | 14 | 27 | Book 2 (Jackson) |
+| The watcher | 7 | 9, 15, 18, 24 | 31 | Book 3 (the Watcher) |
+| The taken arrival | 7 | 23 | 28, 32 | Book 2 |
+| The Accord | 10 | 18, 20 | 22 | Book 2 (Bastion under threat) |
+| Carving his name | 10 | | 33 | |
+| Lannes's secret | 8 | 12, 25 | 29 | Book 2 |
+| Napoleon's powder | 13 | 23 | 30 | Book 2 |
+| Alexander's guarded place | 23 | 26 | 32, 33 | Book 2 (the quests) |
+| The river lord's oath | 12 | | 32 | Book 3 (non-interference) |
+| Sophie and the leaflet | 4, 14 | 20, 24 | 32 | |
+| Gordon raising his hand | 3 | 18 | 28 | |
+| Hale's martyrdom wish | 1 | 24 | 28 | Book 2 (Charles XII) |
+| Hale's true last words | 1 | 27, 28 | 31 | |
+| Why Bray went back | 5 | 11 | 22 (sharpened) | Book 3 (the Gate) |
+| Spartacus and the Bastion | 6 | 11 | 32 | Book 3 (crossing) |
+| Gordon and Jackson's letters | Codex | 20 | 22 | Book 2 |
+| Rommel's silence | 14 | | 30 | Book 2 |
 
 ---
 

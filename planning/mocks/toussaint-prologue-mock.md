@@ -78,25 +78,19 @@ Something that might have been amusement.
 
 | Plant | Payoff |
 |---|---|
-| A cold cell, the unanswered letters to the First Consul | Ch 25 (current numbering): Napoleon holds him in a cold cell again and admits, "I read the first." Readers already felt those letters go unanswered. |
-| "They had invited him to a meeting... His safety assured." He went anyway. | Ch 22 to 24: he goes to Napoleon's parley knowing the history. The prologue makes that choice readable instead of foolish. |
-| "Governor for life," and his doubt about it | Ch 25: Napoleon's sharpest weapon, "You are me without the crown." Ch 34: his vote is a check on himself. |
+| A cold cell, the unanswered letters to the First Consul | Ch 23 (current numbering): Napoleon holds him in a cold cell again and admits, "I read the first." Readers already felt those letters go unanswered. |
+| "They had invited him to a meeting... His safety assured." He went anyway. | Ch 21: he goes to Napoleon's parley knowing the history. The prologue makes that choice readable instead of foolish. |
+| "Governor for life," and his doubt about it | Ch 23: Napoleon's sharpest weapon, "You are me without the crown." Ch 32: his vote is a check on himself. |
 | "On what terms?" | Who he is in one line: a negotiator to the end, even with the presence. Echoes the prologue pattern (the presence answers Shaw; it does not answer Bray). |
 | "His name was not written among the Uncrowned. He would choose what to be called." | The Cohort's custom of titles, and the only prologue death that does not end among the Uncrowned. It tells readers there is more than one road in Eirion before Part 2 begins. |
 | A flag with its white torn out | The book's title image. A banner broken on purpose to make a new one. |
 | The leaves he knows by name | The presence's signature, felt through his own life. |
 
-### Does it commit the book to a big second narrative?
+### How big is Toussaint's storyline?
 
-No. The prologue chapter works at every scale. The real question is how much of Book 1 Toussaint carries. Three options:
+**Decided 10/16/2026: about 8 chapters.** Toussaint has eight main chapters (8, 12, 16, 21, 23, 26, 29, 32). Bray has sixteen. See the outline's [structure section](../book-1-plot-outline.md#5-structure). If kept, this prologue chapter would be his ninth, and it costs about 700 words.
 
-| Option | Toussaint POV chapters | What changes | Trade-off |
-|---|---|---|---|
-| **A. Co-lead** (current outline) | About 11 of 30 | Nothing. | Richest politics and the full Napoleon duel. Bray is off the page for long stretches. |
-| **B. Second voice** (recommended if unsure) | 5 or 6: war council, battle, ashes, the offer, the ledger, the vote | Ch 12 merges into Ch 8. Ch 16 and 17 become one chapter. Ch 20 is told by Bray. Ch 22 and 24 fold into Ch 25 as memory or are told by Lewes's scouts to Bray. | Bray carries about 75 percent. Toussaint still gets the battle, the offer, and the vote, the three scenes only he can carry. The capture is felt, not watched. |
-| **C. Seen through Bray** | 0 or 1 (the vote only) | Toussaint is a major character seen from outside. The battle is reported. The captivity and offer are told by Toussaint afterward. | The most focused book. Loses the face-to-face with Napoleon on the page, which is a decided beat and the best scene in the Toussaint arc. Not recommended. |
-
-**Recommendation:** Keep the prologue chapter. Plan for option B, and let the drafting decide whether it grows toward A. The prologue costs about 600 words and makes either version stronger.
+The prologue chapter works at this size because it does the setup the cut chapters used to do. Readers arrive at Ch 21 already knowing he walked into a trap like this once before.
 
 ### Facts to verify before use
 
@@ -112,4 +106,4 @@ No. The prologue chapter works at every scale. The real question is how much of 
 ### If kept
 
 - Insert as the new Chapter 2 (1803 falls between Hale in 1776 and Shaw in 1863). Every later chapter number shifts by one in the manuscript, README, chapter summaries, and the planning docs.
-- Codex: his entry already says he died "imprisoned and left to die by the French Republic." In 1803 France was led by Bonaparte as First Consul, so the chapter says "First Consul," not "Emperor." He learns in Eirion that Napoleon crowned himself the next year, which can be a beat in Ch 8 or Ch 25.
+- Codex: his entry already says he died "imprisoned and left to die by the French Republic." In 1803 France was led by Bonaparte as First Consul, so the chapter says "First Consul," not "Emperor." He learns in Eirion that Napoleon crowned himself the next year, which can be a beat in Ch 8 or Ch 23.

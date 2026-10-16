@@ -13,7 +13,7 @@ A planned three-book series. This is a skeleton built only from decisions made s
 - **Climax:** Napoleon captures Toussaint and offers him a seat in the Covenant. Toussaint refuses. In captivity he learns hints of the thing Alexander guards and fears most. Jean Lannes rescues him and reveals himself to Napoleon.
 - **Ending:** Toussaint casts the deciding vote, and the Cohort and the Uncrowned band together to uncover what Alexander fears.
 - Bray's arc in Book 1: TBD. Proposed in the [Book 1 plot outline](book-1-plot-outline.md#peyton-moose-bray-primary-pov): from walking away from everything to standing with others on his own terms.
-- Payoff: reveal Hale's true last words, set up in Chapter 1 ("But that wasn't the last thing he said."). Placement TBD. Proposed: Chapter 33, at the sergeant's cairn (see the [scene breakdown](book-1-scene-breakdown.md#ch-33-the-cost-bray)).
+- Payoff: reveal Hale's true last words, set up in Chapter 1 ("But that wasn't the last thing he said."). Placement TBD. Proposed: Chapter 31, at the sergeant's cairn (see the [scene breakdown](book-1-scene-breakdown.md#ch-31-the-cost-bray)).
 
 A full chapter-by-chapter proposal for Book 1 is in the [Book 1 plot outline](book-1-plot-outline.md), with a [continuity and fact check](book-1-continuity-check.md) behind it.
 

@@ -27,7 +27,7 @@ Dates are Earth years of arrival, which under R1 are also Eirion years.
 | 1803 | **Toussaint arrives.** Joins the cohort and spends 167 years turning a warband into an army: supply, councils, allies, discipline. Under him the cohort stops dying. | **Why the Covenant takes the Cohort seriously now.** |
 | 1809 | **Jean Lannes arrives.** Joins the Cohort, and becomes Toussaint's closest military partner. | |
 | 1821 | **Napoleon arrives.** Joins the Covenant. Alexander, wary of him, posts him to the far eastern frontier for 150 years. | **Why Napoleon has never faced the Cohort, and why Lannes has never had to face him.** |
-| 1863 | Shaw and Stonewall Jackson arrive, months apart, on opposite sides again. Shaw goes to the Bastion. Jackson goes to the Gate, will not surrender, and becomes the Covenant's sword and the guarantor of the Accord. | Jackson writes the demand in Ch 21. |
+| 1863 | Shaw and Stonewall Jackson arrive, months apart, on opposite sides again. Shaw goes to the Bastion. Jackson goes to the Gate, will not surrender, and becomes the Covenant's sword and the guarantor of the Accord. | Jackson writes the demand in Ch 20. |
 | 1885 | **Gordon arrives.** Keeper of the Bastion from about 1910. Keeps the Accord as a sacred trust, and corresponds with Jackson through the envoys for sixty years. | |
 | 1941 to 1944 | Lewes (1941), Sophie (1943), Rommel (1944) arrive. Lewes joins the Cohort. Sophie goes to the Bastion and challenges everyone in it. Rommel joins the Covenant as a Strategos. | |
 | About 1950 | **Hale leaves the Bastion** for the Cohort, pushed by Sophie's question of what his ideals are for if he only sits with them. | Resolves Hale's double listing. |
@@ -70,15 +70,15 @@ All of Book 1 happens in one region: the western edge of the grey plain and the 
 
 | Place | Description | Used in |
 |---|---|---|
-| **The grey plain** ("the Grey") | A high plateau of crystalline grey grit, thin cold air, almost nothing growing. Where Eternal Ones arrive. No army can live on it for more than a few days. | Ch 6 to 9, 26, 29 |
-| **The Pall** | A permanent haze of mineral dust over the plain and its upper edge. No sun is visible inside it. Visibility drops to yards in places; horses balk in it. | Every plain chapter. A refuge in Ch 19 and 29. |
-| **The Bastion** | On a rise near the plain's center, about two days' walk from the West Stair. Gates always open under the Accord. | Ch 9 to 14, 21 to 23, 26, 35 |
+| **The grey plain** ("the Grey") | A high plateau of crystalline grey grit, thin cold air, almost nothing growing. Where Eternal Ones arrive. No army can live on it for more than a few days. | Ch 6 to 9, 24, 27 |
+| **The Pall** | A permanent haze of mineral dust over the plain and its upper edge. No sun is visible inside it. Visibility drops to yards in places; horses balk in it. | Every plain chapter. A refuge in Ch 18 and 27. |
+| **The Bastion** | On a rise near the plain's center, about two days' walk from the West Stair. Gates always open under the Accord. | Ch 9 to 14, 20 to 22, 24, 33 |
 | **The three stairs** | The only passes down from the plain. Whoever holds them catches arrivals coming off the plain. | Campaign goal |
-| **Plain-watchers' village** | On high terraces just under the Pall, below the West Stair. Terraced barley and goats. | Ch 15, 19 |
-| **The terrace road** | Runs along the plain's edge between the West and East Stairs. The only route east once the river road is cut. | Napoleon's retreat, Ch 18 to 19 |
-| **The Watch-Fort** | An old Covenant fortress at the top of the East Stair, on the edge of the Pall. Small garrison, deep cisterns, cliff at its back. Napoleon's army camps in the valley below it. | Ch 24 to 31 |
-| **The marches** | Hill country and a river valley below the plain. Free native clans and river towns, allied to the Cohort only because the Covenant is worse. | Ch 8, 12, 16, 17, 20, 34 |
-| **The Cohort camp** | A hill fort and valley camp in the western marches, a day's ride from the Middle Stair. | Ch 8, 22, 27, 34 |
+| **Plain-watchers' village** | On high terraces just under the Pall, below the West Stair. Terraced barley and goats. | Ch 15, 18 |
+| **The terrace road** | Runs along the plain's edge between the West and East Stairs. The only route east once the river road is cut. | Napoleon's retreat, Ch 17 to 18 |
+| **The Watch-Fort** | An old Covenant fortress at the top of the East Stair, on the edge of the Pall. Small garrison, deep cisterns, cliff at its back. Napoleon's army camps in the valley below it. | Ch 21 to 29 |
+| **The marches** | Hill country and a river valley below the plain. Free native clans and river towns, allied to the Cohort only because the Covenant is worse. | Ch 8, 12, 16, 19 and 32 |
+| **The Cohort camp** | A hill fort and valley camp in the western marches, a day's ride from the Middle Stair. | Ch 8, 21, 25, 32 |
 
 **Rough travel times on foot:** Bastion to West Stair, two days. West Stair to the village, half a day. Village to the Watch-Fort along the terrace road, two to three days. Village to the Cohort camp, two days.
 
@@ -108,9 +108,9 @@ All of Book 1 happens in one region: the western edge of the grey plain and the 
 
 **How Book 1 breaks it:**
 
-- Ch 19: Bray bears arms beyond the walls (term 2).
-- Ch 21: The Bastion takes in the village refugees, who guided Cohort scouts (term 3).
-- Ch 23: Gordon refuses Jackson's demand. The gates close.
+- Ch 18: Bray bears arms beyond the walls (term 2).
+- Ch 20: The Bastion takes in the village refugees, who guided Cohort scouts (term 3).
+- Ch 22: Gordon refuses Jackson's demand. The gates close.
 
 ---
 
@@ -180,7 +180,7 @@ About forty souls in the Bastion. Most are minor and quiet. **On page:** Gordon 
 - New arrivals carve their own name when they choose to claim it. No one carves it for them.
 - When a soul leaves the Bastion for good, the keeper scratches a single line through their name. It is not erased.
 - Names written over themselves belong to souls who changed what they called themselves.
-- The Hall is the only continuous record of arrivals on Eirion that the Covenant does not control. **That is why it matters in Ch 34 and 35.**
+- The Hall is the only continuous record of arrivals on Eirion that the Covenant does not control. **That is why it matters in Ch 32 and 33.**
 
 **The Mirror Hall**
 
