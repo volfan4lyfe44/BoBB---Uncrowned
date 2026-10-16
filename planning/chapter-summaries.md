@@ -30,6 +30,12 @@ On his second tour, Peyton Bray and his platoon move out to clear a suspected Vi
 
 Peyton wakes up in a strange, grey landscape with no memory of how he got there. He notices the harsh air and a strange, crystalline substance covering the ground. He remembers his service in Vietnam and basic survival necessities as he tries to find direction and shelter. He thinks about past experiences like football and memories of his colleagues. He finds a shelter with an ancient inscription warning of slavery and a tyrant. Peyton builds a fire and drinks from a water source, still searching for answers in the desolate expanse. He falls asleep with dreams of violence and wakes with a fear that his survival wasn't meant to be.
 
+Peyton follows a trail across the barren, grey landscape. He feels watched and senses the land has been marked in strange, geometric patterns. He finds shelter in a shallow cave and discovers remnants of past travelers: an amphora, sandals, a canteen, a rucksack, and a tricorn hat. Inside the rucksack, he finds a note that says "Keep walking." After drinking from a trickle of condensation, Peyton gathers some scraggly shrubs to test later and builds a small fire in the cave. He reflects on the artifacts, realizing that this place does not discriminate based on time but seems to hold the remnants of many lost journeys.
+
+Peyton Bray sleeps and dreams of Tate Cromwell: a card game in a tent in Vietnam, Tate's shrapnel wound, and the opium he takes for the pain. He awakens in the smoking remnants of the campfire, perspiring and shaken.
+
+Bray circles his camp, finding only silence. At the edge of the ridge, he discovers a piece of shaped stone with strange lines etched upon it. He realizes it is a map, not clear but made with intention. The map shows a fortress or compound, with a path leading from Bray's current location. In one corner, a strange marking stands out, heavy and menacing. Bray realizes someone else has been here, charting the world with this map, leaving a record of their journey. This map gives Bray his first sign of direction.
+
 ### Chapter 7 (Part 2, Chapter 2): Away From What I Left
 
 _No summary yet._

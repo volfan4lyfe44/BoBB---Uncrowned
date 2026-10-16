@@ -40,7 +40,7 @@ This is the vetting pass behind the outline: conflicts, rule problems, and histo
 
 ### Chapter 6
 
-- "Not even at the funeral that never happened." Tate died during Bray's first tour, so there would likely have been a funeral at home that Bray could not attend. Consider "the funeral he never made it home for," unless the author intends there was no funeral.
+- ~~"Not even at the funeral that never happened."~~ **Done 10/16/2026:** now "the funeral he never made it home for."
 
 ### Chapter summaries
 
@@ -106,7 +106,23 @@ The prologue items are settled (see the table at the top). These come from the p
 
 ## 6. Small text fixes left for a polish pass (Ch 6 and 7)
 
-- Ch 6: "a little to old" should be "too old."
-- Ch 6: "He filled out those frame" should be "that frame."
-- Ch 6: "blazed a vivid crimson.," has a stray comma.
-- Ch 6: "the Viet Cong he'd battled so long ago" reads oddly for someone who died days ago from his point of view.
+- ~~Ch 6: "a little to old" should be "too old."~~ Done.
+- ~~Ch 6: "He filled out those frame" should be "that frame."~~ Done.
+- ~~Ch 6: "blazed a vivid crimson.," has a stray comma.~~ Done.
+- ~~Ch 6: "the Viet Cong he'd battled so long ago" reads oddly for someone who died days ago from his point of view.~~ Done.
+
+### Ch 6 polish pass: notes for the author
+
+The line edit on 10/16/2026 fixed the typos, removed the embedded Novelcrafter scene summaries (now in the [chapter summaries](chapter-summaries.md)), stripped bold and blockquote formatting from the prose, cut repeated images, and fixed small contradictions (the waterfall vs. condensation, the fire built twice, canvas vs. leather, the bullseye canteen). These items were left for the author:
+
+- **Peyton vs. Bray.** Narration alternates between the names. Pick a convention, for example "Bray" in narration and "Peyton" in family or intimate memory.
+- **The Sergeant's question (line 49 area).** The setup "I've got a question for you" was cut because no question followed. Restore it if you want to give him one.
+- **Fire-lighting.** Scene 1 still makes fire by breaking two dry sticks over a rock. Idea: a Zippo in his pocket, which crosses under rule R5.
+- **The flask (Scene 1).** Mentioned once and never used. Tie it to Tate, or cut it.
+- **Two shelters (Scenes 1 and 2).** Still both present. See section 5.
+- **The unnamed voice (end of the memory montage).** Could be Tate, which would set up the Scene 3 dream.
+- **"Another emperor" in Spartacus's inscription.** Rome had no emperor in his lifetime, so the line reads as a comment on the Covenant. Confirm that is intended.
+- **Nickname origin.** The Codex credits size and frame; the chapter credits the seventh-grade beard and his running gait. Align if needed.
+- **Found rucksack.** Counted as Civil War gear, but a Civil War soldier carried a haversack or knapsack. Ch 7 also says "rucksack," so change both or neither.
+- **Period detail.** "Cassette tape" is possible in 1970; an 8-track was more common.
+- **Ideas:** reaching for a rifle that isn't there; checking for the gunshot wound and finding whole skin; touching the dog-tag chain without counting the tags (fair-play clue for Ch 11); Tate mentioning that Doc wants to send him home (seeds the discharge); the three heavy marks on the map as native script Bray can't read (rule R4); waking to silence with no leaves moving, as a contrast to the crossing.
