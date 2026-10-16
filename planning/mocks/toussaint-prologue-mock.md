@@ -12,7 +12,7 @@ It follows the shape of the other five prologue chapters: a role label, an epigr
 
 *"In overthrowing me, you have cut down in Saint-Domingue only the trunk of the tree of liberty. It will spring up again by the roots, for they are numerous and deep."*
 
-Toussaint Louverture, 1802 (attribution format to match the other epigraphs)
+Toussaint Louverture, 1802
 
 Snow had been falling on the Jura since autumn, and the fortress had long ago stopped pretending to be warm.
 
