@@ -22,7 +22,7 @@ Sophie stands trial for high treason alongside her brother and their friend. The
 
 ### Chapter 5: The Unwritten Ending
 
-Lieutenant briefs Peyton Bray and his platoon on their mission to clear a suspected Viet Cong village. During the operation, Bray is shot and killed. His death is reported, but the circumstances are unclear. A mysterious presence observes the scene, noting that some wars continue beyond the battlefield and some truths remain hidden. Bray's name is recorded among the Uncrowned, not for his death, but for his potential.
+On his second tour, Peyton Bray and his platoon move out to clear a suspected Viet Cong village. During the operation, Bray is shot and killed. His death is reported, but the circumstances are unclear. A presence tells him some wars continue beyond the battlefield and some truths remain hidden. Bray, alone among the five, doubts it. Bray's name is recorded among the Uncrowned, not for his death, but for his potential.
 
 ## Part 2: The Bastion of Broken Banners
 

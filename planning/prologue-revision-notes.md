@@ -38,3 +38,17 @@ Decisions made while revising Part 1, The Last Breath. Use these to keep the fiv
 - Leaflet count replaced with the atrium balcony moment that led to her arrest.
 - Added a chaplain on the walk to the guillotine so the presence can stand behind him. Added the leaves signature.
 - "The guillotine never dropped" reworded to "The blade had not ended her. It had only carved a path through time."
+
+## Chapter 5: The Unwritten Ending
+
+- **Bray's timeline (series-wide):** drafted 1968, first tour with Tate Cromwell, Tate dies, Bray goes home. He later chooses to go back (a Pat Tillman and John Basilone echo) and is killed in 1970, at 21, three months into his second tour. Why he went back is his core unanswered question. This matches Chapters 6 and 7 (years since Tate, grief groups, calls from home). The televised lottery line was removed because the lottery did not exist in 1968.
+- **Football:** tight end and linebacker, playing both ways. Chapter 6 now says "winning catch" instead of "winning shot."
+- **Voice:** Bray is the only one of the five who pushes back ("*Says who?*"). No answer comes, only the leaves.
+- Added Greeneville, "Moose," and Tate to the chapter. Cut the invented second sentence from the Chesterton epigraph. "Clicks" changed to "klicks."
+
+## Open items from the prologue pass
+
+- [ ] Check the Francis George Shaw (Ch 2) and Augustine (Ch 3) epigraph wording against printed sources before publication.
+- [ ] Chapter 7 mentions grief groups after Bray's first tour (about 1969). Organized veterans' "rap groups" started around 1970 to 1971. Consider a church group, a VA counselor, or similar.
+- [ ] Place the Hale last-words payoff in the Book 1 outline.
+- [ ] Decide whether the prologue needs a Last Cohort or Covenant death (for example, Toussaint at Fort de Joux, 1803).

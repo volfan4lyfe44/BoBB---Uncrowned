@@ -10,7 +10,7 @@ As his eyes widened and adjusted to the weak light filtering through a perpetual
 
 "This place," he thought, "wherever it must be, is not any place I've heard of on Earth." A chill ran down his spine, colder than the air could account for. His memories of basic training, hazy as they were, began to focus. Direction, shelter, food, water. The four necessities. The bare minimum for survival in this vast expanse of nothingness. He looked up at the sky, a bleak, grey canvas with a diffused light that might have been clouds, fog, or something far more alien. No sun pierced through the haze.
 
-Peyton clenched his jaw, forcing down the sensation of unreality. He hadn't even dared laugh - the kind, barking laughter his father used to chuckle when making brisket, or his own boisterous laugh when sinking a last-second winning shot in high school – the echoes of his past felt like ghosts here.
+Peyton clenched his jaw, forcing down the sensation of unreality. He hadn't even dared laugh - the kind, barking laughter his father used to chuckle when making brisket, or his own boisterous laugh when hauling in a last-second winning catch in high school – the echoes of his past felt like ghosts here.
 
 He took a deep breath, the grey, metallic air rasping his lungs. Survival instincts, honed in the jungles of Vietnam, kicked in. He needed direction, shelter, food, and water. The sheer emptiness of this place, its vast, mocking silence, was almost as unnerving as the chaotic roar of the Viet Cong he’d battled so long ago. He scanned the horizon, seeking a landmark, any sign of life, anything to anchor him to reality. A faint chill permeated his bones, mirroring the cold steel granularity beneath his boots.
 
