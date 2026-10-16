@@ -12,6 +12,12 @@ This outline builds a full Book 1 plot from what already exists: the seven draft
 
 The author writes the book. This is a scaffold to argue with, not prose to adopt.
 
+**Deeper layers (added 10/16/2026):**
+
+- [Book 1 scene breakdown](book-1-scene-breakdown.md): day-by-day timeline, scene beats for every chapter, the battle and rescue step by step, and a thread tracker.
+- [Book 1 cast arcs](arcs/book-1-cast-arcs.md): wants, fears, and turns for every major character, plus the new characters the plot needs.
+- [Book 1 history and setting](worldbuilding/book-1-history-and-setting.md): Eirion's history from Alexander to Bray, the map, the Accord's terms, and the native peoples.
+
 ---
 
 ## 1. The book in one paragraph
@@ -72,6 +78,7 @@ All beats come from the [arc notes](arcs/toussaint-louverture.md) **[Decided]**.
 - **Starts:** The Cohort's voice of reason. Distrusts the Uncrowned as one more kind of inaction.
 - **Pressure:** Napoleon, the man who denied him a seat in life, offers him one in death.
 - **Choice:** Refuses the seat in chains. Then votes to bring in the Uncrowned, because people who refuse every crown are the Cohort's best defense against becoming another empire. The man who refused one seat votes to make sure no one in his alliance builds one.
+- **Proposed deepening:** His flaw is believing the structure needs him at its center. He once made himself governor for life (verify). In captivity Napoleon names it: "You are me without the crown." His vote is a check on himself.
 - **Proposed addition:** He walks into the parley knowing it may be a trap, because captives' lives are on the table. That makes him principled, not careless, and it makes his capture a mirror of 1802 rather than a repeat of the same mistake.
 
 ### Supporting arcs
@@ -157,7 +164,7 @@ Rough word counts are targets, not limits.
 
 **Ch 11. The Quiet Courtyard (Bray), about 3,500 words.** Sophie introduced. She asks him what he died for and does not accept "nothing." The tricorn and "Keep walking" turn out to be Hale's, now gone to the Cohort. Bray learns the shape of the world: Covenant, Cohort, natives, the Bastion's trade with the plain-watchers for food. The dog tag: Bray finds his own chain under his shirt, broken, and realizes Tate's tag came off his own neck. He had worn it since the night Tate died.
 
-**Ch 12. The Ground Napoleon Wants (Toussaint), about 4,000 words.** Napoleon advances to force a decisive battle. Toussaint will not give him one: he withdraws, strips the forage, and draws on native allies in the marches. Spartacus chafes. Hale introduced in the Cohort. Lannes, on the far flank, stays out of sight of the eagle.
+**Ch 12. The Ground Napoleon Wants (Toussaint), about 4,000 words.** Napoleon advances to force a decisive battle. Toussaint will not give him one: he withdraws, strips the forage, and buys the river lord's alliance with a sworn promise that the Cohort will rule no one in the marches after the war. Lannes, privately, tells him how Napoleon thinks. Spartacus chafes. Hale introduced in the Cohort. Lannes, on the far flank, stays out of sight of the eagle.
 
 **Ch 13. Interlude: The Eagle in the Marches (Napoleon), about 2,500 words.** Napoleon needs a clean victory to move toward the center of the Covenant. He is being bled instead. Shows his staff, his contempt for martyrdom, and a sealed wagon he lets no one near: powder. He learns his opponent's name. It is a name he once signed orders against.
 
@@ -181,7 +188,7 @@ Rough word counts are targets, not limits.
 
 **Ch 22. Safe Conduct (Toussaint), about 3,500 words.** Napoleon offers a parley under safe conduct to exchange the captives from the village. Spartacus calls it a trap. Toussaint: "I know. I have been here before." He goes because the captives' lives are real, and he arranges for Lewes's scouts to shadow him. He orders Lannes to stay away.
 
-**Ch 23. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. What he finally admits to himself: the version of him who made Tate take the discharge and go home, and Tate alive in it. He comes out changed. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice.
+**Ch 23. The Mirror Hall (Bray), about 4,000 words.** Bray enters the sealed chamber alone and sits with his reflection until he cannot stand it. Per the Codex, it shows possibility, not past **[Decided, grounded]**. What he finally admits to himself: the version of him who made Tate take the discharge and go home, and Tate alive in it. He comes out changed. Gordon gives his answer to Jackson: he will not hand Bray over. The Accord is over by Gordon's own choice, and the Bastion's rusted gates close for the first time in a thousand years.
 
 **Ch 24. The Parley (Toussaint), about 3,500 words.** Napoleon keeps the letter of his promise: the captives are released and walk away safe. Then he takes Toussaint. "I promised their safety." Lewes's shadows see it and cannot stop it.
 
@@ -283,7 +290,7 @@ In priority order. The outline works as written if each recommendation is accept
 2. **Time and arrival order (R1).** Same clock as Earth, in order of death? Recommended yes.
 3. **The Bastion Accord (R8).** Accept, and decide roughly when and why it was made.
 4. **Spartacus founded the Bastion.** Accept or cut.
-5. **Who dies in the rescue (Ch 30).** Recommendation: a named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 26 and 29. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
+5. **Who dies in the rescue (Ch 30).** Recommendation: Shaw's color sergeant from Ch 2, now one of Lewes's scouts (see [cast arcs](arcs/book-1-cast-arcs.md#the-sergeant)). Otherwise any named Eternal from Lewes's team, introduced in Ch 8 and given a real bond with Bray in Ch 26 and 29. This shows that killed is final for the immortals without making a native the sacrifice. Alternatives: Hale (too large a loss for Book 1, and it spends his "martyr twice lost" arc early), or the watcher (strong, but risks making natives disposable, against the series' own theme).
 6. **The empty grave's dog tag (Ch 7).** Leave open as a later thread, or cut. One option for a later book: it belongs to the soldier who fired the shot that killed Bray.
 7. **The native watcher.** Name, people, and whether they get a POV chapter.
 8. **Lannes's motive (section 8).** Accept or replace.

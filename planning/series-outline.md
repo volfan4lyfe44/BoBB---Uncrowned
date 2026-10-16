@@ -33,6 +33,9 @@ A full chapter-by-chapter proposal for Book 1 is in the [Book 1 plot outline](bo
 
 - [Book 1 plot outline](book-1-plot-outline.md) (proposal)
 - [Book 1 continuity and fact check](book-1-continuity-check.md)
+- [Book 1 scene breakdown](book-1-scene-breakdown.md)
+- [Book 1 cast arcs](arcs/book-1-cast-arcs.md)
+- [Book 1 history and setting](worldbuilding/book-1-history-and-setting.md)
 - [Toussaint Louverture arc](arcs/toussaint-louverture.md)
 - [Gate of Still Flame notes](worldbuilding/gate-of-still-flame-notes.md)
 - [Eirion world guide](worldbuilding/eirion-world-guide.md)
