@@ -2,17 +2,17 @@
 
 ### THE RELUCTANT WARRIOR
 
-*"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. And sometimes, the truest courage is found in those who question why they fight at all."* — G.K. Chesterton
+*"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."* — G.K. Chesterton
 
-The jungle breathed around him, humid and alive with whispers. Nineteen years old, three months in-country, and already ancient beyond his years. Peyton Bray wiped sweat from his eyes and adjusted the M16 across his knees.
+The jungle breathed around him, humid and alive with whispers. Twenty-one years old, three months into his second tour, and already ancient beyond his years. Peyton Bray wiped sweat from his eyes and adjusted the M16 across his knees.
 
-He had been a linebacker with scholarship offers. Had turned them down after watching the draft numbers called on television, his birthday pulled early. Some choices weren't really choices at all.
+Back in Greeneville they had called him Moose. Tight end and linebacker, both ways, with scholarship offers from schools he had only seen on Saturday television. Then the letter from the draft board came, and he let the offers go. He had gone over once and come home. Then he had signed the papers to go back, and he still could not have told anyone why. Some choices weren't really choices at all.
 
 "Move out in five," the lieutenant whispered, passing through their makeshift perimeter.
 
 Bray nodded, though the question burned in his throat: *Move out to where?* The maps showed a village that needed clearing. The radio chatter mentioned suspected Viet Cong. The letters from home talked of protests growing larger each week.
 
-Three clicks from the village, the first shots cracked through the canopy.
+Three klicks from the village, the first shots cracked through the canopy.
 
 They took cover, returning fire into the emerald wall of vegetation. No targets, just muzzle flashes and shadows. The dance they'd performed a dozen times before.
 
@@ -26,17 +26,23 @@ Strange, how suddenly light the rifle became. How distant the shouting. How the 
 
 He heard the radio operator calling frantically for a medevac. Heard the lieutenant barking orders. Heard Private Jenkins repeating "No, no, no" like a broken record.
 
+Somewhere under the noise he thought of Tate Cromwell, and of why he had come back, and found he still did not know.
+
 *What happened?* He tried to ask, but his voice belonged to someone else now.
 
 The sky darkened through the leaves—then parted with unexpected gentleness.
 
 As consciousness slipped away, one thought remained clear: something about this story wasn't right. Something important was being left unsaid.
 
-A presence, neither military nor civilian, neither American nor Vietnamese:
+Leaves stirred overhead, though the jungle air hung dead still. A presence, neither American nor Vietnamese:
 
 "Some wars continue long after the firing stops. Some truths refuse to be buried."
 
-*And in 1970, a soldier fell in distant jungle.*
+*Says who?* he wanted to ask.
+
+No answer came. Only the leaves, moving where no wind moved.
+
+*And in 1970, a soldier fell in a distant jungle.*
 
 *But the reports would not mention how.*
 

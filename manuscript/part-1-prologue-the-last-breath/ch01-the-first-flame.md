@@ -4,7 +4,7 @@
 
 *"Duty, honor, country. Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be."* — Douglas MacArthur
 
-People gathered around the local tavern on an otherwise normal Sunday morning, gathering to see the execution of a spy for the American Revolution. Odd, that the occupying British forces decided to conduct a public hanging on the Lord's day, but such was the norm during times of war. The British soldiers bound the hands of the purported spy, a necessary task. Even though a spy, the soldiers in their red coats treated the man with dignity. That was their mercy.
+People gathered near the local tavern on an otherwise normal Sunday morning to see the execution of a spy for the American Revolution. Odd that the occupying British forces decided to conduct a public hanging on the Lord's day, but such was the norm during times of war. The British soldiers bound the hands of the purported spy, a necessary task. Spy or not, most of the soldiers in their red coats treated the man with dignity. That was their mercy.
 
 The rope was another matter—coarse, sun-warped, and already stained from others who struggled in their bonds. The captured, convicted, and doomed spy watched it sway in the early morning air like a weathervane pointing nowhere. His boots were clean. They'd given him new ones. Not for his comfort, he guessed, but for their order.
 
@@ -12,9 +12,11 @@ He was twenty-one—barely a man. He had taught Latin at a schoolhouse in Connec
 
 "Who will volunteer? We need to know their troop movements. Someone *must go*."
 
-All his life, education, and training hadn't taught the Idealist the ability to allude British capture. They had caught him easily enough—wrong clothes, wrong accent, wrong papers. A cursory search revealed the maps tucked into his shoes.
+All his life, education, and training hadn't taught the Idealist how to elude British capture. They had caught him easily enough—wrong clothes, wrong accent, wrong papers. A cursory search revealed the maps tucked into his shoes.
 
 The British captain had offered rum the night before as a courtesy. They had spoken of Yale—the captain had studied at Cambridge and found common ground in their shared scholarly pursuits. Then talk of family, the captain's young wife back in London. Normal conversation between two young men who, in another world, might have been friends.
+
+The provost marshal, William Cunningham, showed no such courtesy. He refused the condemned man a chaplain. He refused him a Bible. When the young man asked for paper, Cunningham allowed him two letters, one to his mother and one to a brother officer, then read them, sneered, and tore them to pieces before his eyes. The rebels, he said, would never know they had a man who could die with such firmness.
 
 *"Do you regret it?"* someone whispered behind the line. A fellow prisoner, or a curious guard.
 
