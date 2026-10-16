@@ -18,11 +18,11 @@ Souls pulled from history at the moment of their deaths awaken in Eirion. Some j
 
 | Part | Chapter | Words (approx.) | Status |
 |---|---|---|---|
-| 1: Prologue, The Last Breath | [Ch 1: The First Flame](manuscript/part-1-prologue-the-last-breath/ch01-the-first-flame.md) | 550 | Drafted |
-| 1: Prologue, The Last Breath | [Ch 2: The Banner that Fell](manuscript/part-1-prologue-the-last-breath/ch02-the-banner-that-fell.md) | 500 | Drafted |
-| 1: Prologue, The Last Breath | [Ch 3: The Last Sentinel](manuscript/part-1-prologue-the-last-breath/ch03-the-last-sentinel.md) | 510 | Drafted |
-| 1: Prologue, The Last Breath | [Ch 4: A Flower in Bloom](manuscript/part-1-prologue-the-last-breath/ch04-a-flower-in-bloom.md) | 480 | Drafted |
-| 1: Prologue, The Last Breath | [Ch 5: The Unwritten Ending](manuscript/part-1-prologue-the-last-breath/ch05-the-unwritten-ending.md) | 390 | Drafted |
+| 1: Prologue, The Last Breath | [Ch 1: The First Flame](manuscript/part-1-prologue-the-last-breath/ch01-the-first-flame.md) | 620 | Revised |
+| 1: Prologue, The Last Breath | [Ch 2: The Banner that Fell](manuscript/part-1-prologue-the-last-breath/ch02-the-banner-that-fell.md) | 490 | Revised |
+| 1: Prologue, The Last Breath | [Ch 3: The Last Sentinel](manuscript/part-1-prologue-the-last-breath/ch03-the-last-sentinel.md) | 510 | Revised |
+| 1: Prologue, The Last Breath | [Ch 4: A Flower in Bloom](manuscript/part-1-prologue-the-last-breath/ch04-a-flower-in-bloom.md) | 520 | Revised |
+| 1: Prologue, The Last Breath | [Ch 5: The Unwritten Ending](manuscript/part-1-prologue-the-last-breath/ch05-the-unwritten-ending.md) | 470 | Revised |
 | 2: The Bastion of Broken Banners | [Ch 6 (Part 2, Ch 1): The Grey Waking](manuscript/part-2-the-bastion-of-broken-banners/ch06-the-grey-waking.md) | 4,640 | Drafted |
 | 2: The Bastion of Broken Banners | [Ch 7 (Part 2, Ch 2): Away From What I Left](manuscript/part-2-the-bastion-of-broken-banners/ch07-away-from-what-i-left.md) | 3,910 | In progress: Scenes 1 to 3 drafted, Scenes 4 and 5 outlined only |
 
@@ -33,6 +33,8 @@ Total: about 11,000 words.
 - [ ] Review the [Book 1 plot outline](planning/book-1-plot-outline.md) proposal and answer its decision list (section 12).
 - [ ] Work through the [Book 1 continuity and fact check](planning/book-1-continuity-check.md), starting with Bray's timeline and the Chapter 4 co-defendant error.
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
+- [ ] Work through the open items in the [prologue revision notes](planning/prologue-revision-notes.md).
+- [ ] Match the prologue revisions in Novelcrafter.
 - [ ] Flesh out Eirion's native kingdoms, history, and geography. Start from the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
 - [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/worldbuilding/gate-of-still-flame-notes.md).
 - [ ] Match these changes in Novelcrafter so the next export lines up: Napoleon spelling in the Codex, chapter 6 and 7 titles, and the "Chatper 2" heading.

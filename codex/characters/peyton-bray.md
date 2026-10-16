@@ -17,13 +17,13 @@ The protagonist of the book. Peyton Bray is from Greeneville, Tennessee. He is a
 
 *The Doubter. The Drifter. The Unfinished.*
 
-**Age at Death**: Early 20s **Origin**: United States, Vietnam War – circa 1968 **Role**: Protagonist of *The Uncrowned* **Primary Themes**: Disillusionment, moral ambiguity, reluctant leadership, emotional inheritance
+**Age at Death**: 21 **Origin**: United States, Vietnam War. Drafted 1968; killed 1970, three months into his second tour **Role**: Protagonist of *The Uncrowned* **Primary Themes**: Disillusionment, moral ambiguity, reluctant leadership, emotional inheritance
 
 ---
 
 ## 🧬 **Character Overview**
 
-Peyton Bray is a soldier who never truly believed in the war he died fighting. Bray had a promising career as an athlete (football, Tight End.) He is a muscular imposing figure at 6'4" 225 pounds. He has the nickname "Moose" due to his size, hairy chest, and muscular frame. Torn from the jungles of Vietnam by a bullet fired not by the enemy but by a frightened fellow American—**a death that felt less like sacrifice and more like a punchline**—he awakens in the world of Eirion without answers, allegiance, or peace.
+Peyton Bray is a soldier who never truly believed in the war he died fighting. Bray had a promising career as an athlete (football, tight end and linebacker, playing both ways) He is a muscular imposing figure at 6'4" 225 pounds. He has the nickname "Moose" due to his size, hairy chest, and muscular frame. Torn from the jungles of Vietnam by a bullet fired not by the enemy but by a frightened fellow American—**a death that felt less like sacrifice and more like a punchline**—he awakens in the world of Eirion without answers, allegiance, or peace.
 
 He is not a hero. Not yet. But he’s also not hollow.
 
