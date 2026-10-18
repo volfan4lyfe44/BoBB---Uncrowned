@@ -23,21 +23,22 @@ Souls pulled from history at the moment of their deaths awaken in Eirion. Some j
 | 1: Prologue, The Last Breath | [Ch 3: The Last Sentinel](manuscript/part-1-prologue-the-last-breath/ch03-the-last-sentinel.md) | 510 | Revised |
 | 1: Prologue, The Last Breath | [Ch 4: A Flower in Bloom](manuscript/part-1-prologue-the-last-breath/ch04-a-flower-in-bloom.md) | 520 | Revised |
 | 1: Prologue, The Last Breath | [Ch 5: The Unwritten Ending](manuscript/part-1-prologue-the-last-breath/ch05-the-unwritten-ending.md) | 470 | Revised |
-| 2: The Bastion of Broken Banners | [Ch 6 (Part 2, Ch 1): The Grey Waking](manuscript/part-2-the-bastion-of-broken-banners/ch06-the-grey-waking.md) | 4,640 | Drafted |
+| 2: The Bastion of Broken Banners | [Ch 6 (Part 2, Ch 1): The Grey Waking](manuscript/part-2-the-bastion-of-broken-banners/ch06-the-grey-waking.md) | 4,340 | Polished; author decisions applied |
 | 2: The Bastion of Broken Banners | [Ch 7 (Part 2, Ch 2): Away From What I Left](manuscript/part-2-the-bastion-of-broken-banners/ch07-away-from-what-i-left.md) | 3,910 | In progress: Scenes 1 to 3 drafted, Scenes 4 and 5 outlined only |
 
-Total: about 11,000 words.
+Total: about 10,900 words.
 
 ## Open items
 
 - [ ] Review the [Book 1 plot outline](planning/book-1-plot-outline.md) proposal and answer its decision list (section 12).
 - [ ] Work through the [Book 1 continuity and fact check](planning/book-1-continuity-check.md), starting with Bray's timeline and the Chapter 4 co-defendant error.
+- [ ] Review the Chapter 6 changes from the [author decisions](planning/book-1-continuity-check.md#ch-6-polish-pass-author-decisions), and confirm the wound location against the friendly-fire reveal.
 - [ ] Draft Chapter 7, Scenes 4 and 5 (beats are in the chapter file).
 - [ ] Work through the open items in the [prologue revision notes](planning/prologue-revision-notes.md).
 - [ ] Match the prologue revisions in Novelcrafter.
 - [ ] Flesh out Eirion's native kingdoms, history, and geography. Start from the [Eirion world guide](planning/worldbuilding/eirion-world-guide.md).
 - [ ] Answer the open questions in the [Toussaint arc notes](planning/arcs/toussaint-louverture.md) and [Gate of Still Flame notes](planning/worldbuilding/gate-of-still-flame-notes.md).
-- [ ] Match these changes in Novelcrafter so the next export lines up: Napoleon spelling in the Codex, chapter 6 and 7 titles, and the "Chatper 2" heading.
+- [ ] Match these changes in Novelcrafter so the next export lines up: Napoleon spelling in the Codex, chapter 6 and 7 titles, the "Chatper 2" heading, and the Chapter 6 polish and restructure.
 
 ## Working with Novelcrafter
 

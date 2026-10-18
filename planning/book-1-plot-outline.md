@@ -178,7 +178,7 @@ Rough word counts are targets, not limits. Scene-level beats for every chapter a
 
 ### Part 2: The Bastion of Broken Banners
 
-**Ch 6. The Grey Waking (Bray). [Drafted]** Wakes on the plain, finds Spartacus's inscription, the cave of artifacts, dreams of Tate, finds the stone map.
+**Ch 6. The Grey Waking (Bray). [Drafted]** Wakes on the plain, sleeps in the open, finds the cave of artifacts and Spartacus's inscription, dreams of Tate, finds the stone map.
 
 **Ch 7. Away From What I Left (Bray). [Scenes 1 to 3 drafted]** Scenes 1 to 3 as drafted. Scene 4 (proposed): his first sight of other people, a Covenant party crossing the plain with a bound new arrival; Bray hides and does nothing. Scene 5 as outlined: the field manual, the journal line, and the lone figure watching.
 
