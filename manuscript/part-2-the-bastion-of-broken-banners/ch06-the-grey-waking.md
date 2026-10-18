@@ -4,13 +4,21 @@ His eyes fluttered open, blinking away the fog of unconsciousness. It took him a
 
 "What the hell..." he muttered, his voice hoarse and unfamiliar.
 
-As his eyes adjusted to the weak light filtering through a perpetually overcast sky, he saw no lush jungle canopy overhead, no cotton-ball clouds floating leisurely across a serene blue sky. Instead, the air was biting and harsh, redolent with a strange scent—dry, stale, and metallic, like rust. Peyton found himself surrounded by a vast expanse of grey particles, not dust or ash, but something distinct, almost crystalline in the way the light refracted off it. It crunched faintly under his boots as he rose to his feet, causing the peculiar substance to swirl around momentarily before settling back onto the flat, featureless ground beneath him. He brushed at his fatigues, finding the fabric stiff and oddly brittle. The chill seeped into his bones, a deep, penetrating cold that had nothing to do with the temperature.
+His right hand swept the ground beside him for his rifle. It found only grit. He tried the other side and found nothing there either. For months that weapon had never been more than an arm’s length away, and its absence felt like a missing limb.
 
-"Where am I?" Peyton muttered to himself, looking around and trying to get his bearings. He scanned the horizon, but saw nothing but the strange, grey substance, stretching on without end. No trees, no hills, no sign of anything remotely familiar. Nothing within sight seemed *human*.
+The shot. He shoved a hand up under his shirt and twisted to reach high on his back, below the right shoulder blade, where it had taken him. Whole skin. No hole, no blood, no scar. He pressed harder, as if the pain might be hiding underneath. Something about where it had landed nagged at him, a detail just out of reach, and he pushed it away.
+
+His fingers went to his throat out of habit and found the chain, the tags cold against his chest. Still there. He let them drop back under his shirt.
+
+And the quiet. No cicadas. No birdcalls. No leaves stirring overhead. After months of the jungle’s endless noise, the silence rang in his ears.
+
+As his eyes adjusted to the weak light filtering through a perpetually overcast sky, he saw no lush jungle canopy overhead, no cotton-ball clouds floating leisurely across a serene blue sky. Instead, the air was biting and harsh, redolent with a strange scent—dry, stale, and metallic, like rust. Bray found himself surrounded by a vast expanse of grey particles, not dust or ash, but something distinct, almost crystalline in the way the light refracted off it. It crunched faintly under his boots as he rose to his feet, causing the peculiar substance to swirl around momentarily before settling back onto the flat, featureless ground beneath him. He brushed at his fatigues, finding the fabric stiff and oddly brittle. The chill seeped into his bones, a deep, penetrating cold that had nothing to do with the temperature.
+
+"Where am I?" Bray muttered to himself, looking around and trying to get his bearings. He scanned the horizon, but saw nothing but the strange, grey substance, stretching on without end. No trees, no hills, no sign of anything remotely familiar. Nothing within sight seemed *human*.
 
 *This place*, he thought, *wherever it is, is not any place I've heard of on Earth.* His memories of basic training, hazy as they were, began to focus. Direction, shelter, food, water. The four necessities. The bare minimum for survival in all this nothingness. He looked up at the sky, a bleak, grey canvas with a diffused light that might have been clouds, fog, or something far more alien. No sun pierced through the haze.
 
-Peyton clenched his jaw, forcing down the sensation of unreality. He hadn't even dared laugh—the kind of barking laugh his father let loose while making brisket, or his own boisterous laugh when hauling in a last-second winning catch in high school. The echoes of his past felt like ghosts here.
+Bray clenched his jaw, forcing down the sensation of unreality. He hadn't even dared laugh—the kind of barking laugh his father let loose while making brisket, or his own boisterous laugh when hauling in a last-second winning catch in high school. The echoes of his past felt like ghosts here.
 
 He took a deep breath, the grey, metallic air rasping his lungs. Survival instincts, honed in the jungles of Vietnam, kicked in. The sheer emptiness of this place, its vast, mocking silence, was almost as unnerving as the chaotic roar of the Viet Cong firefights he’d only just left. He scanned the horizon, seeking a landmark, any sign of life, anything to anchor him to reality.
 
@@ -24,7 +32,7 @@ His ears caught a snatch of a familiar voice.
 
 The voice of Coach Johnson, gravelly and impatient, echoed through his mind. The taste of victory after a ferocious finish to a football game flashed before his eyes: the roar of the crowd, the smell of freshly cut grass, the thud of the pigskin in his massive hands. The pain of that final push, the agonizing snaps of his hamstring, the endless hours of physical therapy – all the memories of his high school years, a fading dream now.
 
-The metallic tang of the strange air twisted in Peyton’s gut, pulling him from the memory.
+The metallic tang of the strange air twisted in Bray’s gut, pulling him from the memory.
 
 *Moose*.
 
@@ -58,7 +66,7 @@ Each sliver of memory, separated in time and space, was now interwoven in the fa
 
 "Bray!"
 
-The voice, a guttural rasp in the back of his mind, sent a shiver down his spine. A voice familiar to him, one he knew and trusted. Not his own, but that of a . . . friend, teammate, or fellow soldier? "No time for reminiscing, Moose," the voice growled. "We have a job to do." Bray listened. His memories lay tangled like an unspooled cassette tape eaten by a malfunctioning stereo.
+The voice, a low, easy drawl in the back of his mind, sent a shiver down his spine. A voice familiar to him, one he knew and trusted. Not his own, but that of a . . . friend, teammate, or fellow soldier? "No time for reminiscin', Moose," the voice said, stretching the nickname out the way only one person ever had, half joke, half dare. "We got a job to do." Bray listened. His memories lay tangled like tape spilling out of an 8-track chewed up by a malfunctioning car stereo.
 
 Bray didn't hesitate. He chose a direction, a sliver of light dancing on the endless grey. It was a flicker, barely perceivable, but it was enough. In the gaping abyss of this new reality, a beacon, however faint, was better than nothing.
 
@@ -66,39 +74,11 @@ He began to walk.
 
 The grey whispered beneath his boots, crumbling like dried powder. Hours bled into each other, marked only by the subtle shift of the light, the increasing weariness in his legs, the tightening ache in his chest that he couldn’t quite place. The silence pressed on him, a suffocating pressure that he found himself both yearning for and fleeing from.
 
-A shift in the grey, a breaking of the monotonous wasteland. Darker shades, sharper edges formed before him. Bray's pace quickened, hope blooming in his chest like a fragile flower.
+A small pang of guilt tugged at his chest, of a friend lost in Vietnam. A pain too heavy to handle. Would his fellow soldiers lost to history have done this? Kept walking? Or would they have just slumped in the shadows, numb, lost in the endless fog of pain and regret?
 
-He drew closer, and there was a sight that felt almost unreal. Towering crags of grey stone rose from the desolate landscape, their jagged peaks clawing at the perpetually overcast sky. A trickle of crystal-clear water tumbled down one side, catching the faint light and forming a shimmering pool beneath.
+Bray couldn’t say. He swallowed hard, shaking the image from his head. Sleep was a luxury he couldn’t afford, not yet. Not in this desolate wasteland.
 
-A natural shelter nestled between the rocks, a rough curve of stone offering protection from the biting air.
-
-Bray sank to his knees, his weary muscles protesting. He was grateful for the small reprieve, grateful for the promise of shelter. But the gnawing anxiety didn't subside.
-
-He huddled inside the shelter, the fragile water sounds a soothing balm to his frayed nerves. As he looked for something to burn, his eyes fell upon a smooth, flat surface carved into the wall of the shelter. Strange symbols, etched into the rock, sent a shiver down his spine.
-
-He approached cautiously, running his fingers over the stone. It felt ancient, worn smooth by the passage of time. As he traced the curves of the inscription, he realized it was not a language he recognized.
-
-Then he saw it. Familiar. Not a language, but an articulation.
-
-"This place," the inscription read, "is no victory. It is not the peace I sought, nor the end I fought for. We bled and died, all for what? For another emperor, for another tyrant, clothed in different silks, wielding a different sword?"
-
-Bray knew that kind of hand, the blunt passion of it. This wasn't the languid flourish of a scholar, but a mark made in anger, in grief, by a man driven to extremes.
-
-"Crassus is dead, but Rome lives on," the inscription continued. "Slavery endures, masked by gilded words and hollow promises. This—" The words broke off, then resumed, cut deeper. "This will be my eternal vigil. A monument to the failures of men."
-
-Peyton touched the inscription again, its jagged angles pressing into his palm. He thought of the flask he used to carry in his rucksack. A breeze, carrying the bitter tang of this forsaken world, whispered around him. The jungle in Vietnam had been denser, alive, buzzing with insects and the insistent calls of unseen creatures. The silence here was a different kind of beast, staggering in its vastness and emptiness.
-
-But there was something here. Something buried beneath the sterile surface. He traced the inscription again, letting his fingers wander over the worn surface. It confirmed what his gut told him: he wasn't alone. Someone had been here before him. Someone who, like him, wandered the blank canvas of this place, searching for something.
-
-He cleared a patch of ground beneath the overhang, using his boots to scrape away the finer dust. He’d dealt with grittier situations than this. Building a fire was priority. He found two dry sticks, breaking them apart with practiced ease over the flat rock by the pool. Flecks of brittle tinder blazed a vivid crimson, crackling with a panicked energy he recognized. It was a meager flame in the vastness of this place, but a defiant point of light against the encroaching darkness.
-
-A patch of moss clung to the side of the crevice where the water ran. He knelt at the pool and filled his hands. The taste was clean, sweet as spring water. He drank as much as he could handle, the sensation of the cool liquid traveling down his throat a welcome reprieve from the dryness in his mouth.
-
-A small pang of guilt tugged at his chest, of a friend lost in Vietnam. A pain too heavy to handle. Would his fellow soldiers lost to history have done this? Built a fire? Found water? Or would they have just slumped in the shadows, numb, lost in the endless fog of pain and regret?
-
-Peyton couldn’t say. He swallowed hard, shaking the image from his head. Sleep was a luxury he couldn’t afford, not yet. Not in this desolate wasteland.
-
-He huddled under the overhang, the meager firelight casting dancing shadows on the rough walls. He tried to follow the instructions echoing in his head like an old, forgotten song, but the silence, the endless emptiness, pressed in on him. The unnatural quiet held an unsettling weight, a reminder of the quiet before the storm.
+When his legs finally gave out, he lay down on the open grey with no shelter and no fire, arms folded tight across his chest against the cold. He tried to follow the instructions echoing in his head like an old, forgotten song, but the silence, the endless emptiness, pressed in on him. The unnatural quiet held an unsettling weight, a reminder of the quiet before the storm.
 
 Sleep came in fitful bursts, plagued by nightmares. Bright light, the sickening thud of impact, the gruff voice of his commanding officer screaming in his ear. He woke with a gasp, his heart hammering against his ribs.
 
@@ -106,11 +86,11 @@ Sleep came in fitful bursts, plagued by nightmares. Bright light, the sickening 
 
 \* \* \*
 
-The embers had died completely now, leaving only a faint warmth radiating from the rock beneath them. Peyton shifted, rising from his shelter with a grunt. His joints popped—whether from tension or cold, he couldn’t tell.
+He didn’t sleep again. When the light had shifted enough to call it morning, he was stiff and cold on the open ground, grit worked into every crease of his fatigues. Bray rose with a grunt. His joints popped—whether from tension or cold, he couldn’t tell.
 
 He needed to move again.
 
-The terrain had begun to subtly change as he ventured out from the alcove. The crystalline particulate gave way to something denser—darker, packed in sheets that cracked underfoot like dried clay. Shallow gullies cut the surface at odd intervals, as if water had once carved paths here but had long since evaporated, leaving behind only the memory of movement.
+The terrain had begun to subtly change as he walked on. The crystalline particulate gave way to something denser—darker, packed in sheets that cracked underfoot like dried clay. Shallow gullies cut the surface at odd intervals, as if water had once carved paths here but had long since evaporated, leaving behind only the memory of movement.
 
 The light still came from nowhere in particular. No sun. No moon. Just that diffuse, off-white glow that seemed to hover evenly above the world, as if the sky were a dome of weathered bone.
 
@@ -120,11 +100,11 @@ It was the feeling of being watched—not from above, but from underneath.
 
 As if the land itself were listening.
 
-A few hours—maybe more—passed. Time here was unreliable. He stopped measuring it. Hunger gnawed at him, dull and persistent. But worse than hunger was the absence of scent. No rot. No grass. No sweat. Just the faint metallic tang, and the faint static dryness that clung to everything.
+A few hours—maybe more—passed. Time here was unreliable. He stopped measuring it. Thirst and hunger gnawed at him, dull and persistent. But worse than hunger was the absence of scent. No rot. No grass. No sweat. Just the faint metallic tang, and the faint static dryness that clung to everything.
 
 Ahead, the terrain buckled.
 
-Ridges. Shallow ones, not more than shoulder height, but enough to break the horizon’s monotony. Peyton made for them, heart kicking into something like hope. Terrain meant shelter. Shelter meant survival.
+Ridges. Shallow ones, not more than shoulder height, but enough to break the horizon’s monotony. Bray made for them, heart kicking into something like hope. Terrain meant shelter. Shelter meant survival.
 
 He crested the first ridge and stopped cold.
 
@@ -178,9 +158,25 @@ At the back of the cave, nestled against the wall, a thin trickle of condensatio
 
 From the edge of the stone shelf, he spotted a cluster of low shrubs, scraggly and greyish, growing along a fracture in the stone slope. He didn’t trust them immediately—too many toxic plants in Vietnam had taught him caution—but the leaves didn’t burn to the touch. He pocketed a few, resolving to test them later.
 
-When the fire was lit—small, built from brittle kindling and a dry root system pulled from the rock wall—he sat back against the stone. The light danced across the cave. It made the discarded artifacts look less like relics and more like ghosts, frozen in time and abandonment.
+He built the fire small, from brittle kindling and a dry root system pulled from the rock wall, and lit it with the Zippo from his breast pocket. The brass was worn smooth where his thumb had rubbed it through two tours, and it caught on the second strike. He sat back against the stone. The light danced across the cave. It made the discarded artifacts look less like relics and more like ghosts, frozen in time and abandonment.
 
-He stared at them for a long while.
+The firelight reached the back wall of the cave and caught on something: a smooth, flat surface carved into the stone. Strange symbols, etched into the rock, sent a shiver down his spine.
+
+He approached cautiously, running his fingers over the stone. It felt ancient, worn smooth by the passage of time. As he traced the curves of the inscription, he realized it was not a language he recognized.
+
+Then he saw it. Familiar. Not a language, but an articulation.
+
+"This place," the inscription read, "is no victory. It is not the peace I sought, nor the end I fought for. We bled and died, all for what? For another master, for another tyrant, clothed in different silks, wielding a different sword?"
+
+Bray knew that kind of hand, the blunt passion of it. This wasn't the languid flourish of a scholar, but a mark made in anger, in grief, by a man driven to extremes.
+
+"Crassus is dead, but Rome lives on," the inscription continued. "Slavery endures, masked by gilded words and hollow promises. This—" The words broke off, then resumed, cut deeper. "This will be my eternal vigil. A monument to the failures of men."
+
+Bray touched the inscription again, its jagged angles pressing into his palm. He thought of the flask he used to carry in his rucksack, and how many nights it had gotten him through. A breeze, carrying the bitter tang of this forsaken world, whispered around him. The jungle in Vietnam had been denser, alive, buzzing with insects and the insistent calls of unseen creatures. The silence here was a different kind of beast, staggering in its vastness and emptiness.
+
+But there was something here. Something buried beneath the sterile surface. He traced the inscription again, letting his fingers wander over the worn surface. It confirmed what his gut told him: he wasn't alone. Someone had been here before him. Someone who, like him, wandered the blank canvas of this place, searching for something.
+
+He turned back to the artifacts and stared at them for a long while.
 
 Not one era. Not one people. A Roman vessel. A colonial hat. A Civil War soldier’s gear.
 
@@ -196,7 +192,7 @@ For now.
 
 \* \* \*
 
-The fire had dimmed to a quiet glow. Shadows clung to the corners of the cave, and Peyton Bray, wrapped in the coarse wool of a long-dead soldier’s blanket, finally surrendered to sleep.
+The fire had dimmed to a quiet glow. Shadows clung to the corners of the cave, and Bray, wrapped in the coarse wool of a long-dead soldier’s blanket, finally surrendered to sleep.
 
 And the jungle returned.
 
@@ -228,7 +224,7 @@ Bray didn’t respond immediately. He scratched the back of his neck. The heat i
 
 “Opium’s not a solution, Tate.”
 
-Tate raised an eyebrow. “It’s not a solution, no. But it’s the only thing that works. You think I want to lean on it?”
+Tate raised an eyebrow, and his eyes went to the flask by Bray’s elbow. “It’s not a solution, no. But it’s the only thing that works. You think I want to lean on it?”
 
 Bray looked away. “I didn’t say that.”
 
@@ -282,7 +278,7 @@ At the far edge of the stone ridge, he paused. The terrain dipped slightly, curl
 
 Bray dropped to one knee, swept it clean with both hands.
 
-Stone. But not the same weathered shale that made up the surrounding ridges. This was darker, intentionally shaped, its edges beveled and worn smooth like the rim of a ritual basin. There was no language on it. No name. Just lines—not carved deep, but shallow, careful, like someone had scratched them with a bone or a nail.
+Stone. But not the same weathered shale that made up the surrounding ridges. This was darker, intentionally shaped, its edges beveled and worn smooth like the rim of a ritual basin. There was no name on it. Just lines—not carved deep, but shallow, careful, like someone had scratched them with a bone or a nail.
 
 A map. Or the idea of one.
 
@@ -292,7 +288,7 @@ There were ridges, valleys, what might’ve been elevation markers. At the cente
 
 He kept following the lines. A faint path—perhaps a canyon or route—led from the area where he now stood toward that structure, though the path broke off midway and resumed only in dotted lines. Not a map made for clarity. A map made from memory.
 
-In the upper right corner, someone had pressed down harder. Three slashed characters—not a language, not even real words, but a shape that felt… heavy. Like a mark made under strain, or left in warning.
+In the upper right corner, someone had pressed down harder. Three slashed characters. Writing, he was almost sure, but not like the inscription in the cave. Those words had opened themselves to him. These stayed shut. Whoever had made them was not like him. Still, the shape felt… heavy. Like a mark made under strain, or left in warning.
 
 Bray sat back, his knees popping with the motion.
 

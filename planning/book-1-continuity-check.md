@@ -98,10 +98,10 @@ The prologue items are settled (see the table at the top). These come from the p
 
 ## 5. Structure and pacing in Chapters 6 and 7
 
-- **Two shelter sequences in Ch 6.** Both find a shelter, build a fire, and drink condensation. Consider merging.
+- ~~**Two shelter sequences in Ch 6.**~~ Merged 10/18/2026.
 - **Two carved posts in Ch 7.** Scene 2 already has the post with two scripts; Scene 4's outline repeats it. The outline proposes a replacement.
 - **Solo stretch.** About 8,500 words alone before Bray meets anyone. Consider trimming toward 6,000. The author decides.
-- **Fire from two dry sticks** on a plain with almost no wood (Ch 6, Scene 1).
+- ~~**Fire from two dry sticks** (Ch 6, Scene 1).~~ Now a Zippo, 10/18/2026.
 - **The Ch 7 narration already states Bray's guilt** ("He didn't want Tate to leave. He didn't want to be alone."). Any later scene that "reveals" it to him repeats it. The outline's Mirror Hall beat has been moved to his new core question: why he went back.
 
 ## 6. Small text fixes left for a polish pass (Ch 6 and 7)
@@ -111,18 +111,23 @@ The prologue items are settled (see the table at the top). These come from the p
 - ~~Ch 6: "blazed a vivid crimson.," has a stray comma.~~ Done.
 - ~~Ch 6: "the Viet Cong he'd battled so long ago" reads oddly for someone who died days ago from his point of view.~~ Done.
 
-### Ch 6 polish pass: notes for the author
+### Ch 6 polish pass: author decisions
 
-The line edit on 10/16/2026 fixed the typos, removed the embedded Novelcrafter scene summaries (now in the [chapter summaries](chapter-summaries.md)), stripped bold and blockquote formatting from the prose, cut repeated images, and fixed small contradictions (the waterfall vs. condensation, the fire built twice, canvas vs. leather, the bullseye canteen). These items were left for the author:
+The line edit on 10/16/2026 fixed the typos, removed the embedded Novelcrafter scene summaries (now in the [chapter summaries](chapter-summaries.md)), stripped bold and blockquote formatting from the prose, cut repeated images, and fixed small contradictions. On 10/18/2026 the author chose how to resolve the open items, and they were applied:
 
-- **Peyton vs. Bray.** Narration alternates between the names. Pick a convention, for example "Bray" in narration and "Peyton" in family or intimate memory.
-- **The Sergeant's question (line 49 area).** The setup "I've got a question for you" was cut because no question followed. Restore it if you want to give him one.
-- **Fire-lighting.** Scene 1 still makes fire by breaking two dry sticks over a rock. Idea: a Zippo in his pocket, which crosses under rule R5.
-- **The flask (Scene 1).** Mentioned once and never used. Tie it to Tate, or cut it.
-- **Two shelters (Scenes 1 and 2).** Still both present. See section 5.
-- **The unnamed voice (end of the memory montage).** Could be Tate, which would set up the Scene 3 dream.
-- **"Another emperor" in Spartacus's inscription.** Rome had no emperor in his lifetime, so the line reads as a comment on the Covenant. Confirm that is intended.
-- **Nickname origin.** The Codex credits size and frame; the chapter credits the seventh-grade beard and his running gait. Align if needed.
-- **Found rucksack.** Counted as Civil War gear, but a Civil War soldier carried a haversack or knapsack. Ch 7 also says "rucksack," so change both or neither.
-- **Period detail.** "Cassette tape" is possible in 1970; an 8-track was more common.
-- **Ideas:** reaching for a rifle that isn't there; checking for the gunshot wound and finding whole skin; touching the dog-tag chain without counting the tags (fair-play clue for Ch 11); Tate mentioning that Doc wants to send him home (seeds the discharge); the three heavy marks on the map as native script Bray can't read (rule R4); waking to silence with no leaves moving, as a contrast to the crossing.
+| Item | Decision |
+|---|---|
+| Peyton vs. Bray | "Bray" in narration; "Peyton" only in childhood and family memory. |
+| Fire-lighting | A Zippo from his breast pocket (crosses under rule R5). Engraving, if any, is the author's to add. |
+| The flask | Bray's own coping habit. Mentioned at the inscription; in the dream, Tate glances at it when Bray says "Opium's not a solution." |
+| Two shelters | Merged. Scene 1 now ends with Bray sleeping in the open. The inscription moved into the Scene 2 cave, revealed by firelight. Section 5's shelter note is resolved. |
+| The unnamed voice | Hinted at Tate, not named: an easy drawl, "Moose" stretched out "the way only one person ever had." |
+| "Another emperor" | Changed to "another master" so the line reads as a comment on Rome. |
+| Wake-up details | Added: reaching for the missing rifle; checking the wound and finding whole skin; touching the dog-tag chain without counting the tags (clue for Ch 11); waking to silence, with no leaves moving. |
+| Map marks | Now writing Bray cannot read, unlike the inscription (rule R4). Hints at the plain-watchers. |
+| Period detail | "Cassette tape" is now an 8-track. |
+| Doc wants to send Tate home | Not used. |
+
+**New fact to keep consistent:** the wake-up scene places Bray's wound high on his back, below the right shoulder blade, and says the location "nagged at him." Ch 5 does not say where he was hit. This plants the friendly-fire reveal; confirm it matches the reveal scene when it is written.
+
+Still open: the Sergeant's cut setup line ("I've got a question for you"), the Codex nickname origin, and "rucksack" vs. "knapsack" for the found bag (Ch 6 and Ch 7).
