@@ -53,7 +53,7 @@ Bray doesn’t want to lead. He wants to know **if anything was ever worth follo
 
 ## 🔗 **Relationships**
 
-- **Will (Remnant)**: His guilt-anchored companion, representing promises made in pain. Will is Bray’s soul mirror—the one who reminds him of who he was, and who he’s afraid he still is.
+- **Tate Cromwell**: His guilt-anchored friend, representing promises made in pain. Tate is Bray’s soul mirror—the one who reminds him of who he was, and who he’s afraid he still is.
 - **Gordon**: A foil and reluctant mentor—Bray is the cynic Gordon might have become, while Gordon is the man Bray could never imagine being.
 - **Scholl**: Challenges him intellectually and morally; their shared defiance, though born from different centuries, draws an unspoken bond.
 - **Shaw**: Respectful, but distant. Shaw sees the leader Bray might become before Bray ever does.
