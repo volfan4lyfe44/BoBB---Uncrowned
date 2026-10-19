@@ -16,26 +16,19 @@
 
 ## Prologue chapters become interludes
 
-The death chapters stay, moved so each one sits just before that character's first real scene. Recommended (not yet confirmed): open the book with Bray's death as Chapter 1.
+The death chapters stay, moved so each one sits just before that character's first real scene. Decided 10/19/2026: the book opens with Bray's death as Chapter 1.
 
 | Interlude | Placed before |
 |---|---|
-| Bray (Ch 5) | Recommended as Chapter 1 |
+| Bray (Ch 5) | Chapter 1 |
 | Shaw (Ch 2) | Shaw meets Bray at the gate |
 | Hale (Ch 1) | Hale's first appearance |
 | Gordon (Ch 3) | Gordon's first viewpoint chapter |
 | Scholl (Ch 4) | Scholl's first major scene |
 
-## Faction stakes (open)
+## Faction stakes
 
-The author's main gap: real stakes between the Cohort, the Covenant, and the Uncrowned. Proposals, not yet chosen:
-
-1. Arrivals are the scarce resource. In Book 1, Bray is the prize all three factions want.
-2. The Uncrowned hold the Hall of Names, the only record of who crossed and who left.
-3. Death in Eirion is final.
-4. The natives are a fourth power with their own war aims.
-
-Recommendation: 1, 3, and 4 for Book 1; 2 for later books.
+Decided. See [factions and stakes](03-factions-and-stakes.md).
 
 ## Codex undertones
 

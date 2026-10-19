@@ -53,20 +53,20 @@
 | The taken arrival | Vietnamese Eternal One | A fictional Vietnamese person who died in the same war, possibly near Bray's death. Mirrors Bray from the other side. |
 | The clerk | Keep, refine | A native inside the Covenant acting with his own will. His choice has consequences he decides on. |
 | The river lord | Keep, refine | The natives' political power. Uses the factions for his own goals. His condition (the Cohort rules no one in the marches) becomes a binding rule. |
-| The colonel | Open | Author asked for a historical figure. Recommended: Donatien de Rochambeau (Saint-Domingue expedition; killed at Leipzig, 1813). Alternative: Charles Leclerc (Napoleon's brother-in-law; died of yellow fever, 1802). Verify details against a biography. |
+| The colonel | Fictional officer | An invented Eternal officer of Napoleon's era. Gives the order to clear the village, echoing Capt. Thompson. Decided 10/19/2026. |
 
 ## Other decisions
 
 | Item | Decision |
 |---|---|
 | The presence | Speaks only in the death interludes. Never explains itself. Refuses to answer Bray. |
-| Wider cast | Yes, add two or three non-Western Eternals in supporting roles. Candidates to choose from: José Rizal (Uncrowned), Tupac Amaru II (Cohort), Rani Lakshmibai (Cohort), Yaa Asantewaa (Cohort or Uncrowned), Qin Shi Huang (Covenant). |
+| Wider cast | Paused until the faction structure settles. Then a research dossier on each candidate (who they were, why they fit, what they represent, sources to review). Add one or two only if each has a real plot job. Candidates so far: José Rizal, Tupac Amaru II, Rani Lakshmibai, Yaa Asantewaa, Qin Shi Huang. |
 | Comparison caution | *Drifters* also uses Hannibal and Joan of Arc. Make both clearly distinct. |
 
 ## Open items
 
-- [ ] Choose the colonel: Rochambeau, Leclerc, or another.
-- [ ] Choose two or three wider-cast figures.
-- [ ] Choose the faction stakes (see [foundation](01-foundation.md)).
-- [ ] Confirm Bray's death as Chapter 1.
+- [x] Choose the colonel: fictional officer.
+- [ ] Wider cast: research dossier after the faction structure is set.
+- [x] Faction stakes: see [factions and stakes](03-factions-and-stakes.md).
+- [x] Bray's death is Chapter 1.
 - [ ] Name the plain-watcher, the Vietnamese Eternal One, the 54th sergeant, the clerk, and the river lord.
