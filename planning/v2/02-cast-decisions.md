@@ -63,10 +63,23 @@
 | Wider cast | Paused until the faction structure settles. Then a research dossier on each candidate (who they were, why they fit, what they represent, sources to review). Add one or two only if each has a real plot job. Candidates so far: José Rizal, Tupac Amaru II, Rani Lakshmibai, Yaa Asantewaa, Qin Shi Huang. |
 | Comparison caution | *Drifters* also uses Hannibal and Joan of Arc. Make both clearly distinct. |
 
+## Names (decided 10/20/2026)
+
+| Character | Name | Notes |
+|---|---|---|
+| The plain-watcher | **Ishel** (ISH-el) | A woman of the highland watchers. Highland names are soft and open. |
+| The Vietnamese Eternal | **Nguyễn Văn Hải**, called Hải | A man, North Vietnamese Army or Viet Cong. Family name first; addressed by the given name. Have a Vietnamese reader check usage. |
+| The 54th sergeant | **Josiah Freeman** | Sergeant Freeman. Freeman was a surname many freed people chose. Check the 54th Massachusetts roster so the name does not belong to a real soldier. |
+| The colonel | **Lucien Marchal** | Colonel Marchal. "Marchal" comes from an old word for a horse-keeper. Check lists of Napoleonic officers for a real namesake. |
+| The clerk | **Andros**, short for Nikandros | Covenant heartland names are Greek worn down by 2,300 years. Nikandros means "victory of men"; the short form keeps the man and drops the victory. |
+| The river lord | **Dravik** | Marches clan names are hard and drawn from the river. |
+
+**Native naming style:** distinct per region. Highland watchers: soft, open sounds. Marches clans: hard, river sounds. Covenant heartland: worn-down Greek, a sign of a culture taken over by Alexander.
+
 ## Open items
 
 - [x] Choose the colonel: fictional officer.
 - [ ] Wider cast: research dossier after the faction structure is set.
 - [x] Faction stakes: see [factions and stakes](03-factions-and-stakes.md).
 - [x] Bray's death is Chapter 1.
-- [ ] Name the plain-watcher, the Vietnamese Eternal One, the 54th sergeant, the clerk, and the river lord.
+- [x] Names decided (see above).

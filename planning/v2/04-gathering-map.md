@@ -94,7 +94,7 @@ Book 1 is the story of how the Uncrowned form. Each squad member arrived in Eiri
 ## Open items
 
 - [ ] Shaw's new gate line (author writes).
-- [ ] Names: the plain-watcher, the Vietnamese Eternal, the 54th sergeant, the clerk, the river lord, the colonel.
+- [x] Names: Ishel (watcher), Nguyễn Văn Hải (Vietnamese Eternal), Josiah Freeman (54th sergeant), Andros (clerk), Dravik (river lord), Lucien Marchal (colonel). See [cast decisions](02-cast-decisions.md#names-decided-10202026).
 - [ ] Where the Vietnamese Eternal goes after release (Cohort, or their own path).
 - [ ] Wider-cast research dossier, now that the structure is set.
 - [ ] Turn this map into a Book 1 beat sheet.
