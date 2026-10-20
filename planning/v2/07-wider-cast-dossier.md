@@ -4,6 +4,8 @@
 
 **Author decisions so far (10/20/2026):**
 - **Che Guevara:** Hold. Not cut. Not in Book 1 for now.
+- **Babak Khorramdin:** Dead in Eirion. He led the great cohort after the Burning of the Bastion and died with it. See the [history of Eirion's wars](09-history-of-eirions-wars.md).
+- **Boethius** (not researched here): keeper of the Bastion, killed in the Burning. Needs a source check.
 - **Gordon's reckoning, the midpoint walkout, and the Eirion dead:** Paused while the author reviews more non-Western candidates.
 
 **How this was researched:** Research agents verified facts and sources through web search. Direct page access failed in the session, so every item was confirmed through search results, catalog records, and publisher pages. Anything not confirmed is marked "unverified." Overlap checks for *Drifters* and *Fate/Grand Order* (FGO) are search-based; "none found" is not proof of absence. Years in Eirion are calculated (1970 minus the death year; no year zero for BCE dates). **Check every date, quote, and figure against the printed sources before using it on the page.**

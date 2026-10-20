@@ -7,7 +7,7 @@
 - Eternal Ones die rarely, and each death is remembered. They are few and usually command rather than fight in the ranks.
 - Every war between immortals kills natives by the thousands. The natives remember that first.
 - **The natives have their own names and calendars for these wars**, different from the immortals' names. The names below are the Eternal Ones' names.
-- Captured Eternal Ones are **"sent east."** No one outside the Covenant's inner circle knows what that means. It pays off in Books 2 and 3. It is what Hải faces in Book 1.
+- Captured Eternal Ones are **"sent east."** No one outside the Covenant's inner circle knows what that means. It pays off in Books 2 and 3. It is what Hải faces in Book 1. **Private answer (decided 10/20/2026, not revealed in Book 1):** the Gate lies east. Alexander sends captives to try it. Those it accepts vanish; those it turns away come back broken and are held. Alexander knows the Gate is real, while the Purge taught everyone else it is a myth. Fits the rule that the Gate turns away souls who are not ready.
 
 ## The five great wars
 
@@ -37,9 +37,9 @@
 ### War 3: The Burning of the Bastion (about 1000 CE)
 
 - In the centuries after Spartacus left, souls who would not fight either side drifted to his empty fortress and built on it. It became a refuge for the waiting dead.
-- **The cause:** The keeper of the time takes in a cohort's wounded and refuses to hand them over.
+- **The cause:** The keeper of the time, **Boethius** (executed on Earth in 524; author of *The Consolation of Philosophy*, a book about refuge in thought when all is lost), takes in a cohort's wounded and refuses to hand them over. Verify his dates and details against a biography.
 - **The Burning:** The Covenant storms the Bastion and kills everyone inside, keeper and wounded alike.
-- **The great cohort:** The massacre provokes the largest cohort in centuries. It nearly breaks the empire before it falls.
+- **The great cohort:** The massacre provokes the largest cohort in centuries, led by **Babak Khorramdin** (executed on Earth in 838; see the [dossier](07-wider-cast-dossier.md)). It nearly breaks the empire before it falls, and Babak dies with it.
 - **The Accord:** Alexander learns that a burned refuge breeds rebels and a tolerated one keeps would-be rebels sitting still. He offers the next keeper the Accord: the Bastion takes no part in the war, and the Covenant never enters it.
 - **What it leaves behind:** This is why Gordon keeps the Accord so strictly. The last keeper who broke neutrality got everyone killed.
 
@@ -64,9 +64,28 @@
 | 1885 | Gordon arrives. He becomes keeper of the Bastion about 1910 and keeps the Accord. |
 | 1941 | Jock Lewes arrives and joins the Cohort; he later commands its scouts. |
 | 1943 | Sophie Scholl arrives and goes into Covenant lands, spreading doubt among believers. |
-| About 1950 | Hale leaves the Bastion for the Cohort and joins Lewes's scouts. **Open:** what finally made him leave. |
+| About 1950 | Hale leaves the Bastion. A new arrival he could have reached was taken by Covenant hunters while he waited behind the walls. He joins Lewes's scouts to reach newcomers first and begins leaving notes like "Keep walking" on the trail. It mirrors Bray's Ch 2 and 3. |
 | Late 1960s | The Cohort is strong enough to hold the marches. Lewes's scouts sweep the plain to reach arrivals before the Covenant. Alexander recalls Napoleon from the east and orders him to take the passes onto the plain. **This is why the campaign happens now.** |
 | 1970 | Hải and Bray arrive. Book 1 begins. |
+
+## The wars in native words (decided 10/20/2026)
+
+Each region names a war for what it cost them; the heartland names them in the god-king's propaganda.
+
+| # | Eternal name | Highland watchers (Ishel) | Marches clans (Dravik) | Covenant heartland (Andros) |
+|---|---|---|---|---|
+| 1 | The First Cohort | The Hiding | The Year the Gods Bled | The God's First Victory |
+| 2 | The Purge | The Forgetting | The Year of Ash | The Correction |
+| 3 | The Burning of the Bastion | The Fire on the Plain | The Great Rising | The Peace |
+| 4 | The Maid's Cohort | The False Dawn | The Diverted River | The Pretender's War |
+| 5 | The Last Cohort | The Long Watch | The Free Years | The Western Rebellion |
+
+**Notes for the page:**
+- **The Year the Gods Bled:** the first time natives saw an Eternal die (Hannibal). The memory the Covenant would most like erased.
+- **The Forgetting:** a people who know they were made to forget something, but not what.
+- **The Diverted River:** the cohort forced the clans off their own course through their own faith. Explain once in a native voice, for example Dravik: you don't ask a river where it wants to go; you dig a ditch and it follows.
+- **The Free Years:** proud in 1970, bitterly ironic after the Ch 17 broken word.
+- **The Peace** and **The Correction:** the heartland names only the outcome, never the cost.
 
 ## Changes from the v1 history
 
@@ -79,9 +98,9 @@
 
 ## Open items
 
-- [ ] **The named dead.** Which Eternal Ones died in each war besides Hannibal? Slots are open for figures from the [wider-cast dossier](07-wider-cast-dossier.md) (paused while the author reviews).
-- [ ] **The leader of the great cohort** after the Burning, and the keeper killed in it. Historical, fictional, or unnamed.
-- [ ] **The natives' names** for the five wars, by region (highland, marches, Covenant heartland). The author's call.
+- [ ] **The named dead.** Which Eternal Ones died in each war besides Hannibal, Boethius, and Babak? Slots are open for figures from the [wider-cast dossier](07-wider-cast-dossier.md) (paused while the author reviews).
+- [x] **The keeper and the great cohort:** Boethius, and Babak Khorramdin.
+- [x] **The natives' names:** see the table above.
 - [ ] **Attila and Charles XII** are on hold, alive in the Covenant. Confirm when Book 2 is planned.
-- [ ] **Why Hale left the Bastion** around 1950.
-- [ ] **What "sent east" means.** Decide privately before Book 2, even if Book 1 never reveals it.
+- [x] **Why Hale left the Bastion:** an arrival he did not reach.
+- [x] **What "sent east" means:** tested at the Gate (private).
