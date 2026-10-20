@@ -44,15 +44,18 @@
 
 ## Open questions
 
-- [ ] Which squad members are at the Bastion when Bray arrives, and who is elsewhere?
-- [ ] Where is Scholl when Book 1 opens? (Bastion, with the natives, or inside Covenant territory.)
-- [ ] What is the Uncrowned's immediate goal at the end of Book 1?
-- [ ] What moment makes them realize they share one belief?
-- [ ] Do the Toussaint and Napoleon thread and the Bastion thread still meet, and where?
+Answered in the [gathering map](04-gathering-map.md) and [beat sheet](05-beat-sheet.md).
+
+
+- [x] Which squad members are at the Bastion when Bray arrives, and who is elsewhere?
+- [x] Where is Scholl when Book 1 opens? (Bastion, with the natives, or inside Covenant territory.)
+- [x] What is the Uncrowned's immediate goal at the end of Book 1?
+- [x] What moment makes them realize they share one belief?
+- [x] Do the Toussaint and Napoleon thread and the Bastion thread still meet, and where?
 
 ## Death and history in Eirion (decided 10/20/2026)
 
 - **Spartacus built the Bastion**, then left it to found the first cohort. See the open note in the [Spartacus Codex entry](../../codex/characters/spartacus.md).
 - **Eternal Ones die rarely, and each death is remembered.** They are few and usually command rather than fight in the ranks. Each death is a named, historic event. Each cohort Alexander destroyed cost a few famous immortals.
 - **Some historical figures appear as the dead.** Not every candidate must be alive in 1970. Some can appear only as struck-out names in the Bastion's records, native legends, or remembered battles.
-- [ ] **Next worldbuilding pass:** a short history of Eirion's wars: the cohorts Alexander destroyed, who died in each, and how the dead are remembered. Plan interactively after the wider-cast decision.
+- [x] **History of Eirion's wars:** see [history of Eirion's wars](09-history-of-eirions-wars.md).
