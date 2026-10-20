@@ -4,6 +4,8 @@
 
 **How this was researched:** Research agents verified facts and sources through web search. Direct page access failed in the session, so every item was confirmed through search results, catalog records, and publisher pages. Anything not confirmed is marked "unverified." Overlap checks for *Drifters* and *Fate/Grand Order* (FGO) are search-based; "none found" is not proof of absence. Years in Eirion are calculated (1970 minus the death year; no year zero for BCE dates). **Check every date, quote, and figure against the printed sources before using it on the page.**
 
+**Overlap in the existing cast (verified 10/20/2026):** *Fate/Grand Order* already uses **Alexander** (two versions, Alexander and Iskandar), **Napoleon**, and **Spartacus**. *Drifters* uses **Hannibal** and **Joan of Arc**. This is a marketing note, not a reason to cut anyone: the book's distinction is its grounded, non-magical world. But each new candidate with FGO overlap adds to the pile.
+
 **Decision rule (from the author):** Add one or two figures only if each has a real plot job. Avoid tokenism, white-savior framing, and stereotypes.
 
 ## Summary
@@ -19,7 +21,13 @@
 | Qin Shi Huang | 210 BCE, illness on tour | 210 BCE | 2,179 | Covenant | Alexander (rival god-king) | **Yes, FGO**, plus *Record of Ragnarok*, *Kingdom* |
 | Timur | 02/1405, fever at Otrar | 1405 | 565 | Covenant, hidden kingmaker | Alexander | None found |
 | Che Guevara | 10/09/1967, executed | 1967 | 3 | Cohort, voice of the garrison | Bray (Vietnam), the broken word | None found |
-| The Mahdi and Persian candidates | | | | | | Research in progress |
+| The Mahdi (Muhammad Ahmad) | 06/22/1885, probably typhus | 1885 | 85 | Outsider, near Gordon's refuge | **Gordon** (Khartoum, five months apart) | None found |
+| Darius III | 07/330 BCE, killed by his own nobles | 330 BCE | 2,299 | At odds with all; Uncrowned lean | **Alexander** (arrives 7 years before him) | **Yes, FGO** |
+| Cyrus the Great | 530 BCE, disputed | 530 BCE | 2,499 | Elder apart, or Uncrowned thinker | **Alexander** (who restored his tomb) | None found |
+| Amir Kabir | 01/10/1852, killed on the shah's order | 1852 | 118 | Uncrowned administrator | Gordon's refuge | None found |
+| Babak Khorramdin | 838, executed | 838 | 1,132 | Cohort conscience | The broken word | None found |
+| Tahirih | 08/1852, executed | 1852 | 118 | Uncrowned voice | Scholl (resistance by words) | None found |
+| Zulu figures | | | | | | Research in progress |
 
 ---
 
@@ -235,6 +243,135 @@
 
 ---
 
-## The Mahdi and Persian candidates
+## The Mahdi: Muhammad Ahmad (1844 to 1885), Sudan
 
-Research in progress: Muhammad Ahmad (the Sudanese Mahdi), with the Khalifa Abdallahi and Osman Digna as alternatives; Darius III; Cyrus the Great; Amir Kabir; Babak Khorramdin; Tahirih.
+**Who:** A Sudanese Sufi teacher who declared himself the Mahdi in 1881 and led a revolt against British-backed Turco-Egyptian rule. His forces took El Obeid, then Khartoum in January 1885. Kim Searcy calls his state "the first modern Islamic state." His successor, the Khalifa Abdallahi, ruled until the British reconquest in 1898.
+
+**Death:** Died 06/22/1885 (some sources say 06/20 or 06/21), probably of typhus. Sources disagree on Omdurman or Khartoum; his tomb is at Omdurman. Gordon died when Khartoum fell, usually dated 01/26/1885; how he died is disputed. The claim that the Mahdi wanted Gordon taken alive is unverified. **Unfinished:** he took Khartoum and died about five months later, before he could govern the state he made. **Arrives about five months after Gordon.**
+
+**A verified exchange with Gordon:** Gordon offered him the sultanate of Kordofan. The Mahdi refused, sent Gordon a dervish's patched robe, and called on him to become a Muslim (*The Spectator*, 04/05/1884).
+
+**Fit:** No faction at first. An outsider who settles near Gordon's refuge, possibly an ally of the native resisters, possibly edging toward the Uncrowned, which the book would have to earn. *He would argue:* I drove out one foreign master in the name of God; why would I bow to another who calls himself God?
+
+**Plot jobs:** (1) Gordon's reckoning: a living witness from the other side of Khartoum who will not simply forgive him. (2) Exposing the false god: his objection to Alexander's godhood comes from belief, not politics, which no Western character can give. (3) Testing the refuge: Gordon must decide whether the man he fought is protected like anyone else.
+
+**Represents:** Anti-colonial resistance from the colonized side; whether a resister who founds a state becomes a ruler.
+
+**Risks:** Many Muslims reject his claim; the Ansar tradition in Sudan honors him. Do not let the book, or the presence, settle whether he was the Mahdi. British sources written for the 1898 reconquest push the "fanatic" stereotype; use Sudanese documents. **He must have goals of his own, not exist to redeem Gordon.**
+
+**Alternatives:** The Khalifa Abdallahi (killed 11/25/1899 at Umm Diwaykarat), a state-builder closer to an Alexander-style ruler. Osman Digna (died 1926 in Egypt), a long-fighting Mahdist commander.
+
+**Sources:**
+1. P. M. Holt, *The Mahdist State in the Sudan, 1881-1898* (Clarendon Press, 1958; 2nd ed. 1970). Monograph.
+2. Muhammad Ibrahim Abu Salim, ed., *Al-Athar al-kamila lil-Imam al-Mahdi* (The Writings of the Mahdi), vol. 1 (Khartoum University Press, 1990). Primary, Arabic, edited by a Sudanese scholar.
+3. Kim Searcy, *The Formation of the Sudanese Mahdist State* (Brill, 2011). Monograph. https://www.degruyterbrill.com/document/isbn/9789004191075/html
+4. Dominic Green, *Three Empires on the Nile* (Free Press, 2007). Popular history.
+5. Abu Salim, ed., *Mudhakkirat Uthman Diqna* (Osman Digna's memoirs; Khartoum University Press, 1974). Primary.
+
+---
+
+## Darius III (died 330 BCE), Persia
+
+**Who:** The last Achaemenid king, about 336 to 330 BCE. Defeated by Alexander at Issus (333 BCE) and Gaugamela (331 BCE). Greek writers made him a coward; Pierre Briant argues that image is propaganda to magnify Alexander.
+
+**Death:** July 330 BCE, near Hecatompylos (one source says Rhagae). Bessus led the conspiracy; Arrian (*Anabasis* 3.21.10) says Nabarzanes and Barsaentes struck the blows as Alexander closed in. Alexander gave him a royal burial at Persepolis. **Unfinished:** betrayed by his own nobles, died in chains, remembered only as Alexander's foil. **Arrives 7 years before Alexander.**
+
+**Fit:** At odds with everyone; leans Uncrowned, a king who lost his crown and comes to believe no one should hold one. *He would argue:* I was a king, and my own lords sold me. A crown is only a target.
+
+**Plot jobs:** (1) The only Eternal who saw the Covenant founded. (2) His betrayal mirrors the broken word; he sees it coming. (3) If Alexander broke or enlisted him early, his defection costs the Covenant.
+
+**Represents:** Who writes history.
+
+**Risks:** Avoid the coward of Greek legend and "Oriental despot" imagery. **Confirmed FGO Servant** (Berserker, framed as Iskandar's rival). A Darius and Alexander rivalry sits very close to Fate's.
+
+**Sources:**
+1. Arrian, *The Landmark Arrian*, trans. Pamela Mensch, ed. James Romm (Pantheon, 2010). https://bmcr.brynmawr.edu/?p=38977
+2. Arrian, *The Campaigns of Alexander*, trans. Aubrey de Sélincourt, rev. J. R. Hamilton (Penguin Classics).
+3. Pierre Briant, *Darius in the Shadow of Alexander*, trans. Jane Marie Todd (Harvard University Press, 2015). https://bmcr.brynmawr.edu/2015/2015.10.14
+4. Pierre Briant, *From Cyrus to Alexander*, trans. Peter T. Daniels (Eisenbrauns, 2002). Reference.
+
+---
+
+## Cyrus the Great (died 530 BCE), Persia
+
+**Who:** Founder of the Achaemenid Empire; conquered Media, Lydia, and Babylon (539 BCE). The Cyrus Cylinder records how he presented himself to the Babylonians. Greek writers, including Xenophon, idealized him. A major national symbol in modern Iran.
+
+**Death:** Usually 530 BCE. Herodotus (*Histories* 1.204-214): killed fighting the Massagetae; Queen Tomyris puts his head in a skin of blood (Herodotus says he heard several versions). Xenophon (*Cyropaedia* 8.7): dies peacefully in bed, read by scholars as idealized. No Persian text describes his death. **Arrives about 207 years before Alexander.**
+
+**Alexander and the tomb (Arrian 6.29, via Aristobulus):** Alexander found Cyrus's tomb at Pasargadae robbed, was distressed, and ordered it restored, walled up, and sealed with the royal seal.
+
+**Fit:** An elder who stands apart, or the source of the Uncrowned's way of thinking. If he chose not to rule in Eirion, Alexander's godhood looks smaller beside him. *He would argue:* I took kingdoms. Here I learned the land was never mine to take.
+
+**Plot jobs:** (1) The man Alexander admired: a refusal from Cyrus wounds Alexander as no army can. (2) The Eternal who knows the natives best, after 2,500 years. (3) Gordon's mirror: a conqueror who came to regret conquest.
+
+**Represents:** Legitimacy versus rule; whether the memory of a just conqueror is earned.
+
+**Risks:** A contested national symbol. The claim that the Cylinder is "the first charter of human rights" is disputed (British Museum curator John Curtis called it misleading); do not state it as fact. **Placing him in Eirion before Alexander may overshadow Alexander and changes the Covenant's backstory.**
+
+**Sources:**
+1. Herodotus, *The Histories*, trans. Tom Holland (Penguin Classics, 2013).
+2. Herodotus, *The Landmark Herodotus*, trans. Andrea L. Purvis, ed. Robert B. Strassler (Pantheon, 2007).
+3. Xenophon, *The Education of Cyrus*, trans. Wayne Ambler (Cornell University Press, 2001).
+4. Arrian, *Anabasis* 6.29, Chinnock translation. https://en.wikisource.org/wiki/The_Anabasis_of_Alexander/Book_VI/Chapter_XXIX
+5. Pierre Briant, *From Cyrus to Alexander* (Eisenbrauns, 2002).
+
+---
+
+## Amir Kabir (Mirza Taqi Khan, 1807 to 1852), Persia
+
+**Who:** Chief minister to the young Naser al-Din Shah, 1848 to 1851. Curbed corruption, modernized the army, founded the Dar al-Fonun school. Court rivals and the shah's mother turned the shah against him; dismissed 11/11/1851. A national hero of reform in Iran.
+
+**Death:** Exiled to Fin Garden near Kashan and killed there in the bath on 01/10/1852, on the shah's order. The opening of his veins comes from 19th-century testimony (Lady Sheil). **Unfinished:** three years of reform, ended by the king he served.
+
+**Fit:** Uncrowned, as the administrator who now distrusts kings. *He would argue:* I built a state for a king, and the king opened my veins. Build for the people, or do not build.
+
+**Plot jobs:** (1) Runs the logistics of Gordon's refuge. (2) Reads Alexander's court from long experience of courts.
+
+**Risks:** **He ordered the execution of the Bab in July 1850, and the Babis were persecuted under his ministry.** To Babis and Bahais he is a persecutor. If he and Tahirih both appear (both arrive 1852), that history must be faced on the page.
+
+**Sources:**
+1. Abbas Amanat, "The Downfall of Mirza Taqi Khan Amir Kabir and the Problem of Ministerial Authority in Qajar Iran," *International Journal of Middle East Studies* (year unverified).
+2. Abbas Amanat, *Pivot of the Universe* (University of California Press, 1997). Coverage of Amir Kabir unverified.
+3. "Amir-e Kabir, Mirza Taqi Khan," *Encyclopaedia Iranica*. https://iranicaonline.org/articles/amir-e-kabir-mirza-taqi-khan
+
+---
+
+## Babak Khorramdin (died 838), Persia
+
+**Who:** Leader of the Khurramite revolt in Azerbaijan against the Abbasid Caliphate for about 20 years (about 816 to 837). The Khurramites were a rural movement rooted in pre-Islamic Iranian tradition. The general Afshin took his fortress in 837; a former ally handed him over.
+
+**Death:** Executed at Samarra before Caliph al-Mutasim in 838 (month disputed). Reports of mutilation are unverified in scholarship. **Unfinished:** 20 years of resistance ended by betrayal.
+
+**Fit:** The Cohort, beside the native resisters. *He would argue:* a foreign power told my mountains what to believe; I know what the natives here are fighting.
+
+**Plot jobs:** (1) The Cohort's conscience at the midpoint, refusing the betrayal, a bridge to the Uncrowned. (2) Speaks to native resisters as an equal: he fought for local belief against an imperial religion.
+
+**Risks:** Claimed by both Iranian and Azerbaijani nationalists, an active dispute. Sources are scarce and mostly from the Abbasid side. Avoid making his execution a spectacle.
+
+**Sources:**
+1. Patricia Crone, *The Nativist Prophets of Early Islamic Iran* (Cambridge University Press, 2012). Monograph.
+2. Al-Tabari's chronicle in English translation; the volume for 838 needs identifying (unverified).
+3. Kaveh Farrokh, "Babak Khorramdin: The Freedom Fighter of Persia." Popular and partisan; use with caution.
+
+---
+
+## Tahirih (Qurrat al-Ayn, c. 1817 to 1852), Persia
+
+**Who:** A Persian poet and religious scholar, one of the Bab's first disciples. At the Conference of Badasht in 1848 she appeared before men unveiled, declaring the Babi break with Islamic law. Honored in the Bahai Faith as a heroine and an early advocate for women.
+
+**Death:** Executed in Tehran in August 1852, strangled, during the crackdown after a Babi attempt on the shah's life. About 35. The detail that her own veil was used is unverified.
+
+**Fit:** Uncrowned, the voice against "Belief is not required. Only obedience." *She would argue:* no law that men wrote binds a soul.
+
+**Risks:** **The highest sensitivity of any candidate.** She is revered in a living faith whose members are persecuted in Iran today. Do not depict the Bab or Bahaullah on the page. Use Bahai sensitivity readers. Do not reduce her to "the woman who unveiled"; she was first a theologian and poet.
+
+**Sources:**
+1. Abbas Amanat, *Resurrection and Renewal: The Making of the Babi Movement in Iran, 1844-1850* (Cornell University Press, 1989).
+2. Farzaneh Milani, *Veils and Words* (Syracuse University Press, 1992). Coverage of Tahirih unverified.
+3. Negar Mottahedeh, "The Mutilated Body of the Modern Nation," *Comparative Studies of South Asia, Africa and the Middle East* 18(2), 1998.
+
+---
+
+## Zulu figures
+
+Research in progress: Bambatha kaMancinza, Cetshwayo kaMpande, Dinuzulu kaCetshwayo, and briefly Shaka.
