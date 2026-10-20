@@ -27,7 +27,10 @@
 | Amir Kabir | 01/10/1852, killed on the shah's order | 1852 | 118 | Uncrowned administrator | Gordon's refuge | None found |
 | Babak Khorramdin | 838, executed | 838 | 1,132 | Cohort conscience | The broken word | None found |
 | Tahirih | 08/1852, executed | 1852 | 118 | Uncrowned voice | Scholl (resistance by words) | None found |
-| Zulu figures | | | | | | Research in progress |
+| Bambatha kaMancinza | 06/10/1906, Mome Gorge (disputed) | 1906 | 64 | Uncrowned | The broken word | None found |
+| Cetshwayo kaMpande | 02/08/1884, Eshowe | 1884 | 86 | Contested Uncrowned ally | **Gordon** (11 months apart, same empire) | None found |
+| Dinuzulu kaCetshwayo | 10/18/1913, Transvaal | 1913 | 57 | Uncrowned or none | Cetshwayo, Bambatha | None found |
+| Shaka | 09/22/1828, KwaDukuza | 1828 | 142 | Covenant | Napoleon (era) | None found; heavily used in games |
 
 ---
 
@@ -372,6 +375,85 @@
 
 ---
 
-## Zulu figures
+## Bambatha kaMancinza (died 1906), Natal
 
-Research in progress: Bambatha kaMancinza, Cetshwayo kaMpande, Dinuzulu kaCetshwayo, and briefly Shaka.
+**Who:** Chief of the amaZondi in the Mpanza Valley near Greytown, Natal. In 1906 he refused the colonial poll tax and became the best-known leader of the uprising, fighting a guerrilla campaign from the Nkandla forest. Jeff Guy argues the events were a colonial war of conquest more than a "rebellion."
+
+**Death:** Natal reported him killed at Mome Gorge on 06/10/1906; colonial accounts say his head was cut off for identification. **Disputed:** many Zondi people still say he escaped. A *Historia* article ("Bambatha after Mome: Dead or Alive?", author unverified) finds the colonial evidence "persuasive, but not conclusive." **Unfinished:** a lost war and a death never firmly settled. Do not let the book "settle" a dispute his descendants still care about.
+
+**Fit:** Uncrowned, the cleanest ideological fit. *He would argue:* no one who does not belong to a land has the right to take from it, immortal or magistrate.
+
+**Plot jobs:** (1) Witness against the garrison: he lived a colonial power arriving "for order" and staying. (2) Counterweight to Gordon: refuses an apology without action. He must not serve under Shaw or be led by any Western member. (3) Died in Eirion, with his survival disputed there too.
+
+**Risks:** Honored in South Africa since 1994. Much detail comes from hostile colonial sources (James Stuart, 1913). Avoid the "savage warrior in the forest"; he was a political leader with grievances about land, tax, and chieftaincy.
+
+**Sources:**
+1. Shula Marks, *Reluctant Rebellion: The 1906-8 Disturbances in Natal* (Clarendon Press, 1970). Monograph.
+2. Jeff Guy, *Remembering the Rebellion: The Zulu Uprising of 1906* (University of KwaZulu-Natal Press, 2006). https://blackwells.co.uk/bookshop/product/Remembering-the-Rebellion-by-Jeff-Guy/9781869141172
+3. Jeff Guy, *The Maphumulo Uprising* (University of KwaZulu-Natal Press, 2005).
+4. "Bambatha after Mome: Dead or Alive?", *Historia*. https://upjournals.up.ac.za/index.php/historia/article/view/1540
+5. South African History Online, "Bhambatha Rebellion 1906." https://www.sahistory.org.za/article/bambatha-rebellion-1906
+
+---
+
+## Cetshwayo kaMpande (c. 1826 to 1884), Zulu kingdom
+
+**Who:** Zulu king from 1872. Britain issued an ultimatum he could not meet and invaded in January 1879. His army won at Isandlwana (01/22/1879) and lost at Ulundi (07/04/1879). Captured and held in Cape Town while Britain split Zululand into thirteen chiefdoms. In 1882 he went to London, met Gladstone and Queen Victoria, and won a partial restoration in January 1883.
+
+**Death:** After Zibhebhu attacked his capital in 07/1883, he fled to Eshowe and died there 02/08/1884. Certified as heart disease; the Zulu believed he was poisoned (unproven). **Unfinished:** won back his throne by diplomacy, saw it gutted, lost it to civil war, and died a guest of the power that broke his kingdom. **Arrives about 11 months before Gordon.**
+
+**Fit:** A contested ally of the Uncrowned, or no faction: a legitimate king testing the creed. *He would argue:* I was king of my own people by their law; your Alexander is a king by theft.
+
+**Plot jobs:** (1) Gordon's mirror and judge: both men were undone by the same empire within a year, and Cetshwayo is already in Eirion when Gordon wakes. No record shows they met on Earth. (2) Critic of the creed: does "no immortal should rule" apply to a kingship natives might choose? (3) Died in Eirion, leaving Gordon his records or treaties; if used, give him his own voice, for example through documents.
+
+**Risks:** A direct ancestor of the current Zulu royal line, whose succession has been in the courts. British 1879 sources painted him as a tyrant. Avoid the "warrior king" of *Zulu* (1964) fan culture; Isandlwana was his generals' victory, and he was a political ruler.
+
+**Sources:**
+1. Jeff Guy, *The Destruction of the Zulu Kingdom* (Longman, 1979). Monograph.
+2. Jeff Guy, *The View Across the River: Harriette Colenso and the Zulu Struggle against Imperialism* (David Philip, 2001).
+3. Ian Knight, *Zulu Rising* (Macmillan, 2010). Uses Zulu oral sources.
+4. C. de B. Webb and J. B. Wright, eds., *The James Stuart Archive* (University of Natal Press, 1976 to 2014). Zulu oral testimony. https://catalog.hathitrust.org/Record/000829131
+5. South African History Online, "King Cetshwayo." https://www.sahistory.org.za/people/king-cetshwayo
+
+---
+
+## Dinuzulu kaCetshwayo (c. 1868 to 1913), Zulu kingdom
+
+**Who:** Cetshwayo's son and heir, leader of the royalist uSuthu. Exiled to St Helena about 1890 to 1897 for treason; tried again in 1907 to 1909 over the 1906 uprising, convicted of harboring rebels, and released by Louis Botha to a Transvaal farm.
+
+**Death:** 10/18/1913 near Middelburg, Transvaal. **Unfinished:** a king who never really reigned, twice exiled and tried, dying far from Zululand.
+
+**Fit and jobs:** Uncrowned or none. Best as a link: a father-and-son meeting with Cetshwayo, or a reckoning with Bambatha, since his 1907 trial turned on whether he supported Bambatha. Works well as a record or legend. Two Zulu royals in Book 1 would crowd the cast.
+
+**Risks:** Even closer to the living royal line than Cetshwayo; a complicated record of Boer alliances and civil war.
+
+**Sources:** Marks, *Reluctant Rebellion* (1970); Guy, *Remembering the Rebellion* (2006); South African History Online, "King Dinuzulu." https://sahistory.org.za/people/king-dinuzulu
+
+---
+
+## Shaka kaSenzangakhona (c. 1787 to 1828), Zulu kingdom (brief)
+
+**Who and death:** Built the Zulu kingdom into a regional power in the 1810s and 1820s; killed at KwaDukuza, most likely 09/22/1828, by his half-brothers Dingane and Mhlangana. How much of his reputation is evidence and how much is colonial invention is still argued.
+
+**Fit:** Covenant, as a peer or rival of Alexander.
+
+**Risks (high):** The most stereotyped African figure in Western media and heavily used in games. As the only Zulu in the villain faction, he would read as the "savage warrior." Use only with Napoleon-level depth.
+
+**Sources:** Carolyn Hamilton, *Terrific Majesty* (Harvard University Press, 1998); Dan Wylie, *Myth of Iron: Shaka in History* (2006); *The James Stuart Archive*.
+
+---
+
+## Comparison: plot-job slots
+
+Many candidates compete for the same few jobs. Book 1 can hold at most one living figure per slot. The others can appear as the dead (legends, records, remembered battles) or wait for later books.
+
+| Slot | Candidates | Strongest |
+|---|---|---|
+| **Gordon's reckoning** (a colonized witness to his empire) | The Mahdi, Cetshwayo, Yaa Asantewaa, Rizal, Bambatha | **The Mahdi** (Khartoum itself; the only religious objection to a false god) or **Cetshwayo** (same empire, a legitimate king who tests the creed) |
+| **The midpoint walkout** (refuses the Cohort's broken word) | Zumbi, Zapata, Babak, Bambatha, Lakshmibai | **Zumbi** (refused the 1678 treaty; 275 years in the Cohort) or **Zapata** (refused the chair) |
+| **The garrison's voice** (argues for the broken word) | Che Guevara, Tupac Amaru II | **Che** (the vanguard theory), but he does not widen the cast |
+| **Inside the Covenant** | Timur, Qin Shi Huang, Rizal (defector), Darius III, Shaka | **Timur** (rules without a crown; lowest overlap) |
+| **Elder witness** (older than Alexander in Eirion) | Cyrus, Darius III | **Cyrus**, if the Covenant backstory can bear him |
+| **The voice of words** | Rizal, Tahirih | **Rizal** (Tahirih carries the highest sensitivity) |
+
+**Recommendation for Book 1 (author decides):** Add two living figures: **the Mahdi** (Gordon's reckoning) and **Zumbi** (the midpoint walkout). Use several others as Eirion's dead, for example Cetshwayo, Lakshmibai, Tupac Amaru II, and Bambatha. Hold Timur and Rizal for Book 2.
