@@ -40,7 +40,7 @@
 | 14 | Bray | With the resisters. Bray meets the 54th sergeant and the river lord. The eve of battle. Bray is asked to fight and refuses to take a banner. He agrees to hold a crossing with the sergeant, for the villages, not for the Cohort. |
 | 15 | Toussaint | The battle, part 1. Toussaint baits Napoleon onto the river lord's ground. |
 | 16 | Bray | The battle, part 2. Bray holds the crossing with the sergeant. He fights for people, not a cause, and it works. |
-| 17 | Toussaint | **Midpoint.** Napoleon retreats. Victory. Within days Spartacus garrisons a native town "for its protection" and overrules its council. The broken word. Toussaint must choose between his word and his commander. He stays silent. Hale sees everything. |
+| 17 | Toussaint | **Midpoint.** Napoleon retreats. Victory. Within days Spartacus garrisons a native town "for its protection" and overrules its council. The broken word. Toussaint must choose between his word and his commander. He stays silent. **Joan, who lived through the Maid's Cohort, speaks against the garrison at the council and is overruled; she stays.** Hale sees everything. |
 
 ## Act 2, second half: Consequences (Ch 18 to 26)
 

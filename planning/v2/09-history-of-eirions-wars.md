@@ -119,7 +119,7 @@ Each region names a war for what it cost them; the heartland names them in the g
 | Dinuzulu | **Cut** | His ties (Cetshwayo, Bambatha) are gone. |
 | Timur | **Cut** (age rule) | Died at about 68. |
 | José Rizal | Hold for Book 2 | Alive; the Covenant scholar who later defects. |
-| The Mahdi | **Living candidate** | For the role facing Gordon, still paused. |
+| The Mahdi | **Hold for Book 2** (10/21/2026) | Alive. Comes in Book 2, when Gordon leaves the Bastion, with goals of his own. Before writing him: Sudanese sources (Abu Salim's edition of his writings), his religious claim left unresolved by the book, Muslim and Sudanese sensitivity readers. |
 | Amir Kabir | **Cut** | Rizal fills the role with less sensitivity. |
 | Tahirih | **Cut** | High sensitivity; Scholl carries resistance by words. |
 | Shaka | **Cut** | High stereotype risk; Bambatha carries the Zulu thread. |

@@ -9,14 +9,16 @@
 - **Bambatha:** Dead in Eirion, death disputed.
 - **Cut:** Cetshwayo, Yaa Asantewaa, Dinuzulu, Timur (age rule), Amir Kabir, Tahirih, Shaka.
 - **Hold for Book 2:** José Rizal.
-- **Living candidate:** the Mahdi (the role facing Gordon).
+- **The Mahdi:** Hold for Book 2. In Book 1, Gordon faces his past through Alexander's rule.
 - **Zumbi, Zapata:** Hold for a later book.
 - **Cyrus:** Crossed the Gate willingly, before Alexander arrived.
 - **Darius III:** The first sent east; accepted by the Gate.
 - **Qin Shi Huang:** Dead in Eirion, destroyed by Alexander as a rival god.
 - **Rani Lakshmibai:** Dead in Eirion before 1970; legend (cavalry death) versus truth (fever).
 - **Boethius** (not researched here): keeper of the Bastion, killed in the Burning. Needs a source check.
-- **Gordon's reckoning, the midpoint walkout, and the Eirion dead:** Paused while the author reviews more non-Western candidates.
+- **Gordon's reckoning (10/21/2026):** no new figure in Book 1; Alexander's rule carries it. The Mahdi is held for Book 2.
+- **The midpoint walkout (10/21/2026):** Hale walks out; Joan objects at the council and is overruled, and stays.
+- **The Eirion dead:** reviewed 10/21/2026; see the [history of Eirion's wars](09-history-of-eirions-wars.md).
 
 **How this was researched:** Research agents verified facts and sources through web search. Direct page access failed in the session, so every item was confirmed through search results, catalog records, and publisher pages. Anything not confirmed is marked "unverified." Overlap checks for *Drifters* and *Fate/Grand Order* (FGO) are search-based; "none found" is not proof of absence. Years in Eirion are calculated (1970 minus the death year; no year zero for BCE dates). **Check every date, quote, and figure against the printed sources before using it on the page.**
 
