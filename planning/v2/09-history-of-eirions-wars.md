@@ -57,11 +57,13 @@
 | When | What happened |
 |---|---|
 | 1776 | Nathan Hale arrives and goes to the Bastion. |
+| 1781 | **Tupac Amaru II** arrives and joins the Cohort in its early years, while it is still a warband. Later, the marches clans ask him to serve as their envoy to the immortals, and he leaves the Cohort for them. By 1970 he has learned their language, one of the few Eternals who has. |
 | 1803 | Toussaint arrives. Joins the cohort and spends 167 years turning a warband into an army: supply, councils, allies, discipline. **For the first time, a cohort stops dying. That is why it is the Last Cohort.** |
 | 1809 | Jean Lannes arrives and becomes Toussaint's closest military partner. |
 | 1821 | Napoleon arrives and joins the Covenant. Alexander, wary of him, posts him to the far eastern frontier for 150 years. That is why Napoleon has never faced the Cohort, and why Lannes has never had to face him. |
 | 1863 | Shaw and Josiah Freeman arrive. Shaw goes to the Bastion. Freeman serves there, then leaves years later, tired of waiting, to fight with the native resisters. |
 | 1885 | Gordon arrives. He becomes keeper of the Bastion about 1910 and keeps the Accord. |
+| 1906 onward | **Bambatha** arrives and fights with the native resisters, alongside Josiah Freeman. He is later reported killed, but no body is found, and the resisters say he is still out there. **His death stays disputed in Eirion**, so the book never settles the real-world dispute over his death on Earth. |
 | 1941 | Jock Lewes arrives and joins the Cohort; he later commands its scouts. |
 | 1943 | Sophie Scholl arrives and goes into Covenant lands, spreading doubt among believers. |
 | About 1950 | Hale leaves the Bastion. A new arrival he could have reached was taken by Covenant hunters while he waited behind the walls. He joins Lewes's scouts to reach newcomers first and begins leaving notes like "Keep walking" on the trail. It mirrors Bray's Ch 2 and 3. |
@@ -96,8 +98,22 @@ Each region names a war for what it cost them; the heartland names them in the g
 - **The Purge** now targets the Gate seekers, tying Attila's title to the series' central mystery.
 - **The Maid's Cohort** now falls by ruling through Joan's holiness.
 
+## The named dead and the living (review of 10/21/2026)
+
+| Figure | Status | Notes |
+|---|---|---|
+| Hannibal | Dead (War 1) | Held the rear for the first cohort. |
+| Boethius | Dead (War 3) | Keeper killed in the Burning. |
+| Babak Khorramdin | Dead (War 3) | Led the great cohort. |
+| Bambatha | Dead, disputed (War 5) | See 1906 above. |
+| Tupac Amaru II | **Alive** | Envoy of the marches clans to the immortals. A few scenes in Book 1 (for example, he puts Dravik's condition into words in Ch 4 and witnesses the Ch 17 broken word); a larger role in Books 2 and 3. He serves the natives, chosen by them, never their ruler. |
+| Cetshwayo | **Cut** | The author's call: he does not fit. |
+| Rani Lakshmibai | Dead, earlier; manner **Open** | Need not mirror her Earth death. Options on the table: legend versus truth (glorious cavalry death in the telling, a fever in the records), dying to get a native heir out through the haze, or killed opposing an earlier Cohort overreach. |
+
 ## Open items
 
+- [ ] **Open rule question:** does dying of natural causes rule someone out of crossing? If it did, it would affect Napoleon and Alexander (both died of illness) and dossier figures such as the Mahdi, Timur, Qin Shi Huang, and Yaa Asantewaa. Recommended: no rule; the presence chooses unfinished lives however they ended.
+- [ ] **Tupac Amaru and the Cohort's "destruction":** the Last Cohort has not been destroyed. If it is destroyed in Book 2 or 3, his leaving it early foreshadows that. Confirm.
 - [ ] **The named dead.** Which Eternal Ones died in each war besides Hannibal, Boethius, and Babak? Slots are open for figures from the [wider-cast dossier](07-wider-cast-dossier.md) (paused while the author reviews).
 - [x] **The keeper and the great cohort:** Boethius, and Babak Khorramdin.
 - [x] **The natives' names:** see the table above.

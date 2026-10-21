@@ -63,6 +63,12 @@
 | Wider cast | Paused until the faction structure settles. Then a research dossier on each candidate (who they were, why they fit, what they represent, sources to review). Add one or two only if each has a real plot job. Candidates so far: José Rizal, Tupac Amaru II, Rani Lakshmibai, Yaa Asantewaa, Qin Shi Huang. |
 | Comparison caution | See [comparable works](08-comparable-works.md). Joan appears in *Drifters* as a villain; make this version clearly distinct. |
 
+## Added from the wider-cast dossier (10/21/2026)
+
+| Character | Decision | Direction |
+|---|---|---|
+| Tupac Amaru II | Keep, alive | Envoy of the marches clans (Dravik's council) to the immortals. Left the Cohort's early warband when the clans asked him to. Speaks their language. A few scenes in Book 1; larger role in Books 2 and 3. Serves the natives, never rules them. |
+
 ## Names (decided 10/20/2026)
 
 | Character | Name | Notes |
