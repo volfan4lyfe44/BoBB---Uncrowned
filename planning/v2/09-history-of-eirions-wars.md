@@ -24,8 +24,8 @@
 - **Before:** Alexander arrives in 323 BCE and unites the native kingdoms east of the grey plain. Natives who watch him not age for a century decide he is a god, and he lets them.
 - **Crixus** arrives in 72 BCE, a year before Spartacus. On Earth he was Spartacus's fellow gladiator commander and split from him, dying separately at Mount Garganus. His age at death is not recorded.
 - **Spartacus** arrives in 71 BCE. He finds an empire built on enslaved natives. He builds the first walls of the Bastion on the high plain as a vigil for the dead and carves the inscription Bray later finds. Then he leaves, because mourning frees no one, and raises the first cohort among the enslaved.
-- **Spartacus** arrives in 71 BCE and finds Crixus already there. The two reconcile. **Vercingetorix**, the Gallic chieftain executed in Rome in 46 BCE (about 36), arrives about 25 years into the war and joins it: two men who fought Rome, now fighting Alexander.
-- **The end (about 40 BCE):** Alexander's armies trap the first cohort. **Crixus and Vercingetorix hold the rear** so Spartacus and the survivors can escape into the highlands. **Crixus dies there:** on Earth he died apart from Spartacus; here he dies so Spartacus can live. **Vercingetorix is captured and sent east.** The Gate turns him away, and he is held, alive, in the east, an echo of the six years he spent in a Roman prison before his execution. A thread for Books 2 and 3. Spartacus has carried the debt ever since.
+- **Spartacus** arrives in 71 BCE and finds Crixus already there. The two reconcile. **Vercingetorix**, the Gallic chieftain executed in Rome in 46 BCE after Caesar's triumph (about 34 to 37; birth year estimated), arrives about 25 years into the war and joins it: two men who fought Rome, now fighting Alexander.
+- **The end (about 40 BCE):** Alexander's armies trap the first cohort. **Crixus and Vercingetorix hold the rear** so Spartacus and the survivors can escape into the highlands. **Crixus dies there:** on Earth he died apart from Spartacus; here he dies so Spartacus can live. **Vercingetorix is captured and sent east.** The Gate turns him away, and he is held, alive, in the east, an echo of the six years he spent in Roman captivity before his execution (the Tullianum prison and the manner of his death are tradition, not stated in the sources). A thread for Books 2 and 3. Spartacus has carried the debt ever since.
 - **What it leaves behind:** The highland natives who hid the survivors begin the tradition of guiding new arrivals to safety. **Ishel's people still keep it.**
 
 ### War 2: The Purge (5th and 6th centuries)
@@ -38,7 +38,7 @@
 ### War 3: The Burning of the Bastion (about 1000 CE)
 
 - In the centuries after Spartacus left, souls who would not fight either side drifted to his empty fortress and built on it. It became a refuge for the waiting dead.
-- **The cause:** The keeper of the time, **Boethius** (executed on Earth in 524; author of *The Consolation of Philosophy*, a book about refuge in thought when all is lost), takes in a cohort's wounded and refuses to hand them over. Verify his dates and details against a biography.
+- **The cause:** The keeper of the time, **Boethius** (executed near Pavia in 524, though 525 and 526 are also given, in his mid to late forties; author of *The Consolation of Philosophy*, a book about refuge in thought when all is lost), takes in a cohort's wounded and refuses to hand them over. Verify his dates and details against a biography.
 - **The Burning:** The Covenant storms the Bastion and kills everyone inside, keeper and wounded alike.
 - **The great cohort:** The massacre provokes the largest cohort in centuries, led by **Babak Khorramdin** (executed on Earth in 838; see the [dossier](07-wider-cast-dossier.md)). It nearly breaks the empire before it falls, and Babak dies with it.
 - **The Accord:** Alexander learns that a burned refuge breeds rebels and a tolerated one keeps would-be rebels sitting still. He offers the next keeper the Accord: the Bastion takes no part in the war, and the Covenant never enters it.
@@ -49,8 +49,8 @@
 - **Joan of Arc** arrives in 1431 and joins the cohort of her time.
 - The cohort wins a region in the marches. Natives there take Joan for holy, and she lets them.
 - **The fall:** The cohort begins ruling the region through the natives' belief in her. It governs in her name. Breaking its word to the natives and her holiness are the same event. The natives withdraw their support, and Alexander destroys the cohort to remove a rival god.
-- **Jan Hus** (burned in 1415 at about 45 for refusing to recant) warns the cohort against ruling through Joan's holiness. He is ignored. Two people burned on Earth for their faith stand on opposite sides of the cohort's mistake.
-- **Wat Tyler** (leader of the English Peasants' Revolt, killed during a parley with the king in 1381 at about 40) commands in the cohort and knows the clans are being ruled. **Both Hus and Tyler die when the cohort falls.** Tyler's death at a parley on Earth foreshadows Toussaint's parley in Book 1.
+- **Jan Hus** (burned at Constance on 07/06/1415, in his early to mid forties, for refusing to recant) warns the cohort against ruling through Joan's holiness. He is ignored. Two people burned on Earth for their faith stand on opposite sides of the cohort's mistake.
+- **Wat Tyler** (leader of the English Peasants' Revolt, killed during a parley with Richard II at Smithfield on 06/15/1381; age unknown) commands in the cohort and knows the clans are being ruled. **Both Hus and Tyler die when the cohort falls.** Tyler's death at a parley on Earth foreshadows Toussaint's parley in Book 1.
 - **Joan survives.** Her quiet guilt: she used belief the way Alexander does.
 - **What it leaves behind:** Two lessons in one history: cohorts that rule die, and so do immortals who let themselves be worshipped. Spartacus and Joan have seen the Book 1 midpoint before, and they repeat it anyway.
 - **Placement rule:** The reveal comes after the Ch 17 midpoint (for example, Hale learns it in Ch 18) so the midpoint is not spoiled.
@@ -137,9 +137,44 @@ Each region names a war for what it cost them; the heartland names them in the g
 - [x] **Rule: manner of death (decided 10/21/2026).** Any death qualifies, natural causes included. Alexander, Napoleon, and the Mahdi stay possible.
 - [ ] **Tupac Amaru and the Cohort's "destruction":** the Last Cohort has not been destroyed. If it is destroyed in Book 2 or 3, his leaving it early foreshadows that. Confirm.
 - [x] **The named dead.** Reviewed 10/21/2026 (see the table above). War 2: Julian, with the rest unnamed. War 4: Hus and Tyler.
-- [ ] **Source checks** for the figures added outside the dossier: Crixus, Vercingetorix, Boethius, Julian the Apostate, Jan Hus, Wat Tyler. Confirm dates, ages, and any overlap with comparable works.
+- [x] **Source checks** done 10/21/2026 (see below). Two items still need a direct look: the squire's name in the Anonimalle Chronicle (Tyler) and the current death year in the Stanford entry on Boethius.
 - [x] **The keeper and the great cohort:** Boethius, and Babak Khorramdin.
 - [x] **The natives' names:** see the table above.
 - [ ] **Attila and Charles XII** are on hold, alive in the Covenant. Confirm when Book 2 is planned.
 - [x] **Why Hale left the Bastion:** an arrival he did not reach.
 - [x] **What "sent east" means:** tested at the Gate (private).
+
+## Source checks (10/21/2026)
+
+Checked by web search only; page access was blocked. Open each source before quoting it on the page.
+
+| Figure | Verified death | Age at death | Age rule | Overlap |
+|---|---|---|---|---|
+| Crixus | 72 BCE, Mount Garganus | Unknown | Passes (presumed) | Starz *Spartacus* (dies differently there) |
+| Vercingetorix | 46 BCE, Rome, after Caesar's triumph | About 34 to 37 | Passes | HBO *Rome*; Spinrad, *The Druid King* |
+| Boethius | 524 (525 or 526 also given), near Pavia | About 44 to 51 | Passes | None found |
+| Julian the Apostate | 06/26/363, near Samarra | 31 | Passes | Vidal, *Julian* |
+| Jan Hus | 07/06/1415, Constance | About 42 to 46 | Passes | None found |
+| Wat Tyler | 06/15/1381, Smithfield | Unknown | Borderline only because unknown | None found |
+
+**Notes for the page:**
+- **Crixus:** Appian credits a consul with the victory at Garganus; Livy credits the praetor Quintus Arrius. Plutarch does not name Crixus. Sources disagree on the size of his force (3,000, 20,000, or 30,000).
+- **Vercingetorix:** a French national hero. Do not make him a captive with no agency. Whether he died in 46 or 45 BCE, and how, is contested.
+- **Boethius:** venerated locally as a saint at Pavia (unverified); read both as a Christian martyr and as a Neoplatonist philosopher.
+- **Julian:** who threw the spear is unknown. "Vicisti, Galilaee" first appears in Theodoret, about 429; do not present it as fact.
+- **Jan Hus:** high sensitivity. A Czech national hero (07/06 is a public holiday) and a Protestant forerunner; in 1999 Pope John Paul II expressed "deep regret" for his death. He was arrested despite Sigismund's safe conduct. Caricature neither Hus nor the Council.
+- **Wat Tyler:** the accounts of his killing are partisan (Walworth's side). Present the killing as disputed.
+
+**Sources:**
+- Appian, *The Civil Wars* 1.116 to 117, trans. Horace White (1899). https://cts.perseids.org/read/greekLit/tlg0551/tlg017/perseus-eng2/1.13.115-1.14.118
+- Livy, *Periochae* 96, trans. Jona Lendering. https://www.livius.org/sources/content/livy/livy-periochae-96-100/
+- Barry Strauss, *The Spartacus War* (Simon & Schuster, 2009).
+- Caesar, *The Gallic War* 7.89, trans. McDevitte and Bohn (1869). https://fgh.perseids.org/read/latinLit/phi0448/phi001/perseus-eng2/7.84-7.90
+- Cassius Dio, *Roman History* 43.19, trans. Earnest Cary (Loeb). https://lexundria.com/dio/43.19/cy
+- Boethius, *The Consolation of Philosophy*, trans. H. R. James (1897). https://www.gutenberg.org/ebooks/14328
+- John Marenbon, "Boethius," *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/boethius/
+- Ammianus Marcellinus, *Res Gestae* 25.3, trans. J. C. Rolfe (Loeb). https://cts.perseids.org/read/latinLit/stoa0023/stoa001/perseus-eng2/25.3.1-25.3.21
+- G. W. Bowersock, *Julian the Apostate* (Harvard University Press, 1978).
+- Matthew Spinka, trans., *John Hus at the Council of Constance* (Columbia University Press, 1965). Eyewitness account by Peter of Mladoňovice.
+- *Anonimalle Chronicle*, trans. in Charles Oman, *The Great Revolt of 1381* (1906). https://sourcebooks.web.fordham.edu/source/anon1381.asp
+- Juliet Barker, *England, Arise* (2014; US title *1381: The Year of the Peasants' Revolt*).
