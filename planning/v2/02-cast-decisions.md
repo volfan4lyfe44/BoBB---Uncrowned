@@ -20,7 +20,7 @@
 | Napoleon | Keep, refine | Book 1's on-page antagonist. Keep the Toussaint rematch. His offer must be truly tempting. |
 | Erwin Rommel | Hold, rewrite | Later book only. The story dismantles the "clean general" myth he tells himself. |
 | Stonewall Jackson | Hold, rewrite | Later book only. If the letters idea returns, his faith is shown in service of slavery, not admired. |
-| Hannibal | Dead in Eirion (10/20/2026) | Died in one of Eirion's earlier wars. A remembered name, never on the page. Keeps a non-European figure in Eirion's history while avoiding the *Drifters* and *Tengen Hero Wars* overlap. Place him in the history of Eirion's wars. |
+| Hannibal | **Cut** (10/21/2026, age rule) | Died at about 64, old for his era. Crixus and Vercingetorix take his place in the first cohort's last stand. See [history of Eirion's wars](09-history-of-eirions-wars.md). |
 | Charles XII | Hold | Named only. Thread unclear. |
 | Attila | Hold | Named only. "Scourge of the Gate" may matter in Books 2 and 3. |
 
@@ -61,6 +61,7 @@
 |---|---|
 | The presence | Speaks only in the death interludes. Never explains itself. Refuses to answer Bray. |
 | Wider cast | Paused until the faction structure settles. Then a research dossier on each candidate (who they were, why they fit, what they represent, sources to review). Add one or two only if each has a real plot job. Candidates so far: José Rizal, Tupac Amaru II, Rani Lakshmibai, Yaa Asantewaa, Qin Shi Huang. |
+| Age rule (10/21/2026) | Anyone old for their era at death is ruled out, however they died. Exception: Cyrus. Toussaint (59) stays, borderline. |
 | Comparison caution | See [comparable works](08-comparable-works.md). Joan appears in *Drifters* as a villain; make this version clearly distinct. |
 
 ## Added from the wider-cast dossier (10/21/2026)

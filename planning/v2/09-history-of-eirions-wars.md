@@ -13,7 +13,7 @@
 
 | # | War (Eternal name) | When | Ends with |
 |---|---|---|---|
-| 1 | The First Cohort | About 70 BCE onward | Hannibal holds the rear; Spartacus escapes |
+| 1 | The First Cohort | About 70 BCE to about 40 BCE | Crixus dies and Vercingetorix is taken holding the rear; Spartacus escapes |
 | 2 | The Purge | 5th and 6th centuries | Attila destroys those who sought the Gate |
 | 3 | The Burning of the Bastion | About 1000 CE | The refuge massacred; the great cohort falls; the Accord |
 | 4 | The Maid's Cohort | 15th century | The cohort rules through Joan's holiness and falls |
@@ -22,10 +22,10 @@
 ### War 1: The First Cohort (about 70 BCE onward)
 
 - **Before:** Alexander arrives in 323 BCE and unites the native kingdoms east of the grey plain. Natives who watch him not age for a century decide he is a god, and he lets them.
-- **Hannibal** arrives in 183 BCE and serves the Covenant for the war, not the god, for about 110 years.
+- **Crixus** arrives in 72 BCE, a year before Spartacus. On Earth he was Spartacus's fellow gladiator commander and split from him, dying separately at Mount Garganus. His age at death is not recorded.
 - **Spartacus** arrives in 71 BCE. He finds an empire built on enslaved natives. He builds the first walls of the Bastion on the high plain as a vigil for the dead and carves the inscription Bray later finds. Then he leaves, because mourning frees no one, and raises the first cohort among the enslaved.
-- **Hannibal breaks with the Covenant** to join him: a slave who fought Rome and a general who fought Rome, on the same side at last.
-- **The end:** Alexander's armies trap the first cohort. **Hannibal holds the rear** so Spartacus and the survivors can escape into the highlands. Hannibal dies there. Spartacus has carried the debt ever since.
+- **Spartacus** arrives in 71 BCE and finds Crixus already there. The two reconcile. **Vercingetorix**, the Gallic chieftain executed in Rome in 46 BCE (about 36), arrives about 25 years into the war and joins it: two men who fought Rome, now fighting Alexander.
+- **The end (about 40 BCE):** Alexander's armies trap the first cohort. **Crixus and Vercingetorix hold the rear** so Spartacus and the survivors can escape into the highlands. **Crixus dies there:** on Earth he died apart from Spartacus; here he dies so Spartacus can live. **Vercingetorix is captured and sent east.** The Gate turns him away, and he is held, alive, in the east, an echo of the six years he spent in a Roman prison before his execution. A thread for Books 2 and 3. Spartacus has carried the debt ever since.
 - **What it leaves behind:** The highland natives who hid the survivors begin the tradition of guiding new arrivals to safety. **Ishel's people still keep it.**
 
 ### War 2: The Purge (5th and 6th centuries)
@@ -83,7 +83,7 @@ Each region names a war for what it cost them; the heartland names them in the g
 | 5 | The Last Cohort | The Long Watch | The Free Years | The Western Rebellion |
 
 **Notes for the page:**
-- **The Year the Gods Bled:** the first time natives saw an Eternal die (Hannibal). The memory the Covenant would most like erased.
+- **The Year the Gods Bled:** the first time natives saw an Eternal die (Crixus). The memory the Covenant would most like erased.
 - **The Forgetting:** a people who know they were made to forget something, but not what.
 - **The Diverted River:** the cohort forced the clans off their own course through their own faith. Explain once in a native voice, for example Dravik: you don't ask a river where it wants to go; you dig a ditch and it follows.
 - **The Free Years:** proud in 1970, bitterly ironic after the Ch 17 broken word.
@@ -92,7 +92,7 @@ Each region names a war for what it cost them; the heartland names them in the g
 ## Changes from the v1 history
 
 - **The Uncrowned do not grow out of the Bastion over centuries.** In v2 they do not exist until Book 1. The Bastion is a refuge only.
-- **Hannibal** no longer lives in the Covenant. He dies holding the rear for the first cohort.
+- **Hannibal** is cut by the age rule (died at about 64). **Crixus and Vercingetorix** take his place in the first cohort's last stand.
 - **Stonewall Jackson and Erwin Rommel** are removed from this history while they are on hold. If they return in a later book, their arrivals (1863 and 1944) can be added.
 - **Sophie Scholl** goes into Covenant lands, not the Bastion, so she no longer pushes Hale to leave.
 - **The Purge** now targets the Gate seekers, tying Attila's title to the series' central mystery.
@@ -102,7 +102,9 @@ Each region names a war for what it cost them; the heartland names them in the g
 
 | Figure | Status | Notes |
 |---|---|---|
-| Hannibal | Dead (War 1) | Held the rear for the first cohort. |
+| Crixus | Dead (War 1) | Held the rear for the first cohort. |
+| Vercingetorix | **Alive, held in the east** (since War 1) | Captured holding the rear, sent east, turned away by the Gate. Books 2 and 3. |
+| Hannibal | **Cut** (age rule) | Died at about 64. |
 | Boethius | Dead (War 3) | Keeper killed in the Burning. |
 | Babak Khorramdin | Dead (War 3) | Led the great cohort. |
 | Bambatha | Dead, disputed (War 5) | See 1906 above. |
@@ -115,14 +117,20 @@ Each region names a war for what it cost them; the heartland names them in the g
 | Emiliano Zapata | Hold | Alive; saved for a later book. |
 | Yaa Asantewaa | **Cut** | Too old: she died around 80, and Eternals do not age. |
 | Dinuzulu | **Cut** | His ties (Cetshwayo, Bambatha) are gone. |
-| Rani Lakshmibai | Dead, earlier; manner **Open** | Need not mirror her Earth death. Options on the table: legend versus truth (glorious cavalry death in the telling, a fever in the records), dying to get a native heir out through the haze, or killed opposing an earlier Cohort overreach. |
+| Timur | **Cut** (age rule) | Died at about 68. |
+| José Rizal | Hold for Book 2 | Alive; the Covenant scholar who later defects. |
+| The Mahdi | **Living candidate** | For the role facing Gordon, still paused. |
+| Amir Kabir | **Cut** | Rizal fills the role with less sensitivity. |
+| Tahirih | **Cut** | High sensitivity; Scholl carries resistance by words. |
+| Shaka | **Cut** | High stereotype risk; Bambatha carries the Zulu thread. |
+| Rani Lakshmibai | Dead, before 1970 | **Legend versus truth:** the marches clans tell it as a glorious cavalry death; the Bastion's records say she died of fever in a winter camp. Legends turning immortals into heroes is the same process Alexander exploits, and it echoes how her real image has been fought over. |
 
 ## Open items
 
-- [ ] **Open rule question (age):** the author cut Yaa Asantewaa as too old at death. Is age at death a guideline? It would affect Timur (about 68). Cyrus avoids it by never appearing.
-- [ ] **Open rule question:** does dying of natural causes rule someone out of crossing? If it did, it would affect Napoleon and Alexander (both died of illness) and dossier figures such as the Mahdi, Timur, Qin Shi Huang, and Yaa Asantewaa. Recommended: no rule; the presence chooses unfinished lives however they ended.
+- [x] **Rule: age at death (decided 10/21/2026).** Anyone old for their era is ruled out, however they died, because Eirion is for lives cut short. **Exception by the author's choice: Cyrus** (his crossing of the Gate stands). **Toussaint** (59) stays as a borderline case. Cut under this rule: Hannibal, Timur, Yaa Asantewaa.
+- [x] **Rule: manner of death (decided 10/21/2026).** Any death qualifies, natural causes included. Alexander, Napoleon, and the Mahdi stay possible.
 - [ ] **Tupac Amaru and the Cohort's "destruction":** the Last Cohort has not been destroyed. If it is destroyed in Book 2 or 3, his leaving it early foreshadows that. Confirm.
-- [ ] **The named dead.** Which Eternal Ones died in each war besides Hannibal, Boethius, and Babak? Slots are open for figures from the [wider-cast dossier](07-wider-cast-dossier.md) (paused while the author reviews).
+- [ ] **The named dead.** Reviewed 10/21/2026 (see the table above). Wars 2 and 4 still have no named dead besides Attila's victims and Joan's survivors; fill with fictional or unnamed Eternals as needed.
 - [x] **The keeper and the great cohort:** Boethius, and Babak Khorramdin.
 - [x] **The natives' names:** see the table above.
 - [ ] **Attila and Charles XII** are on hold, alive in the Covenant. Confirm when Book 2 is planned.
