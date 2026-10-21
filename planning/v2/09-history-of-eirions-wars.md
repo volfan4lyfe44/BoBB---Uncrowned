@@ -31,7 +31,8 @@
 ### War 2: The Purge (5th and 6th centuries)
 
 - A movement grows among natives and Eternals who have heard rumors of a way out of Eirion: the Gate.
-- **Attila** arrives in 453. Alexander sends him to destroy the movement and every trace of the rumor. This is how he earned his title, "the Scourge of the Gate."
+- **The leader: Julian the Apostate.** The Roman emperor, killed in battle in Persia in 363 at 31, arrives and spends about 90 years in Eirion seeking old mysteries and hidden truths. He gathers the rumor of a way out into a movement of natives and Eternals.
+- **Attila** arrives in 453. Alexander sends him to destroy the movement and every trace of the rumor. This is how he earned his title, "the Scourge of the Gate." **Julian dies in the Purge.** The rest of its dead are unnamed: the Forgetting erased their names, which is what the highland name for this war remembers.
 - **What it leaves behind:** The first sign that Alexander fears the Gate. Most Eternals today believe the Gate is a myth, because the Purge made sure they would. (Pays off in Books 2 and 3.)
 
 ### War 3: The Burning of the Bastion (about 1000 CE)
@@ -48,6 +49,8 @@
 - **Joan of Arc** arrives in 1431 and joins the cohort of her time.
 - The cohort wins a region in the marches. Natives there take Joan for holy, and she lets them.
 - **The fall:** The cohort begins ruling the region through the natives' belief in her. It governs in her name. Breaking its word to the natives and her holiness are the same event. The natives withdraw their support, and Alexander destroys the cohort to remove a rival god.
+- **Jan Hus** (burned in 1415 at about 45 for refusing to recant) warns the cohort against ruling through Joan's holiness. He is ignored. Two people burned on Earth for their faith stand on opposite sides of the cohort's mistake.
+- **Wat Tyler** (leader of the English Peasants' Revolt, killed during a parley with the king in 1381 at about 40) commands in the cohort and knows the clans are being ruled. **Both Hus and Tyler die when the cohort falls.** Tyler's death at a parley on Earth foreshadows Toussaint's parley in Book 1.
 - **Joan survives.** Her quiet guilt: she used belief the way Alexander does.
 - **What it leaves behind:** Two lessons in one history: cohorts that rule die, and so do immortals who let themselves be worshipped. Spartacus and Joan have seen the Book 1 midpoint before, and they repeat it anyway.
 - **Placement rule:** The reveal comes after the Ch 17 midpoint (for example, Hale learns it in Ch 18) so the midpoint is not spoiled.
@@ -103,6 +106,9 @@ Each region names a war for what it cost them; the heartland names them in the g
 | Figure | Status | Notes |
 |---|---|---|
 | Crixus | Dead (War 1) | Held the rear for the first cohort. |
+| Julian the Apostate | Dead (War 2) | Led the Gate seekers; killed in the Purge. |
+| Jan Hus | Dead (War 4) | Warned against ruling through Joan's holiness. |
+| Wat Tyler | Dead (War 4) | Cohort commander; died when it fell. |
 | Vercingetorix | **Alive, held in the east** (since War 1) | Captured holding the rear, sent east, turned away by the Gate. Books 2 and 3. |
 | Hannibal | **Cut** (age rule) | Died at about 64. |
 | Boethius | Dead (War 3) | Keeper killed in the Burning. |
@@ -130,7 +136,8 @@ Each region names a war for what it cost them; the heartland names them in the g
 - [x] **Rule: age at death (decided 10/21/2026).** Anyone old for their era is ruled out, however they died, because Eirion is for lives cut short. **Exception by the author's choice: Cyrus** (his crossing of the Gate stands). **Toussaint** (59) stays as a borderline case. Cut under this rule: Hannibal, Timur, Yaa Asantewaa.
 - [x] **Rule: manner of death (decided 10/21/2026).** Any death qualifies, natural causes included. Alexander, Napoleon, and the Mahdi stay possible.
 - [ ] **Tupac Amaru and the Cohort's "destruction":** the Last Cohort has not been destroyed. If it is destroyed in Book 2 or 3, his leaving it early foreshadows that. Confirm.
-- [ ] **The named dead.** Reviewed 10/21/2026 (see the table above). Wars 2 and 4 still have no named dead besides Attila's victims and Joan's survivors; fill with fictional or unnamed Eternals as needed.
+- [x] **The named dead.** Reviewed 10/21/2026 (see the table above). War 2: Julian, with the rest unnamed. War 4: Hus and Tyler.
+- [ ] **Source checks** for the figures added outside the dossier: Crixus, Vercingetorix, Boethius, Julian the Apostate, Jan Hus, Wat Tyler. Confirm dates, ages, and any overlap with comparable works.
 - [x] **The keeper and the great cohort:** Boethius, and Babak Khorramdin.
 - [x] **The natives' names:** see the table above.
 - [ ] **Attila and Charles XII** are on hold, alive in the Covenant. Confirm when Book 2 is planned.
