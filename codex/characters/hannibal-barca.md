@@ -67,3 +67,9 @@ fields: {}
 ## 🧠 Summary in a Sentence
 
 > **Hannibal Barca is the warlord whose brilliance was never allowed to finish its arc—now, in Eirion, he fights not for Alexander’s dream, but for his own reckoning with history.**
+
+---
+
+### Status (rethink v2, 10/21/2026)
+
+**Cut from the series.** Under the age rule, anyone old for their era at death does not cross into Eirion; Hannibal died at about 64. His place in the first cohort's last stand goes to Crixus and Vercingetorix. See `planning/v2/09-history-of-eirions-wars.md`. This entry is kept for reference only.

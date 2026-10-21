@@ -75,3 +75,10 @@ He does not march for glory. He **moves to crack the walls** others called desti
 ## 🧠 Summary in a Sentence
 
 > **Spartacus is not a leader of nations, but a breaker of cages—a man who burned once in life, and now carries the fire into the world that tried to bury it.**
+
+---
+
+### Open for discussion (rethink v2, 10/20/2026)
+
+- **Possibility, not decided:** Spartacus as an old warrior tired of bloodshed. He has buried every cohort Alexander destroyed over 2,000 years, which is why this one is the *Last* Cohort. If adopted, his weariness could be why the Cohort breaks its word at the Book 1 midpoint: he garrisons the town so there will be no more battles and no more burials. Mercy turning into rule. See `planning/v2/05-beat-sheet.md`, Ch 17.
+- **Decided:** Spartacus built the Bastion of Broken Banners to mourn the dead, then left when mourning freed no one, and founded the first cohort. The cave inscription Bray reads ("This will be my eternal vigil. A monument to the failures of men.") is his. It gives him a personal reason to distrust those who sit and wait, Gordon included.
