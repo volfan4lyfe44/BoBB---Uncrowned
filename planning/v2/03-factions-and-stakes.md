@@ -37,7 +37,7 @@
 
 ## What this changes in existing material
 
-- Shaw's gate line, "We've been waiting for you," assumes an existing group. Rework or reassign it.
+- Shaw's gate line: replaced with "Which of you brought the other?" See the [gathering map](04-gathering-map.md).
 - Gordon as long-time keeper of the Bastion still works: he keeps the refuge, not the Uncrowned.
 - The Codex entry for the Uncrowned describes an existing faction. It needs rewriting once Book 1 is outlined.
 - Hale's move from the Bastion to the Cohort still works as one of the "various avenues."

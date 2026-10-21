@@ -23,7 +23,7 @@
 | 2 | Bray | Wakes on the grey plain. Covenant hunters take him and a Vietnamese soldier who died in the same war. |
 | 3 | Watcher | The watcher's people guide arrivals to the refuge. The watcher gets Bray out through the haze. The Vietnamese soldier is left behind. |
 | 4 | Toussaint | The Cohort and the river lord negotiate in the marches. His condition: the Cohort rules no one afterward. Spartacus agrees. Toussaint vouches for him. Napoleon's army is coming. |
-| 5 | Bray | Opens with Shaw's death interlude. Shaw, on patrol, meets Bray and the watcher. The road to the Bastion. |
+| 5 | Bray | Opens with Shaw's death interlude. The road to the Bastion with Ishel. At the gate, Shaw asks them both: "Which of you brought the other?" Bray answers that she did. |
 | 6 | Bray | The Bastion of Broken Banners: a refuge of the waiting dead. Bray finds Hale's "Keep walking" note. Gordon's rule: no one here takes part. |
 | 7 | Gordon | Opens with Gordon's death interlude (Khartoum). Gordon as keeper. He sees in Bray the restlessness he buried. A Covenant envoy asks for the escaped arrival. Gordon refuses, on neutrality grounds only. |
 | 8 | Bray | **End of Act 1.** Bray and Shaw, with the watcher, go down to a native village at the plain's edge. The colonel clears it to punish villages that help the resisters. Thompson's order again, from the other side. Bray acts, too late to save most of them. |

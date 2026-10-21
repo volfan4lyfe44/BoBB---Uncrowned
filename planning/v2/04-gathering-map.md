@@ -25,7 +25,7 @@ Book 1 is the story of how the Uncrowned form. Each squad member arrived in Eiri
 - **Meets Bray:** Through both roles: on patrol and at the gate. Exact first meeting to be placed in the outline.
 - **Role in the call to action:** First in the Bastion to side with Bray. He breaks with Gordon, his closest friend, to do it. That break is the emotional cost of the first act.
 - **Motive:** The 54th sergeant. What happens to the sergeant, or to natives under Alexander, shows Shaw he has been waiting while others pay the cost. The sergeant is a man with his own choices, not Shaw's lesson.
-- **Gate line:** The author writes a new line to replace "We've been waiting for you." It greets a stranger to a refuge, not a recruit to a group.
+- **Shaw's gate line (decided 10/21/2026):** "Which of you brought the other?" Spoken at the Bastion's gate, quiet and formal, to Bray and Ishel together. Ishel cannot understand his English (no Eternal speech reaches natives without learning), so only Bray can answer, and his answer credits her ("She did."). Shaw already suspects the answer; asking is his courtesy to her. Replaces "We've been waiting for you."
 
 ## Nathan Hale
 
@@ -93,7 +93,7 @@ Book 1 is the story of how the Uncrowned form. Each squad member arrived in Eiri
 
 ## Open items
 
-- [ ] Shaw's new gate line (author writes).
+- [x] Shaw's gate line: "Which of you brought the other?"
 - [x] Names: Ishel (watcher), Nguyễn Văn Hải (Vietnamese Eternal), Josiah Freeman (54th sergeant), Andros (clerk), Dravik (river lord), Lucien Marchal (colonel). See [cast decisions](02-cast-decisions.md#names-decided-10202026).
 - [ ] Where the Vietnamese Eternal goes after release (Cohort, or their own path).
 - [ ] Wider-cast research dossier, now that the structure is set.
