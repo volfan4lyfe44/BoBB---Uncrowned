@@ -108,10 +108,18 @@ Each region names a war for what it cost them; the heartland names them in the g
 | Bambatha | Dead, disputed (War 5) | See 1906 above. |
 | Tupac Amaru II | **Alive** | Envoy of the marches clans to the immortals. A few scenes in Book 1 (for example, he puts Dravik's condition into words in Ch 4 and witnesses the Ch 17 broken word); a larger role in Books 2 and 3. He serves the natives, chosen by them, never their ruler. |
 | Cetshwayo | **Cut** | The author's call: he does not fit. |
+| Cyrus the Great | **Crossed the Gate willingly** (before War 1) | Arrived 530 BCE. Long before Alexander came, he walked east and never returned: the first to cross by choice. The legend the Gate seekers followed and the Purge tried to erase. Alexander admired him on Earth and in Eirion can never follow him. Never on the page. |
+| Darius III | **The first sent east** (about 320 BCE) | Arrived 330 BCE. Alexander captured him and sent him east, the first soul tested at the Gate. It accepted him and he vanished. This is how Alexander learned the Gate is real. The hidden origin of "sent east." Never on the page. |
+| Qin Shi Huang | Dead: a rival god (about 2nd century BCE) | Arrived 210 BCE and claimed to be a god-emperor. Alexander destroyed him, the first rival god, a pattern repeated with Joan in War 4. |
+| Zumbi dos Palmares | Hold | Alive; saved for a later book. Still a candidate for the midpoint walkout if needed. |
+| Emiliano Zapata | Hold | Alive; saved for a later book. |
+| Yaa Asantewaa | **Cut** | Too old: she died around 80, and Eternals do not age. |
+| Dinuzulu | **Cut** | His ties (Cetshwayo, Bambatha) are gone. |
 | Rani Lakshmibai | Dead, earlier; manner **Open** | Need not mirror her Earth death. Options on the table: legend versus truth (glorious cavalry death in the telling, a fever in the records), dying to get a native heir out through the haze, or killed opposing an earlier Cohort overreach. |
 
 ## Open items
 
+- [ ] **Open rule question (age):** the author cut Yaa Asantewaa as too old at death. Is age at death a guideline? It would affect Timur (about 68). Cyrus avoids it by never appearing.
 - [ ] **Open rule question:** does dying of natural causes rule someone out of crossing? If it did, it would affect Napoleon and Alexander (both died of illness) and dossier figures such as the Mahdi, Timur, Qin Shi Huang, and Yaa Asantewaa. Recommended: no rule; the presence chooses unfinished lives however they ended.
 - [ ] **Tupac Amaru and the Cohort's "destruction":** the Last Cohort has not been destroyed. If it is destroyed in Book 2 or 3, his leaving it early foreshadows that. Confirm.
 - [ ] **The named dead.** Which Eternal Ones died in each war besides Hannibal, Boethius, and Babak? Slots are open for figures from the [wider-cast dossier](07-wider-cast-dossier.md) (paused while the author reviews).

@@ -7,7 +7,11 @@
 - **Babak Khorramdin:** Dead in Eirion. He led the great cohort after the Burning of the Bastion and died with it. See the [history of Eirion's wars](09-history-of-eirions-wars.md).
 - **Tupac Amaru II:** Alive. Envoy of the marches clans; a few scenes in Book 1, larger in Books 2 and 3.
 - **Bambatha:** Dead in Eirion, death disputed.
-- **Cetshwayo:** Cut.
+- **Cetshwayo, Yaa Asantewaa, Dinuzulu:** Cut.
+- **Zumbi, Zapata:** Hold for a later book.
+- **Cyrus:** Crossed the Gate willingly, before Alexander arrived.
+- **Darius III:** The first sent east; accepted by the Gate.
+- **Qin Shi Huang:** Dead in Eirion, destroyed by Alexander as a rival god.
 - **Rani Lakshmibai:** Dead in Eirion before 1970; manner open.
 - **Boethius** (not researched here): keeper of the Bastion, killed in the Burning. Needs a source check.
 - **Gordon's reckoning, the midpoint walkout, and the Eirion dead:** Paused while the author reviews more non-Western candidates.
